@@ -1,10 +1,10 @@
 # private files
 bcs_api-final.ipynb 
-gradebook.db   
 login-flask.db  
 utility.db  
 Archive/
 Archive/*
+github-api.py
 
 
 # local files
