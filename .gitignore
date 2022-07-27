@@ -1,3 +1,16 @@
+# private files
+bcs_api-final.ipynb 
+gradebook.db   
+login-flask.db  
+utility.db  
+Archive/
+Archive/*
+
+
+# local files
+.DS_Store
+desktop.ini 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
