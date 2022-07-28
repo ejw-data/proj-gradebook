@@ -62,16 +62,17 @@ The data files (CSV files and SQLite files) in this repo are fake and designed b
 The user interace for the application is made with the Bootstrap5 framework with Plotly charts.  Since many parts of the website are repeated, flask templates and flask template parts were used so page element were modular.  In in a similar manner, javascript functions were made that generate the plot based on the plot type.  This will aid with future modifications and site consistency.  
 
 The flask webpages can be found in the `templates` folder.  There are currently five pages including:  
-    *  index.html
-    *  class.html
-    *  session.html
-    *  student.html
-    *  unit.html  
+*  `index.html` 
+*  `class.html`  
+*  `session.html`  
+*  `student.html`  
+*  `unit.html`   
 
-Repeated page elements are found in the [base template](https://flask.palletsprojects.com/en/2.1.x/tutorial/templates/) page:  layouts.html
-    *  Currently, data is connected to each page through the `data.js` referce but the `unit.html` page uses only flask API data.
-    *  Functions for plotting are connected to each page through the `myChart.js` reference.  
-    *  The modals are connected to the page through the `myModal.js` reference.    
+Repeated page elements are found in the [base template](https://flask.palletsprojects.com/en/2.1.x/tutorial/templates/) page:  `layouts.html`  
+
+*  Currently, data is connected to each page through the `data.js` referce but the `unit.html` page uses only flask API data.
+*  Functions for plotting are connected to each page through the `myChart.js` reference.  
+*  The modals are connected to the page through the `myModal.js` reference.    
 
 Charts are added through `flask macros` in coordination with `javascript functions`.   
 
