@@ -1,0 +1,79 @@
+<header class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
+    <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3" href="/">Bootcamp Tracker</a>
+    <button class="navbar-toggler position-absolute d-md-none collapsed" type="button" data-bs-toggle="collapse"
+        data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="form-control form-control-dark w-100 p-4"></div>
+    <div class="navbar-nav">
+        <div class="nav-item text-nowrap">
+            <a class="nav-link px-3" data-bs-toggle="modal" data-bs-target="#connectionModal" href="#">Connection</a>
+            <!-- <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal"
+                data-bs-whatever="@mdo">Open modal for @mdo</button> -->
+            <div class="modal fade" id="connectionModal" tabindex="-1" aria-labelledby="connectionModalLabel"
+                aria-hidden="true" data-bs-backdrop="static" data-bs-keyboard="false">
+
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <i class="ion-android-alert mr-1" aria-hidden="true"></i>
+                            <h5 class="modal-title" id="connectionModalLabel">Connect to BootcampSpot API</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+
+                            <form action="/modalsubmit" method="POST">
+                                <div class="mb-3">
+                                    <label for="recipient-name" class="col-form-label">User Name:</label>
+                                    <input type="text" class="form-control" id="user-name" name="user">
+                                </div>
+                                <div class="mb-3">
+                                    <label for="password-text" class="col-form-label">Password:</label>
+                                    <input type="password" class="form-control" id="user-password"
+                                        name="password"></textarea>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary"
+                                        data-bs-dismiss="modal">Close</button>
+                                    <button id="modalSubmit" type="submit" class="btn btn-primary"
+                                        data-bs-target="#exampleModalToggle2" data-bs-toggle="modal"
+                                        data-bs-dismiss="modal">Update</button>
+                                </div>
+                            </form>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="modal fade" id="exampleModalToggle2" aria-hidden="true"
+                aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <i class="ion-android-alert mr-1" aria-hidden="true"></i>
+                            <h5 class="modal-title" id="exampleModalToggleLabel2">Connection Test</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            Connecting to BootcampSpot.
+                            <div class="progress" style="height: 20px;">
+                                <div id="connectionStatus"
+                                    class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
+                                    aria-valuenow="5" aria-valuemin="0" aria-valuemax="100" style="width: 0%"></div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button id="updateComplete" type="button" class="btn btn-secondary"
+                                data-bs-dismiss="modal">Close</button>
+                            <button class="btn btn-primary" data-bs-target="#connectionModal" data-bs-toggle="modal"
+                                data-bs-dismiss="modal">Change Password</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>

@@ -1,0 +1,85 @@
+unit_id,cohort_id,unit_number,unit_name,unit_start,unit_due,hw_submissions,students_enrolled,unit_required,context_code,career_assignment_bool,submitted_assignments,graded_assignments
+211085,1,1,0: Data Prework,2021-02-03 6:00:00,2021-02-04 5:59:59,12,28,FALSE,academic,FALSE,hold,12
+212070,1,2,Intro to Career Services: Employer-Ready vs Em...,2021-02-03 6:00:00,2021-02-11 5:59:59,0,28,FALSE,career,TRUE,hold,0
+213030,1,3,1. Excel Homework,2021-02-02 6:00:00,2021-02-14 5:59:59,23,28,TRUE,academic,FALSE,hold,23
+214096,1,4,2. Visual Basic Homework,2021-02-09 6:00:00,2021-02-21 4:59:59,23,26,TRUE,academic,FALSE,hold,23
+215023,1,5,3. Python Homework,2021-02-16 6:00:00,2021-02-28 5:59:59,23,26,TRUE,academic,FALSE,hold,23
+216022,1,6,4. Pandas Homework,2021-02-23 6:00:00,2021-03-07 5:59:59,23,25,TRUE,academic,FALSE,hold,23
+217066,1,7,5. Matplotlib Homework,2021-03-02 6:00:00,2021-03-14 5:59:59,23,25,TRUE,academic,FALSE,hold,23
+218097,1,8,Milestone: Pave Your Pathway,2021-03-03 6:00:00,2021-03-18 5:59:59,0,25,FALSE,career,TRUE,hold,0
+219089,1,9,6. Python APIs Homework,2021-03-09 6:00:00,2021-03-21 5:59:59,22,24,TRUE,academic,FALSE,hold,22
+220002,1,10,Project 1,2021-03-16 6:00:00,2021-03-28 5:59:59,22,24,TRUE,academic,FALSE,hold,22
+221064,1,11,9. SQL Homework,2021-03-30 6:00:00,2021-04-11 5:59:59,22,24,TRUE,academic,FALSE,hold,22
+222074,1,12,10. SQLAlchemy Homework,2021-04-06 6:00:00,2021-04-18 5:59:59,22,23,TRUE,academic,FALSE,hold,22
+223013,1,13,Milestone: Develop Your Resume,2021-04-07 6:00:00,2021-04-22 5:59:59,0,23,FALSE,career,TRUE,hold,0
+224064,1,14,11. HTML and CSS Homework,2021-04-13 6:00:00,2021-04-25 5:59:59,21,23,TRUE,academic,FALSE,hold,21
+226020,1,16,ETL Project,2021-04-27 6:00:00,2021-05-05 5:59:59,22,22,TRUE,academic,FALSE,hold,22
+225090,1,15,12. Web Scraping and Mongo Homework,2021-04-20 6:00:00,2021-05-05 5:59:59,21,22,TRUE,academic,FALSE,hold,21
+239039,1,29,14. Javascript Homework,2021-05-06 6:00:00,2021-05-19 5:59:59,22,22,TRUE,academic,FALSE,hold,22
+228067,1,18,15. Plot.ly Homework,2021-05-13 6:00:00,2021-05-26 5:59:59,22,22,TRUE,academic,FALSE,hold,22
+240031,1,30,16. D3.js Homework,2021-05-20 6:00:00,2021-06-02 5:59:59,22,22,TRUE,academic,FALSE,hold,22
+230002,1,20,Milestone: Polish Your Online Presence,2021-05-19 6:00:00,2021-06-03 5:59:59,0,22,FALSE,career,TRUE,hold,0
+231056,1,21,17. Geo-mapping Homework,2021-06-03 6:00:00,2021-06-18 5:59:59,20,22,TRUE,academic,FALSE,hold,20
+232095,1,22,Project 3,2021-06-12 6:00:00,2021-06-25 5:59:59,19,22,TRUE,academic,FALSE,hold,19
+233014,1,23,Milestone: Employer-Ready,2021-06-16 6:00:00,2021-07-01 5:59:59,0,22,FALSE,career,TRUE,hold,0
+234086,1,24,18. Tableau Homework,2021-06-19 6:00:00,2021-07-02 5:59:59,22,22,TRUE,academic,FALSE,hold,22
+235060,1,25,21. Machine Learning,2021-06-24 6:00:00,2021-07-09 5:59:59,8,22,TRUE,academic,FALSE,hold,8
+236074,1,26,22. Big Data Homework,2021-07-01 6:00:00,2021-07-16 5:59:59,3,22,TRUE,academic,FALSE,hold,3
+237066,1,27,Milestone: Employer-Competitive,2021-07-14 6:00:00,2021-07-22 5:59:59,0,22,FALSE,career,TRUE,hold,0
+238036,1,28,Project 4,2021-07-10 6:00:00,2021-07-23 5:59:59,22,22,TRUE,academic,FALSE,hold,22
+221098,2,1,0: Data Prework,2021-08-17 6:00:00,2021-08-18 5:59:59,16,24,FALSE,academic,FALSE,hold,16
+222028,2,2,Intro to Career Services: Employer-Ready vs Em...,2021-08-17 6:00:00,2021-08-25 5:59:59,0,24,FALSE,career,TRUE,hold,0
+223039,2,3,1. Excel Homework,2021-08-16 6:00:00,2021-08-28 5:59:59,24,24,TRUE,academic,FALSE,hold,24
+224010,2,4,2. Visual Basic Homework,2021-08-23 6:00:00,2021-09-04 4:59:59,24,24,TRUE,academic,FALSE,hold,24
+225060,2,5,3. Python Homework,2021-08-30 6:00:00,2021-09-11 5:59:59,23,24,TRUE,academic,FALSE,hold,23
+226069,2,6,4. Pandas Homework,2021-09-06 6:00:00,2021-09-18 5:59:59,22,24,TRUE,academic,FALSE,hold,22
+227052,2,7,5. Matplotlib Homework,2021-09-13 6:00:00,2021-09-25 5:59:59,22,24,TRUE,academic,FALSE,hold,22
+228052,2,8,Milestone: Pave Your Pathway,2021-09-14 6:00:00,2021-09-29 5:59:59,0,24,FALSE,career,TRUE,hold,0
+229014,2,9,6. Python APIs Homework,2021-09-20 6:00:00,2021-10-02 5:59:59,21,24,TRUE,academic,FALSE,hold,21
+230090,2,10,Project 1,2021-09-27 6:00:00,2021-10-09 5:59:59,24,24,TRUE,academic,FALSE,hold,24
+231014,2,11,9. SQL Homework,2021-10-11 6:00:00,2021-10-23 5:59:59,21,23,TRUE,academic,FALSE,hold,21
+232059,2,12,10. SQLAlchemy Homework,2021-10-18 6:00:00,2021-10-30 5:59:59,21,23,TRUE,academic,FALSE,hold,21
+233012,2,13,Milestone: Develop Your Resume,2021-10-19 6:00:00,2021-11-03 5:59:59,0,23,FALSE,career,TRUE,hold,0
+234060,2,14,11. HTML and CSS Homework,2021-10-25 6:00:00,2021-11-06 5:59:59,19,23,TRUE,academic,FALSE,hold,19
+236073,2,16,ETL Project,2021-11-08 6:00:00,2021-11-16 5:59:59,21,23,TRUE,academic,FALSE,hold,21
+235019,2,15,12. Web Scraping and Mongo Homework,2021-11-01 6:00:00,2021-11-16 5:59:59,19,23,TRUE,academic,FALSE,hold,19
+249043,2,29,14. Javascript Homework,2021-11-17 6:00:00,2021-11-30 5:59:59,20,23,TRUE,academic,FALSE,hold,20
+238065,2,18,15. Plot.ly Homework,2021-11-24 6:00:00,2021-12-07 5:59:59,19,23,TRUE,academic,FALSE,hold,19
+250064,2,30,16. D3.js Homework,2021-12-01 6:00:00,2021-12-14 5:59:59,15,22,TRUE,academic,FALSE,hold,15
+240034,2,20,Milestone: Polish Your Online Presence,2021-11-30 6:00:00,2021-12-15 5:59:59,0,22,FALSE,career,TRUE,hold,0
+241018,2,21,17. Geo-mapping Homework,2021-12-15 6:00:00,2021-12-30 5:59:59,17,22,TRUE,academic,FALSE,hold,17
+242053,2,22,Project 3,2021-12-24 6:00:00,2022-01-06 5:59:59,20,22,TRUE,academic,FALSE,hold,20
+243072,2,23,Milestone: Employer-Ready,2021-12-28 6:00:00,2022-01-12 5:59:59,0,22,FALSE,career,TRUE,hold,0
+244090,2,24,18. Tableau Homework,2021-12-31 6:00:00,2022-01-13 5:59:59,12,22,TRUE,academic,FALSE,hold,12
+245022,2,25,21. Machine Learning,2022-01-05 6:00:00,2022-01-20 5:59:59,3,22,TRUE,academic,FALSE,hold,3
+246063,2,26,22. Big Data Homework,2022-01-12 6:00:00,2022-01-27 5:59:59,0,22,TRUE,academic,FALSE,hold,0
+247012,2,27,Milestone: Employer-Competitive,2022-01-25 6:00:00,2022-02-02 5:59:59,0,22,FALSE,career,TRUE,hold,0
+248022,2,28,Project 4,2022-01-21 6:00:00,2022-02-03 5:59:59,20,22,TRUE,academic,FALSE,hold,20
+231019,3,1,0: Data Prework,2022-03-02 6:00:00,2022-03-03 5:59:59,14,38,FALSE,academic,FALSE,hold,14
+232023,3,2,Intro to Career Services: Employer-Ready vs Em...,2022-03-02 6:00:00,2022-03-10 5:59:59,0,38,FALSE,career,TRUE,hold,0
+233088,3,3,1. Excel Homework,2022-03-01 6:00:00,2022-03-13 5:59:59,33,35,TRUE,academic,FALSE,hold,33
+234094,3,4,2. Visual Basic Homework,2022-03-08 6:00:00,2022-03-20 4:59:59,33,34,TRUE,academic,FALSE,hold,33
+235007,3,5,3. Python Homework,2022-03-15 5:00:00,2022-03-27 4:59:59,32,34,TRUE,academic,FALSE,hold,32
+236081,3,6,4. Pandas Homework,2022-03-22 5:00:00,2022-04-03 4:59:59,32,34,TRUE,academic,FALSE,hold,32
+237090,3,7,5. Matplotlib Homework,2022-03-29 5:00:00,2022-04-10 4:59:59,28,34,TRUE,academic,FALSE,hold,28
+238028,3,8,Milestone: Pave Your Pathway,2022-03-30 5:00:00,2022-04-14 4:59:59,0,33,FALSE,career,TRUE,hold,0
+239060,3,9,6. Python APIs Homework,2022-04-05 5:00:00,2022-04-17 4:59:59,23,33,TRUE,academic,FALSE,hold,23
+240042,3,10,Project 1,2022-04-12 5:00:00,2022-04-24 4:59:59,33,33,TRUE,academic,FALSE,hold,33
+241029,3,11,9. SQL Homework,2022-04-26 5:00:00,2022-05-08 4:59:59,,33,TRUE,academic,FALSE,hold,11
+242009,3,12,10. SQLAlchemy Homework,2022-05-03 5:00:00,2022-05-15 4:59:59,,,TRUE,academic,FALSE,hold,
+243078,3,13,Milestone: Develop Your Resume,2022-05-04 5:00:00,2022-05-19 4:59:59,,,FALSE,career,TRUE,hold,
+244049,3,14,11. HTML and CSS Homework,2022-05-10 5:00:00,2022-05-22 4:59:59,,,TRUE,academic,FALSE,hold,
+246042,3,16,Project 2,2022-05-24 5:00:00,2022-06-01 4:59:59,,,TRUE,academic,FALSE,hold,
+245009,3,15,12. Web Scraping and Mongo Homework,2022-05-17 5:00:00,2022-06-01 4:59:59,,,TRUE,academic,FALSE,hold,
+248063,3,18,14. Plot.ly Homework,2022-06-02 5:00:00,2022-06-15 4:59:59,,,TRUE,academic,FALSE,hold,
+251064,3,21,15. Geo-mapping Homework,2022-06-09 5:00:00,2022-06-22 4:59:59,,,TRUE,academic,FALSE,hold,
+252090,3,22,Project 3,2022-06-16 5:00:00,2022-06-29 4:59:59,,,TRUE,academic,FALSE,hold,
+250031,3,20,Milestone: Polish Your Online Presence,2022-06-15 5:00:00,2022-06-30 4:59:59,,,FALSE,career,TRUE,hold,
+254092,3,24,18. Tableau Homework,2022-06-30 5:00:00,2022-07-15 4:59:59,,,TRUE,academic,FALSE,hold,
+255016,3,25,19. Supervised Learning Homework,2022-07-09 5:00:00,2022-07-22 4:59:59,,,TRUE,academic,FALSE,hold,
+253032,3,23,Milestone: Employer-Ready,2022-07-13 5:00:00,2022-07-28 4:59:59,,,FALSE,career,TRUE,hold,
+259062,3,29,20. Unsupervised Learning Homework,2022-07-16 5:00:00,2022-07-29 4:59:59,,,TRUE,academic,FALSE,hold,
+260027,3,30,21. Deep Learning Homework,2022-07-21 5:00:00,2022-08-05 4:59:59,,,TRUE,academic,FALSE,hold,
+256017,3,26,22. Big Data Homework,2022-07-28 5:00:00,2022-08-12 4:59:59,,,TRUE,academic,FALSE,hold,
+257046,3,27,Milestone: Employer-Competitive,2022-08-10 5:00:00,2022-08-18 4:59:59,,,FALSE,career,TRUE,hold,
+258054,3,28,Project 4,2022-08-06 5:00:00,2022-08-19 4:59:59,,,TRUE,academic,FALSE,hold,

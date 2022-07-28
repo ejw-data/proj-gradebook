@@ -1,0 +1,2521 @@
+unit_id,student_id,hw_title,hw_submitted,hw_grade
+211085,1,0: Data Prework,TRUE,A+
+212070,1,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,1,1. Excel Homework,TRUE,A+
+214096,1,2. Visual Basic Homework,TRUE,A+
+215023,1,3. Python Homework,TRUE,A+
+216022,1,4. Pandas Homework,TRUE,A+
+217066,1,5. Matplotlib Homework,TRUE,A+
+218097,1,Milestone: Pave Your Pathway,TRUE,A+
+219089,1,6. Python APIs Homework,TRUE,A+
+220002,1,Project 1,TRUE,A+
+221064,1,10. SQLAlchemy Homework,TRUE,A+
+222074,1,9. SQL Homework,TRUE,A+
+223013,1,Milestone: Develop Your Resume,TRUE,A+
+224064,1,11. HTML and CSS Homework,TRUE,A+
+225090,1,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,1,Project 2,TRUE,A+
+228067,1,14. Plot.ly Homework,TRUE,A+
+230002,1,15. Geo-mapping Homework,TRUE,A+
+231056,1,Milestone: Polish Your Online Presence,TRUE,A+
+232095,1,Project 3,TRUE,A+
+233014,1,Milestone: Employer-Ready,TRUE,A+
+234086,1,18. Tableau Homework,TRUE,A+
+235060,1,19. Supervised Learning Homework,TRUE,A+
+236074,1,22. Big Data Homework,TRUE,A+
+237066,1,Milestone: Employer-Competitive,TRUE,A+
+238036,1,Project 4,TRUE,A+
+239039,1,20. Unsupervised Learning Homework,TRUE,A+
+240031,1,21. Deep Learning Homework,TRUE,A+
+211085,2,0: Data Prework,TRUE,A+
+212070,2,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,2,1. Excel Homework,TRUE,A+
+214096,2,2. Visual Basic Homework,TRUE,A+
+215023,2,3. Python Homework,TRUE,A+
+216022,2,4. Pandas Homework,TRUE,A+
+217066,2,5. Matplotlib Homework,TRUE,A+
+218097,2,Milestone: Pave Your Pathway,TRUE,A+
+219089,2,6. Python APIs Homework,TRUE,A+
+220002,2,Project 1,TRUE,A+
+221064,2,10. SQLAlchemy Homework,TRUE,A+
+222074,2,9. SQL Homework,TRUE,A+
+223013,2,Milestone: Develop Your Resume,TRUE,A+
+224064,2,11. HTML and CSS Homework,TRUE,A+
+225090,2,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,2,Project 2,TRUE,A+
+228067,2,14. Plot.ly Homework,TRUE,A+
+230002,2,15. Geo-mapping Homework,TRUE,A+
+231056,2,Milestone: Polish Your Online Presence,TRUE,A+
+232095,2,Project 3,TRUE,A+
+233014,2,Milestone: Employer-Ready,TRUE,A+
+234086,2,18. Tableau Homework,TRUE,A+
+235060,2,19. Supervised Learning Homework,TRUE,A+
+236074,2,22. Big Data Homework,TRUE,A+
+237066,2,Milestone: Employer-Competitive,TRUE,A+
+238036,2,Project 4,TRUE,A+
+239039,2,20. Unsupervised Learning Homework,TRUE,A+
+240031,2,21. Deep Learning Homework,TRUE,A+
+211085,3,0: Data Prework,TRUE,A+
+212070,3,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,3,1. Excel Homework,TRUE,A+
+214096,3,2. Visual Basic Homework,TRUE,A+
+215023,3,3. Python Homework,TRUE,A+
+216022,3,4. Pandas Homework,TRUE,A+
+217066,3,5. Matplotlib Homework,TRUE,A+
+218097,3,Milestone: Pave Your Pathway,TRUE,A+
+219089,3,6. Python APIs Homework,TRUE,A+
+220002,3,Project 1,TRUE,A+
+221064,3,10. SQLAlchemy Homework,TRUE,A+
+222074,3,9. SQL Homework,TRUE,A+
+223013,3,Milestone: Develop Your Resume,TRUE,A+
+224064,3,11. HTML and CSS Homework,TRUE,A+
+225090,3,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,3,Project 2,TRUE,A+
+228067,3,14. Plot.ly Homework,TRUE,A+
+230002,3,15. Geo-mapping Homework,TRUE,A+
+231056,3,Milestone: Polish Your Online Presence,TRUE,A+
+232095,3,Project 3,TRUE,A+
+233014,3,Milestone: Employer-Ready,TRUE,A+
+234086,3,18. Tableau Homework,TRUE,A+
+235060,3,19. Supervised Learning Homework,TRUE,A+
+236074,3,22. Big Data Homework,TRUE,A+
+237066,3,Milestone: Employer-Competitive,TRUE,A+
+238036,3,Project 4,TRUE,A+
+239039,3,20. Unsupervised Learning Homework,TRUE,A+
+240031,3,21. Deep Learning Homework,TRUE,A+
+211085,4,0: Data Prework,TRUE,A+
+212070,4,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,4,1. Excel Homework,TRUE,A+
+214096,4,2. Visual Basic Homework,TRUE,A+
+215023,4,3. Python Homework,TRUE,A+
+216022,4,4. Pandas Homework,TRUE,A+
+217066,4,5. Matplotlib Homework,TRUE,A+
+218097,4,Milestone: Pave Your Pathway,TRUE,A+
+219089,4,6. Python APIs Homework,TRUE,A+
+220002,4,Project 1,TRUE,A+
+221064,4,10. SQLAlchemy Homework,TRUE,A+
+222074,4,9. SQL Homework,TRUE,A+
+223013,4,Milestone: Develop Your Resume,TRUE,A+
+224064,4,11. HTML and CSS Homework,TRUE,A+
+225090,4,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,4,Project 2,TRUE,A+
+228067,4,14. Plot.ly Homework,TRUE,A+
+230002,4,15. Geo-mapping Homework,TRUE,A+
+231056,4,Milestone: Polish Your Online Presence,TRUE,A+
+232095,4,Project 3,TRUE,A+
+233014,4,Milestone: Employer-Ready,TRUE,A+
+234086,4,18. Tableau Homework,TRUE,A+
+235060,4,19. Supervised Learning Homework,TRUE,A+
+236074,4,22. Big Data Homework,TRUE,A+
+237066,4,Milestone: Employer-Competitive,TRUE,A+
+238036,4,Project 4,TRUE,A+
+239039,4,20. Unsupervised Learning Homework,TRUE,A+
+240031,4,21. Deep Learning Homework,TRUE,A+
+211085,5,0: Data Prework,TRUE,A+
+212070,5,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,5,1. Excel Homework,TRUE,A+
+214096,5,2. Visual Basic Homework,TRUE,A+
+215023,5,3. Python Homework,TRUE,A+
+216022,5,4. Pandas Homework,TRUE,A+
+217066,5,5. Matplotlib Homework,TRUE,A+
+218097,5,Milestone: Pave Your Pathway,TRUE,A+
+219089,5,6. Python APIs Homework,TRUE,A+
+220002,5,Project 1,TRUE,A+
+221064,5,10. SQLAlchemy Homework,TRUE,A+
+222074,5,9. SQL Homework,TRUE,A+
+223013,5,Milestone: Develop Your Resume,TRUE,A+
+224064,5,11. HTML and CSS Homework,TRUE,A+
+225090,5,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,5,Project 2,TRUE,A+
+228067,5,14. Plot.ly Homework,TRUE,A+
+230002,5,15. Geo-mapping Homework,TRUE,A+
+231056,5,Milestone: Polish Your Online Presence,TRUE,A+
+232095,5,Project 3,TRUE,A+
+233014,5,Milestone: Employer-Ready,TRUE,A+
+234086,5,18. Tableau Homework,TRUE,A+
+235060,5,19. Supervised Learning Homework,TRUE,A+
+236074,5,22. Big Data Homework,TRUE,A+
+237066,5,Milestone: Employer-Competitive,TRUE,A+
+238036,5,Project 4,TRUE,A+
+239039,5,20. Unsupervised Learning Homework,TRUE,A+
+240031,5,21. Deep Learning Homework,TRUE,A+
+211085,6,0: Data Prework,TRUE,A+
+212070,6,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,6,1. Excel Homework,TRUE,A+
+214096,6,2. Visual Basic Homework,TRUE,A+
+215023,6,3. Python Homework,TRUE,A+
+216022,6,4. Pandas Homework,TRUE,A+
+217066,6,5. Matplotlib Homework,TRUE,A+
+218097,6,Milestone: Pave Your Pathway,TRUE,A+
+219089,6,6. Python APIs Homework,TRUE,A+
+220002,6,Project 1,TRUE,A+
+221064,6,10. SQLAlchemy Homework,TRUE,A+
+222074,6,9. SQL Homework,TRUE,A+
+223013,6,Milestone: Develop Your Resume,TRUE,A+
+224064,6,11. HTML and CSS Homework,TRUE,A+
+225090,6,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,6,Project 2,TRUE,A+
+228067,6,14. Plot.ly Homework,TRUE,A+
+230002,6,15. Geo-mapping Homework,TRUE,A+
+231056,6,Milestone: Polish Your Online Presence,TRUE,A+
+232095,6,Project 3,TRUE,A+
+233014,6,Milestone: Employer-Ready,TRUE,A+
+234086,6,18. Tableau Homework,TRUE,A+
+235060,6,19. Supervised Learning Homework,TRUE,A+
+236074,6,22. Big Data Homework,TRUE,A+
+237066,6,Milestone: Employer-Competitive,TRUE,A+
+238036,6,Project 4,TRUE,A+
+239039,6,20. Unsupervised Learning Homework,TRUE,A+
+240031,6,21. Deep Learning Homework,TRUE,A+
+211085,7,0: Data Prework,TRUE,A+
+212070,7,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,7,1. Excel Homework,TRUE,A+
+214096,7,2. Visual Basic Homework,TRUE,A+
+215023,7,3. Python Homework,TRUE,A+
+216022,7,4. Pandas Homework,TRUE,A+
+217066,7,5. Matplotlib Homework,TRUE,A+
+218097,7,Milestone: Pave Your Pathway,TRUE,A+
+219089,7,6. Python APIs Homework,TRUE,A+
+220002,7,Project 1,TRUE,A+
+221064,7,10. SQLAlchemy Homework,TRUE,A+
+222074,7,9. SQL Homework,TRUE,A+
+223013,7,Milestone: Develop Your Resume,TRUE,A+
+224064,7,11. HTML and CSS Homework,TRUE,A+
+225090,7,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,7,Project 2,TRUE,A+
+228067,7,14. Plot.ly Homework,TRUE,A+
+230002,7,15. Geo-mapping Homework,TRUE,A+
+231056,7,Milestone: Polish Your Online Presence,TRUE,A+
+232095,7,Project 3,TRUE,A+
+233014,7,Milestone: Employer-Ready,TRUE,A+
+234086,7,18. Tableau Homework,TRUE,A+
+235060,7,19. Supervised Learning Homework,TRUE,A+
+236074,7,22. Big Data Homework,TRUE,A+
+237066,7,Milestone: Employer-Competitive,TRUE,A+
+238036,7,Project 4,TRUE,A+
+239039,7,20. Unsupervised Learning Homework,TRUE,A+
+240031,7,21. Deep Learning Homework,TRUE,A+
+211085,8,0: Data Prework,TRUE,A+
+212070,8,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,8,1. Excel Homework,TRUE,A+
+214096,8,2. Visual Basic Homework,TRUE,A+
+215023,8,3. Python Homework,TRUE,A+
+216022,8,4. Pandas Homework,TRUE,A+
+217066,8,5. Matplotlib Homework,TRUE,A+
+218097,8,Milestone: Pave Your Pathway,TRUE,A+
+219089,8,6. Python APIs Homework,TRUE,A+
+220002,8,Project 1,TRUE,A+
+221064,8,10. SQLAlchemy Homework,TRUE,A+
+222074,8,9. SQL Homework,TRUE,A+
+223013,8,Milestone: Develop Your Resume,TRUE,A+
+224064,8,11. HTML and CSS Homework,TRUE,A+
+225090,8,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,8,Project 2,TRUE,A+
+228067,8,14. Plot.ly Homework,TRUE,A+
+230002,8,15. Geo-mapping Homework,TRUE,A+
+231056,8,Milestone: Polish Your Online Presence,TRUE,A+
+232095,8,Project 3,TRUE,A+
+233014,8,Milestone: Employer-Ready,TRUE,A+
+234086,8,18. Tableau Homework,TRUE,A+
+235060,8,19. Supervised Learning Homework,TRUE,A+
+236074,8,22. Big Data Homework,TRUE,A+
+237066,8,Milestone: Employer-Competitive,TRUE,A+
+238036,8,Project 4,TRUE,A+
+239039,8,20. Unsupervised Learning Homework,TRUE,A+
+240031,8,21. Deep Learning Homework,TRUE,A+
+211085,9,0: Data Prework,TRUE,A+
+212070,9,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,9,1. Excel Homework,TRUE,A+
+214096,9,2. Visual Basic Homework,TRUE,A+
+215023,9,3. Python Homework,TRUE,A+
+216022,9,4. Pandas Homework,TRUE,A+
+217066,9,5. Matplotlib Homework,TRUE,A+
+218097,9,Milestone: Pave Your Pathway,TRUE,A+
+219089,9,6. Python APIs Homework,TRUE,A+
+220002,9,Project 1,TRUE,A+
+221064,9,10. SQLAlchemy Homework,TRUE,A+
+222074,9,9. SQL Homework,TRUE,A+
+223013,9,Milestone: Develop Your Resume,TRUE,A+
+224064,9,11. HTML and CSS Homework,TRUE,A+
+225090,9,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,9,Project 2,TRUE,A+
+228067,9,14. Plot.ly Homework,TRUE,A+
+230002,9,15. Geo-mapping Homework,TRUE,A+
+231056,9,Milestone: Polish Your Online Presence,TRUE,A+
+232095,9,Project 3,TRUE,A+
+233014,9,Milestone: Employer-Ready,TRUE,A+
+234086,9,18. Tableau Homework,TRUE,A+
+235060,9,19. Supervised Learning Homework,TRUE,A+
+236074,9,22. Big Data Homework,TRUE,A+
+237066,9,Milestone: Employer-Competitive,TRUE,A+
+238036,9,Project 4,TRUE,A+
+239039,9,20. Unsupervised Learning Homework,TRUE,A+
+240031,9,21. Deep Learning Homework,TRUE,A+
+211085,10,0: Data Prework,TRUE,A+
+212070,10,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,10,1. Excel Homework,TRUE,A+
+214096,10,2. Visual Basic Homework,TRUE,A+
+215023,10,3. Python Homework,TRUE,A+
+216022,10,4. Pandas Homework,TRUE,A+
+217066,10,5. Matplotlib Homework,TRUE,A+
+218097,10,Milestone: Pave Your Pathway,TRUE,A+
+219089,10,6. Python APIs Homework,TRUE,A+
+220002,10,Project 1,TRUE,A+
+221064,10,10. SQLAlchemy Homework,TRUE,A+
+222074,10,9. SQL Homework,TRUE,A+
+223013,10,Milestone: Develop Your Resume,TRUE,A+
+224064,10,11. HTML and CSS Homework,TRUE,A+
+225090,10,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,10,Project 2,TRUE,A+
+228067,10,14. Plot.ly Homework,TRUE,A+
+230002,10,15. Geo-mapping Homework,TRUE,A+
+231056,10,Milestone: Polish Your Online Presence,TRUE,A+
+232095,10,Project 3,TRUE,A+
+233014,10,Milestone: Employer-Ready,TRUE,A+
+234086,10,18. Tableau Homework,TRUE,A+
+235060,10,19. Supervised Learning Homework,TRUE,A+
+236074,10,22. Big Data Homework,TRUE,A+
+237066,10,Milestone: Employer-Competitive,TRUE,A+
+238036,10,Project 4,TRUE,A+
+239039,10,20. Unsupervised Learning Homework,TRUE,A+
+240031,10,21. Deep Learning Homework,TRUE,A+
+211085,11,0: Data Prework,TRUE,A+
+212070,11,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,11,1. Excel Homework,TRUE,A+
+214096,11,2. Visual Basic Homework,TRUE,A+
+215023,11,3. Python Homework,TRUE,A+
+216022,11,4. Pandas Homework,TRUE,A+
+217066,11,5. Matplotlib Homework,TRUE,A+
+218097,11,Milestone: Pave Your Pathway,TRUE,A+
+219089,11,6. Python APIs Homework,TRUE,A+
+220002,11,Project 1,TRUE,A+
+221064,11,10. SQLAlchemy Homework,TRUE,A+
+222074,11,9. SQL Homework,TRUE,A+
+223013,11,Milestone: Develop Your Resume,TRUE,A+
+224064,11,11. HTML and CSS Homework,TRUE,A+
+225090,11,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,11,Project 2,TRUE,A+
+228067,11,14. Plot.ly Homework,TRUE,A+
+230002,11,15. Geo-mapping Homework,TRUE,A+
+231056,11,Milestone: Polish Your Online Presence,TRUE,A+
+232095,11,Project 3,TRUE,A+
+233014,11,Milestone: Employer-Ready,TRUE,A+
+234086,11,18. Tableau Homework,TRUE,A+
+235060,11,19. Supervised Learning Homework,TRUE,A+
+236074,11,22. Big Data Homework,TRUE,A+
+237066,11,Milestone: Employer-Competitive,TRUE,A+
+238036,11,Project 4,TRUE,A+
+239039,11,20. Unsupervised Learning Homework,TRUE,A+
+240031,11,21. Deep Learning Homework,TRUE,A+
+211085,12,0: Data Prework,TRUE,A+
+212070,12,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,12,1. Excel Homework,TRUE,A+
+214096,12,2. Visual Basic Homework,TRUE,A+
+215023,12,3. Python Homework,TRUE,A+
+216022,12,4. Pandas Homework,TRUE,A+
+217066,12,5. Matplotlib Homework,TRUE,A+
+218097,12,Milestone: Pave Your Pathway,TRUE,A+
+219089,12,6. Python APIs Homework,TRUE,A+
+220002,12,Project 1,TRUE,A+
+221064,12,10. SQLAlchemy Homework,TRUE,A+
+222074,12,9. SQL Homework,TRUE,A+
+223013,12,Milestone: Develop Your Resume,TRUE,A+
+224064,12,11. HTML and CSS Homework,TRUE,A+
+225090,12,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,12,Project 2,TRUE,A+
+228067,12,14. Plot.ly Homework,TRUE,A+
+230002,12,15. Geo-mapping Homework,TRUE,A+
+231056,12,Milestone: Polish Your Online Presence,TRUE,A+
+232095,12,Project 3,TRUE,A+
+233014,12,Milestone: Employer-Ready,TRUE,A+
+234086,12,18. Tableau Homework,TRUE,A+
+235060,12,19. Supervised Learning Homework,TRUE,A+
+236074,12,22. Big Data Homework,TRUE,A+
+237066,12,Milestone: Employer-Competitive,TRUE,A+
+238036,12,Project 4,TRUE,A+
+239039,12,20. Unsupervised Learning Homework,TRUE,A+
+240031,12,21. Deep Learning Homework,TRUE,A+
+211085,13,0: Data Prework,TRUE,A+
+212070,13,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,13,1. Excel Homework,TRUE,A+
+214096,13,2. Visual Basic Homework,TRUE,A+
+215023,13,3. Python Homework,TRUE,A+
+216022,13,4. Pandas Homework,TRUE,A+
+217066,13,5. Matplotlib Homework,TRUE,A+
+218097,13,Milestone: Pave Your Pathway,TRUE,A+
+219089,13,6. Python APIs Homework,TRUE,A+
+220002,13,Project 1,TRUE,A+
+221064,13,10. SQLAlchemy Homework,TRUE,A+
+222074,13,9. SQL Homework,TRUE,A+
+223013,13,Milestone: Develop Your Resume,TRUE,A+
+224064,13,11. HTML and CSS Homework,TRUE,A+
+225090,13,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,13,Project 2,TRUE,A+
+228067,13,14. Plot.ly Homework,TRUE,A+
+230002,13,15. Geo-mapping Homework,TRUE,A+
+231056,13,Milestone: Polish Your Online Presence,TRUE,A+
+232095,13,Project 3,TRUE,A+
+233014,13,Milestone: Employer-Ready,TRUE,A+
+234086,13,18. Tableau Homework,TRUE,A+
+235060,13,19. Supervised Learning Homework,TRUE,A+
+236074,13,22. Big Data Homework,TRUE,A+
+237066,13,Milestone: Employer-Competitive,TRUE,A+
+238036,13,Project 4,TRUE,A+
+239039,13,20. Unsupervised Learning Homework,TRUE,A+
+240031,13,21. Deep Learning Homework,TRUE,A+
+211085,14,0: Data Prework,TRUE,A+
+212070,14,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,14,1. Excel Homework,TRUE,A+
+214096,14,2. Visual Basic Homework,TRUE,A+
+215023,14,3. Python Homework,TRUE,A+
+216022,14,4. Pandas Homework,TRUE,A+
+217066,14,5. Matplotlib Homework,TRUE,A+
+218097,14,Milestone: Pave Your Pathway,TRUE,A+
+219089,14,6. Python APIs Homework,TRUE,A+
+220002,14,Project 1,TRUE,A+
+221064,14,10. SQLAlchemy Homework,TRUE,A+
+222074,14,9. SQL Homework,TRUE,A+
+223013,14,Milestone: Develop Your Resume,TRUE,A+
+224064,14,11. HTML and CSS Homework,TRUE,A+
+225090,14,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,14,Project 2,TRUE,A+
+228067,14,14. Plot.ly Homework,TRUE,A+
+230002,14,15. Geo-mapping Homework,TRUE,A+
+231056,14,Milestone: Polish Your Online Presence,TRUE,A+
+232095,14,Project 3,TRUE,A+
+233014,14,Milestone: Employer-Ready,TRUE,A+
+234086,14,18. Tableau Homework,TRUE,A+
+235060,14,19. Supervised Learning Homework,TRUE,A+
+236074,14,22. Big Data Homework,TRUE,A+
+237066,14,Milestone: Employer-Competitive,TRUE,A+
+238036,14,Project 4,TRUE,A+
+239039,14,20. Unsupervised Learning Homework,TRUE,A+
+240031,14,21. Deep Learning Homework,TRUE,A+
+211085,15,0: Data Prework,TRUE,A+
+212070,15,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,15,1. Excel Homework,TRUE,A+
+214096,15,2. Visual Basic Homework,TRUE,A+
+215023,15,3. Python Homework,TRUE,A+
+216022,15,4. Pandas Homework,TRUE,A+
+217066,15,5. Matplotlib Homework,TRUE,A+
+218097,15,Milestone: Pave Your Pathway,TRUE,A+
+219089,15,6. Python APIs Homework,TRUE,A+
+220002,15,Project 1,TRUE,A+
+221064,15,10. SQLAlchemy Homework,TRUE,A+
+222074,15,9. SQL Homework,TRUE,A+
+223013,15,Milestone: Develop Your Resume,TRUE,A+
+224064,15,11. HTML and CSS Homework,TRUE,A+
+225090,15,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,15,Project 2,TRUE,A+
+228067,15,14. Plot.ly Homework,TRUE,A+
+230002,15,15. Geo-mapping Homework,TRUE,A+
+231056,15,Milestone: Polish Your Online Presence,TRUE,A+
+232095,15,Project 3,TRUE,A+
+233014,15,Milestone: Employer-Ready,TRUE,A+
+234086,15,18. Tableau Homework,TRUE,A+
+235060,15,19. Supervised Learning Homework,TRUE,A+
+236074,15,22. Big Data Homework,TRUE,A+
+237066,15,Milestone: Employer-Competitive,TRUE,A+
+238036,15,Project 4,TRUE,A+
+239039,15,20. Unsupervised Learning Homework,TRUE,A+
+240031,15,21. Deep Learning Homework,TRUE,A+
+211085,16,0: Data Prework,TRUE,A+
+212070,16,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,16,1. Excel Homework,TRUE,A+
+214096,16,2. Visual Basic Homework,TRUE,A+
+215023,16,3. Python Homework,TRUE,A+
+216022,16,4. Pandas Homework,TRUE,A+
+217066,16,5. Matplotlib Homework,TRUE,A+
+218097,16,Milestone: Pave Your Pathway,TRUE,A+
+219089,16,6. Python APIs Homework,TRUE,A+
+220002,16,Project 1,TRUE,A+
+221064,16,10. SQLAlchemy Homework,TRUE,A+
+222074,16,9. SQL Homework,TRUE,A+
+223013,16,Milestone: Develop Your Resume,TRUE,A+
+224064,16,11. HTML and CSS Homework,TRUE,A+
+225090,16,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,16,Project 2,TRUE,A+
+228067,16,14. Plot.ly Homework,TRUE,A+
+230002,16,15. Geo-mapping Homework,TRUE,A+
+231056,16,Milestone: Polish Your Online Presence,TRUE,A+
+232095,16,Project 3,TRUE,A+
+233014,16,Milestone: Employer-Ready,TRUE,A+
+234086,16,18. Tableau Homework,TRUE,A+
+235060,16,19. Supervised Learning Homework,TRUE,A+
+236074,16,22. Big Data Homework,TRUE,A+
+237066,16,Milestone: Employer-Competitive,TRUE,A+
+238036,16,Project 4,TRUE,A+
+239039,16,20. Unsupervised Learning Homework,TRUE,A+
+240031,16,21. Deep Learning Homework,TRUE,A+
+211085,17,0: Data Prework,TRUE,A+
+212070,17,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,17,1. Excel Homework,TRUE,A+
+214096,17,2. Visual Basic Homework,TRUE,A+
+215023,17,3. Python Homework,TRUE,A+
+216022,17,4. Pandas Homework,TRUE,A+
+217066,17,5. Matplotlib Homework,TRUE,A+
+218097,17,Milestone: Pave Your Pathway,TRUE,A+
+219089,17,6. Python APIs Homework,TRUE,A+
+220002,17,Project 1,TRUE,A+
+221064,17,10. SQLAlchemy Homework,TRUE,A+
+222074,17,9. SQL Homework,TRUE,A+
+223013,17,Milestone: Develop Your Resume,TRUE,A+
+224064,17,11. HTML and CSS Homework,TRUE,A+
+225090,17,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,17,Project 2,TRUE,A+
+228067,17,14. Plot.ly Homework,TRUE,A+
+230002,17,15. Geo-mapping Homework,TRUE,A+
+231056,17,Milestone: Polish Your Online Presence,TRUE,A+
+232095,17,Project 3,TRUE,A+
+233014,17,Milestone: Employer-Ready,TRUE,A+
+234086,17,18. Tableau Homework,TRUE,A+
+235060,17,19. Supervised Learning Homework,TRUE,A+
+236074,17,22. Big Data Homework,TRUE,A+
+237066,17,Milestone: Employer-Competitive,TRUE,A+
+238036,17,Project 4,TRUE,A+
+239039,17,20. Unsupervised Learning Homework,TRUE,A+
+240031,17,21. Deep Learning Homework,TRUE,A+
+211085,18,0: Data Prework,TRUE,A+
+212070,18,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,18,1. Excel Homework,TRUE,A+
+214096,18,2. Visual Basic Homework,TRUE,A+
+215023,18,3. Python Homework,TRUE,A+
+216022,18,4. Pandas Homework,TRUE,A+
+217066,18,5. Matplotlib Homework,TRUE,A+
+218097,18,Milestone: Pave Your Pathway,TRUE,A+
+219089,18,6. Python APIs Homework,TRUE,A+
+220002,18,Project 1,TRUE,A+
+221064,18,10. SQLAlchemy Homework,TRUE,A+
+222074,18,9. SQL Homework,TRUE,A+
+223013,18,Milestone: Develop Your Resume,TRUE,A+
+224064,18,11. HTML and CSS Homework,TRUE,A+
+225090,18,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,18,Project 2,TRUE,A+
+228067,18,14. Plot.ly Homework,TRUE,A+
+230002,18,15. Geo-mapping Homework,TRUE,A+
+231056,18,Milestone: Polish Your Online Presence,TRUE,A+
+232095,18,Project 3,TRUE,A+
+233014,18,Milestone: Employer-Ready,TRUE,A+
+234086,18,18. Tableau Homework,TRUE,A+
+235060,18,19. Supervised Learning Homework,TRUE,A+
+236074,18,22. Big Data Homework,TRUE,A+
+237066,18,Milestone: Employer-Competitive,TRUE,A+
+238036,18,Project 4,TRUE,A+
+239039,18,20. Unsupervised Learning Homework,TRUE,A+
+240031,18,21. Deep Learning Homework,TRUE,A+
+211085,19,0: Data Prework,TRUE,A+
+212070,19,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,19,1. Excel Homework,TRUE,A+
+214096,19,2. Visual Basic Homework,TRUE,A+
+215023,19,3. Python Homework,TRUE,A+
+216022,19,4. Pandas Homework,TRUE,A+
+217066,19,5. Matplotlib Homework,TRUE,A+
+218097,19,Milestone: Pave Your Pathway,TRUE,A+
+219089,19,6. Python APIs Homework,TRUE,A+
+220002,19,Project 1,TRUE,A+
+221064,19,10. SQLAlchemy Homework,TRUE,A+
+222074,19,9. SQL Homework,TRUE,A+
+223013,19,Milestone: Develop Your Resume,TRUE,A+
+224064,19,11. HTML and CSS Homework,TRUE,A+
+225090,19,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,19,Project 2,TRUE,A+
+228067,19,14. Plot.ly Homework,TRUE,A+
+230002,19,15. Geo-mapping Homework,TRUE,A+
+231056,19,Milestone: Polish Your Online Presence,TRUE,A+
+232095,19,Project 3,TRUE,A+
+233014,19,Milestone: Employer-Ready,TRUE,A+
+234086,19,18. Tableau Homework,TRUE,A+
+235060,19,19. Supervised Learning Homework,TRUE,A+
+236074,19,22. Big Data Homework,TRUE,A+
+237066,19,Milestone: Employer-Competitive,TRUE,A+
+238036,19,Project 4,TRUE,A+
+239039,19,20. Unsupervised Learning Homework,TRUE,A+
+240031,19,21. Deep Learning Homework,TRUE,A+
+211085,20,0: Data Prework,TRUE,A+
+212070,20,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,20,1. Excel Homework,TRUE,A+
+214096,20,2. Visual Basic Homework,TRUE,A+
+215023,20,3. Python Homework,TRUE,A+
+216022,20,4. Pandas Homework,TRUE,A+
+217066,20,5. Matplotlib Homework,TRUE,A+
+218097,20,Milestone: Pave Your Pathway,TRUE,A+
+219089,20,6. Python APIs Homework,TRUE,A+
+220002,20,Project 1,TRUE,A+
+221064,20,10. SQLAlchemy Homework,TRUE,A+
+222074,20,9. SQL Homework,TRUE,A+
+223013,20,Milestone: Develop Your Resume,TRUE,A+
+224064,20,11. HTML and CSS Homework,TRUE,A+
+225090,20,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,20,Project 2,TRUE,A+
+228067,20,14. Plot.ly Homework,TRUE,A+
+230002,20,15. Geo-mapping Homework,TRUE,A+
+231056,20,Milestone: Polish Your Online Presence,TRUE,A+
+232095,20,Project 3,TRUE,A+
+233014,20,Milestone: Employer-Ready,TRUE,A+
+234086,20,18. Tableau Homework,TRUE,A+
+235060,20,19. Supervised Learning Homework,TRUE,A+
+236074,20,22. Big Data Homework,TRUE,A+
+237066,20,Milestone: Employer-Competitive,TRUE,A+
+238036,20,Project 4,TRUE,A+
+239039,20,20. Unsupervised Learning Homework,TRUE,A+
+240031,20,21. Deep Learning Homework,TRUE,A+
+211085,21,0: Data Prework,TRUE,A+
+212070,21,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,21,1. Excel Homework,TRUE,A+
+214096,21,2. Visual Basic Homework,TRUE,A+
+215023,21,3. Python Homework,TRUE,A+
+216022,21,4. Pandas Homework,TRUE,A+
+217066,21,5. Matplotlib Homework,TRUE,A+
+218097,21,Milestone: Pave Your Pathway,TRUE,A+
+219089,21,6. Python APIs Homework,TRUE,A+
+220002,21,Project 1,TRUE,A+
+221064,21,10. SQLAlchemy Homework,TRUE,A+
+222074,21,9. SQL Homework,TRUE,A+
+223013,21,Milestone: Develop Your Resume,TRUE,A+
+224064,21,11. HTML and CSS Homework,TRUE,A+
+225090,21,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,21,Project 2,TRUE,A+
+228067,21,14. Plot.ly Homework,TRUE,A+
+230002,21,15. Geo-mapping Homework,TRUE,A+
+231056,21,Milestone: Polish Your Online Presence,TRUE,A+
+232095,21,Project 3,TRUE,A+
+233014,21,Milestone: Employer-Ready,TRUE,A+
+234086,21,18. Tableau Homework,TRUE,A+
+235060,21,19. Supervised Learning Homework,TRUE,A+
+236074,21,22. Big Data Homework,TRUE,A+
+237066,21,Milestone: Employer-Competitive,TRUE,A+
+238036,21,Project 4,TRUE,A+
+239039,21,20. Unsupervised Learning Homework,TRUE,A+
+240031,21,21. Deep Learning Homework,TRUE,A+
+211085,22,0: Data Prework,TRUE,A+
+212070,22,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,22,1. Excel Homework,TRUE,A+
+214096,22,2. Visual Basic Homework,TRUE,A+
+215023,22,3. Python Homework,TRUE,A+
+216022,22,4. Pandas Homework,TRUE,A+
+217066,22,5. Matplotlib Homework,TRUE,A+
+218097,22,Milestone: Pave Your Pathway,TRUE,A+
+219089,22,6. Python APIs Homework,TRUE,A+
+220002,22,Project 1,TRUE,A+
+221064,22,10. SQLAlchemy Homework,TRUE,A+
+222074,22,9. SQL Homework,TRUE,A+
+223013,22,Milestone: Develop Your Resume,TRUE,A+
+224064,22,11. HTML and CSS Homework,TRUE,A+
+225090,22,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,22,Project 2,TRUE,A+
+228067,22,14. Plot.ly Homework,TRUE,A+
+230002,22,15. Geo-mapping Homework,TRUE,A+
+231056,22,Milestone: Polish Your Online Presence,TRUE,A+
+232095,22,Project 3,TRUE,A+
+233014,22,Milestone: Employer-Ready,TRUE,A+
+234086,22,18. Tableau Homework,TRUE,A+
+235060,22,19. Supervised Learning Homework,TRUE,A+
+236074,22,22. Big Data Homework,TRUE,A+
+237066,22,Milestone: Employer-Competitive,TRUE,A+
+238036,22,Project 4,TRUE,A+
+239039,22,20. Unsupervised Learning Homework,TRUE,A+
+240031,22,21. Deep Learning Homework,TRUE,A+
+211085,23,0: Data Prework,TRUE,A+
+212070,23,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,23,1. Excel Homework,TRUE,A+
+214096,23,2. Visual Basic Homework,TRUE,A+
+215023,23,3. Python Homework,TRUE,A+
+216022,23,4. Pandas Homework,TRUE,A+
+217066,23,5. Matplotlib Homework,TRUE,A+
+218097,23,Milestone: Pave Your Pathway,TRUE,A+
+219089,23,6. Python APIs Homework,TRUE,A+
+220002,23,Project 1,TRUE,A+
+221064,23,10. SQLAlchemy Homework,TRUE,A+
+222074,23,9. SQL Homework,TRUE,A+
+223013,23,Milestone: Develop Your Resume,TRUE,A+
+224064,23,11. HTML and CSS Homework,TRUE,A+
+225090,23,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,23,Project 2,TRUE,A+
+228067,23,14. Plot.ly Homework,TRUE,A+
+230002,23,15. Geo-mapping Homework,TRUE,A+
+231056,23,Milestone: Polish Your Online Presence,TRUE,A+
+232095,23,Project 3,TRUE,A+
+233014,23,Milestone: Employer-Ready,TRUE,A+
+234086,23,18. Tableau Homework,TRUE,A+
+235060,23,19. Supervised Learning Homework,TRUE,A+
+236074,23,22. Big Data Homework,TRUE,A+
+237066,23,Milestone: Employer-Competitive,TRUE,A+
+238036,23,Project 4,TRUE,A+
+239039,23,20. Unsupervised Learning Homework,TRUE,A+
+240031,23,21. Deep Learning Homework,TRUE,A+
+211085,24,0: Data Prework,TRUE,A+
+212070,24,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,24,1. Excel Homework,TRUE,A+
+214096,24,2. Visual Basic Homework,TRUE,A+
+215023,24,3. Python Homework,TRUE,A+
+216022,24,4. Pandas Homework,TRUE,A+
+217066,24,5. Matplotlib Homework,TRUE,A+
+218097,24,Milestone: Pave Your Pathway,TRUE,A+
+219089,24,6. Python APIs Homework,TRUE,A+
+220002,24,Project 1,TRUE,A+
+221064,24,10. SQLAlchemy Homework,TRUE,A+
+222074,24,9. SQL Homework,TRUE,A+
+223013,24,Milestone: Develop Your Resume,TRUE,A+
+224064,24,11. HTML and CSS Homework,TRUE,A+
+225090,24,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,24,Project 2,TRUE,A+
+228067,24,14. Plot.ly Homework,TRUE,A+
+230002,24,15. Geo-mapping Homework,TRUE,A+
+231056,24,Milestone: Polish Your Online Presence,TRUE,A+
+232095,24,Project 3,TRUE,A+
+233014,24,Milestone: Employer-Ready,TRUE,A+
+234086,24,18. Tableau Homework,TRUE,A+
+235060,24,19. Supervised Learning Homework,TRUE,A+
+236074,24,22. Big Data Homework,TRUE,A+
+237066,24,Milestone: Employer-Competitive,TRUE,A+
+238036,24,Project 4,TRUE,A+
+239039,24,20. Unsupervised Learning Homework,TRUE,A+
+240031,24,21. Deep Learning Homework,TRUE,A+
+211085,25,0: Data Prework,TRUE,A+
+212070,25,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,25,1. Excel Homework,TRUE,A+
+214096,25,2. Visual Basic Homework,TRUE,A+
+215023,25,3. Python Homework,TRUE,A+
+216022,25,4. Pandas Homework,TRUE,A+
+217066,25,5. Matplotlib Homework,TRUE,A+
+218097,25,Milestone: Pave Your Pathway,TRUE,A+
+219089,25,6. Python APIs Homework,TRUE,A+
+220002,25,Project 1,TRUE,A+
+221064,25,10. SQLAlchemy Homework,TRUE,A+
+222074,25,9. SQL Homework,TRUE,A+
+223013,25,Milestone: Develop Your Resume,TRUE,A+
+224064,25,11. HTML and CSS Homework,TRUE,A+
+225090,25,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,25,Project 2,TRUE,A+
+228067,25,14. Plot.ly Homework,TRUE,A+
+230002,25,15. Geo-mapping Homework,TRUE,A+
+231056,25,Milestone: Polish Your Online Presence,TRUE,A+
+232095,25,Project 3,TRUE,A+
+233014,25,Milestone: Employer-Ready,TRUE,A+
+234086,25,18. Tableau Homework,TRUE,A+
+235060,25,19. Supervised Learning Homework,TRUE,A+
+236074,25,22. Big Data Homework,TRUE,A+
+237066,25,Milestone: Employer-Competitive,TRUE,A+
+238036,25,Project 4,TRUE,A+
+239039,25,20. Unsupervised Learning Homework,TRUE,A+
+240031,25,21. Deep Learning Homework,TRUE,A+
+211085,26,0: Data Prework,TRUE,A+
+212070,26,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,26,1. Excel Homework,TRUE,A+
+214096,26,2. Visual Basic Homework,TRUE,A+
+215023,26,3. Python Homework,TRUE,A+
+216022,26,4. Pandas Homework,TRUE,A+
+217066,26,5. Matplotlib Homework,TRUE,A+
+218097,26,Milestone: Pave Your Pathway,TRUE,A+
+219089,26,6. Python APIs Homework,TRUE,A+
+220002,26,Project 1,TRUE,A+
+221064,26,10. SQLAlchemy Homework,TRUE,A+
+222074,26,9. SQL Homework,TRUE,A+
+223013,26,Milestone: Develop Your Resume,TRUE,A+
+224064,26,11. HTML and CSS Homework,TRUE,A+
+225090,26,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,26,Project 2,TRUE,A+
+228067,26,14. Plot.ly Homework,TRUE,A+
+230002,26,15. Geo-mapping Homework,TRUE,A+
+231056,26,Milestone: Polish Your Online Presence,TRUE,A+
+232095,26,Project 3,TRUE,A+
+233014,26,Milestone: Employer-Ready,TRUE,A+
+234086,26,18. Tableau Homework,TRUE,A+
+235060,26,19. Supervised Learning Homework,TRUE,A+
+236074,26,22. Big Data Homework,TRUE,A+
+237066,26,Milestone: Employer-Competitive,TRUE,A+
+238036,26,Project 4,TRUE,A+
+239039,26,20. Unsupervised Learning Homework,TRUE,A+
+240031,26,21. Deep Learning Homework,TRUE,A+
+211085,27,0: Data Prework,TRUE,A+
+212070,27,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+213030,27,1. Excel Homework,TRUE,A+
+214096,27,2. Visual Basic Homework,TRUE,A+
+215023,27,3. Python Homework,TRUE,A+
+216022,27,4. Pandas Homework,TRUE,A+
+217066,27,5. Matplotlib Homework,TRUE,A+
+218097,27,Milestone: Pave Your Pathway,TRUE,A+
+219089,27,6. Python APIs Homework,TRUE,A+
+220002,27,Project 1,TRUE,A+
+221064,27,10. SQLAlchemy Homework,TRUE,A+
+222074,27,9. SQL Homework,TRUE,A+
+223013,27,Milestone: Develop Your Resume,TRUE,A+
+224064,27,11. HTML and CSS Homework,TRUE,A+
+225090,27,12. Web Scraping and Mongo Homework,TRUE,A+
+226020,27,Project 2,TRUE,A+
+228067,27,14. Plot.ly Homework,TRUE,A+
+230002,27,15. Geo-mapping Homework,TRUE,A+
+231056,27,Milestone: Polish Your Online Presence,TRUE,A+
+232095,27,Project 3,TRUE,A+
+233014,27,Milestone: Employer-Ready,TRUE,A+
+234086,27,18. Tableau Homework,TRUE,A+
+235060,27,19. Supervised Learning Homework,TRUE,A+
+236074,27,22. Big Data Homework,TRUE,A+
+237066,27,Milestone: Employer-Competitive,TRUE,A+
+238036,27,Project 4,TRUE,A+
+239039,27,20. Unsupervised Learning Homework,TRUE,A+
+240031,27,21. Deep Learning Homework,TRUE,A+
+221098,28,0: Data Prework,TRUE,A+
+222028,28,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,28,1. Excel Homework,TRUE,A+
+224010,28,2. Visual Basic Homework,TRUE,A+
+225060,28,3. Python Homework,TRUE,A+
+226069,28,4. Pandas Homework,TRUE,A+
+227052,28,5. Matplotlib Homework,TRUE,A+
+228052,28,Milestone: Pave Your Pathway,TRUE,A+
+229014,28,6. Python APIs Homework,TRUE,A+
+230090,28,Project 1,TRUE,A+
+231014,28,10. SQLAlchemy Homework,TRUE,A+
+232059,28,9. SQL Homework,TRUE,A+
+233012,28,Milestone: Develop Your Resume,TRUE,A+
+234060,28,11. HTML and CSS Homework,TRUE,A+
+235019,28,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,28,Project 2,TRUE,A+
+238065,28,14. Plot.ly Homework,TRUE,A+
+240034,28,15. Geo-mapping Homework,TRUE,A+
+241018,28,Milestone: Polish Your Online Presence,TRUE,A+
+242053,28,Project 3,TRUE,A+
+243072,28,Milestone: Employer-Ready,TRUE,A+
+244090,28,18. Tableau Homework,TRUE,A+
+245022,28,19. Supervised Learning Homework,TRUE,A+
+246063,28,22. Big Data Homework,TRUE,A+
+247012,28,Milestone: Employer-Competitive,TRUE,A+
+248022,28,Project 4,TRUE,A+
+249043,28,20. Unsupervised Learning Homework,TRUE,A+
+250064,28,21. Deep Learning Homework,TRUE,A+
+221098,29,0: Data Prework,TRUE,A+
+222028,29,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,29,1. Excel Homework,TRUE,A+
+224010,29,2. Visual Basic Homework,TRUE,A+
+225060,29,3. Python Homework,TRUE,A+
+226069,29,4. Pandas Homework,TRUE,A+
+227052,29,5. Matplotlib Homework,TRUE,A+
+228052,29,Milestone: Pave Your Pathway,TRUE,A+
+229014,29,6. Python APIs Homework,TRUE,A+
+230090,29,Project 1,TRUE,A+
+231014,29,10. SQLAlchemy Homework,TRUE,A+
+232059,29,9. SQL Homework,TRUE,A+
+233012,29,Milestone: Develop Your Resume,TRUE,A+
+234060,29,11. HTML and CSS Homework,TRUE,A+
+235019,29,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,29,Project 2,TRUE,A+
+238065,29,14. Plot.ly Homework,TRUE,A+
+240034,29,15. Geo-mapping Homework,TRUE,A+
+241018,29,Milestone: Polish Your Online Presence,TRUE,A+
+242053,29,Project 3,TRUE,A+
+243072,29,Milestone: Employer-Ready,TRUE,A+
+244090,29,18. Tableau Homework,TRUE,A+
+245022,29,19. Supervised Learning Homework,TRUE,A+
+246063,29,22. Big Data Homework,TRUE,A+
+247012,29,Milestone: Employer-Competitive,TRUE,A+
+248022,29,Project 4,TRUE,A+
+249043,29,20. Unsupervised Learning Homework,TRUE,A+
+250064,29,21. Deep Learning Homework,TRUE,A+
+221098,30,0: Data Prework,TRUE,A+
+222028,30,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,30,1. Excel Homework,TRUE,A+
+224010,30,2. Visual Basic Homework,TRUE,A+
+225060,30,3. Python Homework,TRUE,A+
+226069,30,4. Pandas Homework,TRUE,A+
+227052,30,5. Matplotlib Homework,TRUE,A+
+228052,30,Milestone: Pave Your Pathway,TRUE,A+
+229014,30,6. Python APIs Homework,TRUE,A+
+230090,30,Project 1,TRUE,A+
+231014,30,10. SQLAlchemy Homework,TRUE,A+
+232059,30,9. SQL Homework,TRUE,A+
+233012,30,Milestone: Develop Your Resume,TRUE,A+
+234060,30,11. HTML and CSS Homework,TRUE,A+
+235019,30,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,30,Project 2,TRUE,A+
+238065,30,14. Plot.ly Homework,TRUE,A+
+240034,30,15. Geo-mapping Homework,TRUE,A+
+241018,30,Milestone: Polish Your Online Presence,TRUE,A+
+242053,30,Project 3,TRUE,A+
+243072,30,Milestone: Employer-Ready,TRUE,A+
+244090,30,18. Tableau Homework,TRUE,A+
+245022,30,19. Supervised Learning Homework,TRUE,A+
+246063,30,22. Big Data Homework,TRUE,A+
+247012,30,Milestone: Employer-Competitive,TRUE,A+
+248022,30,Project 4,TRUE,A+
+249043,30,20. Unsupervised Learning Homework,TRUE,A+
+250064,30,21. Deep Learning Homework,TRUE,A+
+221098,31,0: Data Prework,TRUE,A+
+222028,31,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,31,1. Excel Homework,TRUE,A+
+224010,31,2. Visual Basic Homework,TRUE,A+
+225060,31,3. Python Homework,TRUE,A+
+226069,31,4. Pandas Homework,TRUE,A+
+227052,31,5. Matplotlib Homework,TRUE,A+
+228052,31,Milestone: Pave Your Pathway,TRUE,A+
+229014,31,6. Python APIs Homework,TRUE,A+
+230090,31,Project 1,TRUE,A+
+231014,31,10. SQLAlchemy Homework,TRUE,A+
+232059,31,9. SQL Homework,TRUE,A+
+233012,31,Milestone: Develop Your Resume,TRUE,A+
+234060,31,11. HTML and CSS Homework,TRUE,A+
+235019,31,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,31,Project 2,TRUE,A+
+238065,31,14. Plot.ly Homework,TRUE,A+
+240034,31,15. Geo-mapping Homework,TRUE,A+
+241018,31,Milestone: Polish Your Online Presence,TRUE,A+
+242053,31,Project 3,TRUE,A+
+243072,31,Milestone: Employer-Ready,TRUE,A+
+244090,31,18. Tableau Homework,TRUE,A+
+245022,31,19. Supervised Learning Homework,TRUE,A+
+246063,31,22. Big Data Homework,TRUE,A+
+247012,31,Milestone: Employer-Competitive,TRUE,A+
+248022,31,Project 4,TRUE,A+
+249043,31,20. Unsupervised Learning Homework,TRUE,A+
+250064,31,21. Deep Learning Homework,TRUE,A+
+221098,32,0: Data Prework,TRUE,A+
+222028,32,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,32,1. Excel Homework,TRUE,A+
+224010,32,2. Visual Basic Homework,TRUE,A+
+225060,32,3. Python Homework,TRUE,A+
+226069,32,4. Pandas Homework,TRUE,A+
+227052,32,5. Matplotlib Homework,TRUE,A+
+228052,32,Milestone: Pave Your Pathway,TRUE,A+
+229014,32,6. Python APIs Homework,TRUE,A+
+230090,32,Project 1,TRUE,A+
+231014,32,10. SQLAlchemy Homework,TRUE,A+
+232059,32,9. SQL Homework,TRUE,A+
+233012,32,Milestone: Develop Your Resume,TRUE,A+
+234060,32,11. HTML and CSS Homework,TRUE,A+
+235019,32,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,32,Project 2,TRUE,A+
+238065,32,14. Plot.ly Homework,TRUE,A+
+240034,32,15. Geo-mapping Homework,TRUE,A+
+241018,32,Milestone: Polish Your Online Presence,TRUE,A+
+242053,32,Project 3,TRUE,A+
+243072,32,Milestone: Employer-Ready,TRUE,A+
+244090,32,18. Tableau Homework,TRUE,A+
+245022,32,19. Supervised Learning Homework,TRUE,A+
+246063,32,22. Big Data Homework,TRUE,A+
+247012,32,Milestone: Employer-Competitive,TRUE,A+
+248022,32,Project 4,TRUE,A+
+249043,32,20. Unsupervised Learning Homework,TRUE,A+
+250064,32,21. Deep Learning Homework,TRUE,A+
+221098,33,0: Data Prework,TRUE,A+
+222028,33,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,33,1. Excel Homework,TRUE,A+
+224010,33,2. Visual Basic Homework,TRUE,A+
+225060,33,3. Python Homework,TRUE,A+
+226069,33,4. Pandas Homework,TRUE,A+
+227052,33,5. Matplotlib Homework,TRUE,A+
+228052,33,Milestone: Pave Your Pathway,TRUE,A+
+229014,33,6. Python APIs Homework,TRUE,A+
+230090,33,Project 1,TRUE,A+
+231014,33,10. SQLAlchemy Homework,TRUE,A+
+232059,33,9. SQL Homework,TRUE,A+
+233012,33,Milestone: Develop Your Resume,TRUE,A+
+234060,33,11. HTML and CSS Homework,TRUE,A+
+235019,33,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,33,Project 2,TRUE,A+
+238065,33,14. Plot.ly Homework,TRUE,A+
+240034,33,15. Geo-mapping Homework,TRUE,A+
+241018,33,Milestone: Polish Your Online Presence,TRUE,A+
+242053,33,Project 3,TRUE,A+
+243072,33,Milestone: Employer-Ready,TRUE,A+
+244090,33,18. Tableau Homework,TRUE,A+
+245022,33,19. Supervised Learning Homework,TRUE,A+
+246063,33,22. Big Data Homework,TRUE,A+
+247012,33,Milestone: Employer-Competitive,TRUE,A+
+248022,33,Project 4,TRUE,A+
+249043,33,20. Unsupervised Learning Homework,TRUE,A+
+250064,33,21. Deep Learning Homework,TRUE,A+
+221098,34,0: Data Prework,TRUE,A+
+222028,34,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,34,1. Excel Homework,TRUE,A+
+224010,34,2. Visual Basic Homework,TRUE,A+
+225060,34,3. Python Homework,TRUE,A+
+226069,34,4. Pandas Homework,TRUE,A+
+227052,34,5. Matplotlib Homework,TRUE,A+
+228052,34,Milestone: Pave Your Pathway,TRUE,A+
+229014,34,6. Python APIs Homework,TRUE,A+
+230090,34,Project 1,TRUE,A+
+231014,34,10. SQLAlchemy Homework,TRUE,A+
+232059,34,9. SQL Homework,TRUE,A+
+233012,34,Milestone: Develop Your Resume,TRUE,A+
+234060,34,11. HTML and CSS Homework,TRUE,A+
+235019,34,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,34,Project 2,TRUE,A+
+238065,34,14. Plot.ly Homework,TRUE,A+
+240034,34,15. Geo-mapping Homework,TRUE,A+
+241018,34,Milestone: Polish Your Online Presence,TRUE,A+
+242053,34,Project 3,TRUE,A+
+243072,34,Milestone: Employer-Ready,TRUE,A+
+244090,34,18. Tableau Homework,TRUE,A+
+245022,34,19. Supervised Learning Homework,TRUE,A+
+246063,34,22. Big Data Homework,TRUE,A+
+247012,34,Milestone: Employer-Competitive,TRUE,A+
+248022,34,Project 4,TRUE,A+
+249043,34,20. Unsupervised Learning Homework,TRUE,A+
+250064,34,21. Deep Learning Homework,TRUE,A+
+221098,35,0: Data Prework,TRUE,A+
+222028,35,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,35,1. Excel Homework,TRUE,A+
+224010,35,2. Visual Basic Homework,TRUE,A+
+225060,35,3. Python Homework,TRUE,A+
+226069,35,4. Pandas Homework,TRUE,A+
+227052,35,5. Matplotlib Homework,TRUE,A+
+228052,35,Milestone: Pave Your Pathway,TRUE,A+
+229014,35,6. Python APIs Homework,TRUE,A+
+230090,35,Project 1,TRUE,A+
+231014,35,10. SQLAlchemy Homework,TRUE,A+
+232059,35,9. SQL Homework,TRUE,A+
+233012,35,Milestone: Develop Your Resume,TRUE,A+
+234060,35,11. HTML and CSS Homework,TRUE,A+
+235019,35,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,35,Project 2,TRUE,A+
+238065,35,14. Plot.ly Homework,TRUE,A+
+240034,35,15. Geo-mapping Homework,TRUE,A+
+241018,35,Milestone: Polish Your Online Presence,TRUE,A+
+242053,35,Project 3,TRUE,A+
+243072,35,Milestone: Employer-Ready,TRUE,A+
+244090,35,18. Tableau Homework,TRUE,A+
+245022,35,19. Supervised Learning Homework,TRUE,A+
+246063,35,22. Big Data Homework,TRUE,A+
+247012,35,Milestone: Employer-Competitive,TRUE,A+
+248022,35,Project 4,TRUE,A+
+249043,35,20. Unsupervised Learning Homework,TRUE,A+
+250064,35,21. Deep Learning Homework,TRUE,A+
+221098,36,0: Data Prework,TRUE,A+
+222028,36,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,36,1. Excel Homework,TRUE,A+
+224010,36,2. Visual Basic Homework,TRUE,A+
+225060,36,3. Python Homework,TRUE,A+
+226069,36,4. Pandas Homework,TRUE,A+
+227052,36,5. Matplotlib Homework,TRUE,A+
+228052,36,Milestone: Pave Your Pathway,TRUE,A+
+229014,36,6. Python APIs Homework,TRUE,A+
+230090,36,Project 1,TRUE,A+
+231014,36,10. SQLAlchemy Homework,TRUE,A+
+232059,36,9. SQL Homework,TRUE,A+
+233012,36,Milestone: Develop Your Resume,TRUE,A+
+234060,36,11. HTML and CSS Homework,TRUE,A+
+235019,36,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,36,Project 2,TRUE,A+
+238065,36,14. Plot.ly Homework,TRUE,A+
+240034,36,15. Geo-mapping Homework,TRUE,A+
+241018,36,Milestone: Polish Your Online Presence,TRUE,A+
+242053,36,Project 3,TRUE,A+
+243072,36,Milestone: Employer-Ready,TRUE,A+
+244090,36,18. Tableau Homework,TRUE,A+
+245022,36,19. Supervised Learning Homework,TRUE,A+
+246063,36,22. Big Data Homework,TRUE,A+
+247012,36,Milestone: Employer-Competitive,TRUE,A+
+248022,36,Project 4,TRUE,A+
+249043,36,20. Unsupervised Learning Homework,TRUE,A+
+250064,36,21. Deep Learning Homework,TRUE,A+
+221098,37,0: Data Prework,TRUE,A+
+222028,37,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,37,1. Excel Homework,TRUE,A+
+224010,37,2. Visual Basic Homework,TRUE,A+
+225060,37,3. Python Homework,TRUE,A+
+226069,37,4. Pandas Homework,TRUE,A+
+227052,37,5. Matplotlib Homework,TRUE,A+
+228052,37,Milestone: Pave Your Pathway,TRUE,A+
+229014,37,6. Python APIs Homework,TRUE,A+
+230090,37,Project 1,TRUE,A+
+231014,37,10. SQLAlchemy Homework,TRUE,A+
+232059,37,9. SQL Homework,TRUE,A+
+233012,37,Milestone: Develop Your Resume,TRUE,A+
+234060,37,11. HTML and CSS Homework,TRUE,A+
+235019,37,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,37,Project 2,TRUE,A+
+238065,37,14. Plot.ly Homework,TRUE,A+
+240034,37,15. Geo-mapping Homework,TRUE,A+
+241018,37,Milestone: Polish Your Online Presence,TRUE,A+
+242053,37,Project 3,TRUE,A+
+243072,37,Milestone: Employer-Ready,TRUE,A+
+244090,37,18. Tableau Homework,TRUE,A+
+245022,37,19. Supervised Learning Homework,TRUE,A+
+246063,37,22. Big Data Homework,TRUE,A+
+247012,37,Milestone: Employer-Competitive,TRUE,A+
+248022,37,Project 4,TRUE,A+
+249043,37,20. Unsupervised Learning Homework,TRUE,A+
+250064,37,21. Deep Learning Homework,TRUE,A+
+221098,38,0: Data Prework,TRUE,A+
+222028,38,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,38,1. Excel Homework,TRUE,A+
+224010,38,2. Visual Basic Homework,TRUE,A+
+225060,38,3. Python Homework,TRUE,A+
+226069,38,4. Pandas Homework,TRUE,A+
+227052,38,5. Matplotlib Homework,TRUE,A+
+228052,38,Milestone: Pave Your Pathway,TRUE,A+
+229014,38,6. Python APIs Homework,TRUE,A+
+230090,38,Project 1,TRUE,A+
+231014,38,10. SQLAlchemy Homework,TRUE,A+
+232059,38,9. SQL Homework,TRUE,A+
+233012,38,Milestone: Develop Your Resume,TRUE,A+
+234060,38,11. HTML and CSS Homework,TRUE,A+
+235019,38,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,38,Project 2,TRUE,A+
+238065,38,14. Plot.ly Homework,TRUE,A+
+240034,38,15. Geo-mapping Homework,TRUE,A+
+241018,38,Milestone: Polish Your Online Presence,TRUE,A+
+242053,38,Project 3,TRUE,A+
+243072,38,Milestone: Employer-Ready,TRUE,A+
+244090,38,18. Tableau Homework,TRUE,A+
+245022,38,19. Supervised Learning Homework,TRUE,A+
+246063,38,22. Big Data Homework,TRUE,A+
+247012,38,Milestone: Employer-Competitive,TRUE,A+
+248022,38,Project 4,TRUE,A+
+249043,38,20. Unsupervised Learning Homework,TRUE,A+
+250064,38,21. Deep Learning Homework,TRUE,A+
+221098,39,0: Data Prework,TRUE,A+
+222028,39,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,39,1. Excel Homework,TRUE,A+
+224010,39,2. Visual Basic Homework,TRUE,A+
+225060,39,3. Python Homework,TRUE,A+
+226069,39,4. Pandas Homework,TRUE,A+
+227052,39,5. Matplotlib Homework,TRUE,A+
+228052,39,Milestone: Pave Your Pathway,TRUE,A+
+229014,39,6. Python APIs Homework,TRUE,A+
+230090,39,Project 1,TRUE,A+
+231014,39,10. SQLAlchemy Homework,TRUE,A+
+232059,39,9. SQL Homework,TRUE,A+
+233012,39,Milestone: Develop Your Resume,TRUE,A+
+234060,39,11. HTML and CSS Homework,TRUE,A+
+235019,39,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,39,Project 2,TRUE,A+
+238065,39,14. Plot.ly Homework,TRUE,A+
+240034,39,15. Geo-mapping Homework,TRUE,A+
+241018,39,Milestone: Polish Your Online Presence,TRUE,A+
+242053,39,Project 3,TRUE,A+
+243072,39,Milestone: Employer-Ready,TRUE,A+
+244090,39,18. Tableau Homework,TRUE,A+
+245022,39,19. Supervised Learning Homework,TRUE,A+
+246063,39,22. Big Data Homework,TRUE,A+
+247012,39,Milestone: Employer-Competitive,TRUE,A+
+248022,39,Project 4,TRUE,A+
+249043,39,20. Unsupervised Learning Homework,TRUE,A+
+250064,39,21. Deep Learning Homework,TRUE,A+
+221098,40,0: Data Prework,TRUE,A+
+222028,40,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,40,1. Excel Homework,TRUE,A+
+224010,40,2. Visual Basic Homework,TRUE,A+
+225060,40,3. Python Homework,TRUE,A+
+226069,40,4. Pandas Homework,TRUE,A+
+227052,40,5. Matplotlib Homework,TRUE,A+
+228052,40,Milestone: Pave Your Pathway,TRUE,A+
+229014,40,6. Python APIs Homework,TRUE,A+
+230090,40,Project 1,TRUE,A+
+231014,40,10. SQLAlchemy Homework,TRUE,A+
+232059,40,9. SQL Homework,TRUE,A+
+233012,40,Milestone: Develop Your Resume,TRUE,A+
+234060,40,11. HTML and CSS Homework,TRUE,A+
+235019,40,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,40,Project 2,TRUE,A+
+238065,40,14. Plot.ly Homework,TRUE,A+
+240034,40,15. Geo-mapping Homework,TRUE,A+
+241018,40,Milestone: Polish Your Online Presence,TRUE,A+
+242053,40,Project 3,TRUE,A+
+243072,40,Milestone: Employer-Ready,TRUE,A+
+244090,40,18. Tableau Homework,TRUE,A+
+245022,40,19. Supervised Learning Homework,TRUE,A+
+246063,40,22. Big Data Homework,TRUE,A+
+247012,40,Milestone: Employer-Competitive,TRUE,A+
+248022,40,Project 4,TRUE,A+
+249043,40,20. Unsupervised Learning Homework,TRUE,A+
+250064,40,21. Deep Learning Homework,TRUE,A+
+221098,41,0: Data Prework,TRUE,A+
+222028,41,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,41,1. Excel Homework,TRUE,A+
+224010,41,2. Visual Basic Homework,TRUE,A+
+225060,41,3. Python Homework,TRUE,A+
+226069,41,4. Pandas Homework,TRUE,A+
+227052,41,5. Matplotlib Homework,TRUE,A+
+228052,41,Milestone: Pave Your Pathway,TRUE,A+
+229014,41,6. Python APIs Homework,TRUE,A+
+230090,41,Project 1,TRUE,A+
+231014,41,10. SQLAlchemy Homework,TRUE,A+
+232059,41,9. SQL Homework,TRUE,A+
+233012,41,Milestone: Develop Your Resume,TRUE,A+
+234060,41,11. HTML and CSS Homework,TRUE,A+
+235019,41,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,41,Project 2,TRUE,A+
+238065,41,14. Plot.ly Homework,TRUE,A+
+240034,41,15. Geo-mapping Homework,TRUE,A+
+241018,41,Milestone: Polish Your Online Presence,TRUE,A+
+242053,41,Project 3,TRUE,A+
+243072,41,Milestone: Employer-Ready,TRUE,A+
+244090,41,18. Tableau Homework,TRUE,A+
+245022,41,19. Supervised Learning Homework,TRUE,A+
+246063,41,22. Big Data Homework,TRUE,A+
+247012,41,Milestone: Employer-Competitive,TRUE,A+
+248022,41,Project 4,TRUE,A+
+249043,41,20. Unsupervised Learning Homework,TRUE,A+
+250064,41,21. Deep Learning Homework,TRUE,A+
+221098,42,0: Data Prework,TRUE,A+
+222028,42,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,42,1. Excel Homework,TRUE,A+
+224010,42,2. Visual Basic Homework,TRUE,A+
+225060,42,3. Python Homework,TRUE,A+
+226069,42,4. Pandas Homework,TRUE,A+
+227052,42,5. Matplotlib Homework,TRUE,A+
+228052,42,Milestone: Pave Your Pathway,TRUE,A+
+229014,42,6. Python APIs Homework,TRUE,A+
+230090,42,Project 1,TRUE,A+
+231014,42,10. SQLAlchemy Homework,TRUE,A+
+232059,42,9. SQL Homework,TRUE,A+
+233012,42,Milestone: Develop Your Resume,TRUE,A+
+234060,42,11. HTML and CSS Homework,TRUE,A+
+235019,42,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,42,Project 2,TRUE,A+
+238065,42,14. Plot.ly Homework,TRUE,A+
+240034,42,15. Geo-mapping Homework,TRUE,A+
+241018,42,Milestone: Polish Your Online Presence,TRUE,A+
+242053,42,Project 3,TRUE,A+
+243072,42,Milestone: Employer-Ready,TRUE,A+
+244090,42,18. Tableau Homework,TRUE,A+
+245022,42,19. Supervised Learning Homework,TRUE,A+
+246063,42,22. Big Data Homework,TRUE,A+
+247012,42,Milestone: Employer-Competitive,TRUE,A+
+248022,42,Project 4,TRUE,A+
+249043,42,20. Unsupervised Learning Homework,TRUE,A+
+250064,42,21. Deep Learning Homework,TRUE,A+
+221098,43,0: Data Prework,TRUE,A+
+222028,43,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,43,1. Excel Homework,TRUE,A+
+224010,43,2. Visual Basic Homework,TRUE,A+
+225060,43,3. Python Homework,TRUE,A+
+226069,43,4. Pandas Homework,TRUE,A+
+227052,43,5. Matplotlib Homework,TRUE,A+
+228052,43,Milestone: Pave Your Pathway,TRUE,A+
+229014,43,6. Python APIs Homework,TRUE,A+
+230090,43,Project 1,TRUE,A+
+231014,43,10. SQLAlchemy Homework,TRUE,A+
+232059,43,9. SQL Homework,TRUE,A+
+233012,43,Milestone: Develop Your Resume,TRUE,A+
+234060,43,11. HTML and CSS Homework,TRUE,A+
+235019,43,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,43,Project 2,TRUE,A+
+238065,43,14. Plot.ly Homework,TRUE,A+
+240034,43,15. Geo-mapping Homework,TRUE,A+
+241018,43,Milestone: Polish Your Online Presence,TRUE,A+
+242053,43,Project 3,TRUE,A+
+243072,43,Milestone: Employer-Ready,TRUE,A+
+244090,43,18. Tableau Homework,TRUE,A+
+245022,43,19. Supervised Learning Homework,TRUE,A+
+246063,43,22. Big Data Homework,TRUE,A+
+247012,43,Milestone: Employer-Competitive,TRUE,A+
+248022,43,Project 4,TRUE,A+
+249043,43,20. Unsupervised Learning Homework,TRUE,A+
+250064,43,21. Deep Learning Homework,TRUE,A+
+221098,44,0: Data Prework,TRUE,A+
+222028,44,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,44,1. Excel Homework,TRUE,A+
+224010,44,2. Visual Basic Homework,TRUE,A+
+225060,44,3. Python Homework,TRUE,A+
+226069,44,4. Pandas Homework,TRUE,A+
+227052,44,5. Matplotlib Homework,TRUE,A+
+228052,44,Milestone: Pave Your Pathway,TRUE,A+
+229014,44,6. Python APIs Homework,TRUE,A+
+230090,44,Project 1,TRUE,A+
+231014,44,10. SQLAlchemy Homework,TRUE,A+
+232059,44,9. SQL Homework,TRUE,A+
+233012,44,Milestone: Develop Your Resume,TRUE,A+
+234060,44,11. HTML and CSS Homework,TRUE,A+
+235019,44,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,44,Project 2,TRUE,A+
+238065,44,14. Plot.ly Homework,TRUE,A+
+240034,44,15. Geo-mapping Homework,TRUE,A+
+241018,44,Milestone: Polish Your Online Presence,TRUE,A+
+242053,44,Project 3,TRUE,A+
+243072,44,Milestone: Employer-Ready,TRUE,A+
+244090,44,18. Tableau Homework,TRUE,A+
+245022,44,19. Supervised Learning Homework,TRUE,A+
+246063,44,22. Big Data Homework,TRUE,A+
+247012,44,Milestone: Employer-Competitive,TRUE,A+
+248022,44,Project 4,TRUE,A+
+249043,44,20. Unsupervised Learning Homework,TRUE,A+
+250064,44,21. Deep Learning Homework,TRUE,A+
+221098,45,0: Data Prework,TRUE,A+
+222028,45,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,45,1. Excel Homework,TRUE,A+
+224010,45,2. Visual Basic Homework,TRUE,A+
+225060,45,3. Python Homework,TRUE,A+
+226069,45,4. Pandas Homework,TRUE,A+
+227052,45,5. Matplotlib Homework,TRUE,A+
+228052,45,Milestone: Pave Your Pathway,TRUE,A+
+229014,45,6. Python APIs Homework,TRUE,A+
+230090,45,Project 1,TRUE,A+
+231014,45,10. SQLAlchemy Homework,TRUE,A+
+232059,45,9. SQL Homework,TRUE,A+
+233012,45,Milestone: Develop Your Resume,TRUE,A+
+234060,45,11. HTML and CSS Homework,TRUE,A+
+235019,45,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,45,Project 2,TRUE,A+
+238065,45,14. Plot.ly Homework,TRUE,A+
+240034,45,15. Geo-mapping Homework,TRUE,A+
+241018,45,Milestone: Polish Your Online Presence,TRUE,A+
+242053,45,Project 3,TRUE,A+
+243072,45,Milestone: Employer-Ready,TRUE,A+
+244090,45,18. Tableau Homework,TRUE,A+
+245022,45,19. Supervised Learning Homework,TRUE,A+
+246063,45,22. Big Data Homework,TRUE,A+
+247012,45,Milestone: Employer-Competitive,TRUE,A+
+248022,45,Project 4,TRUE,A+
+249043,45,20. Unsupervised Learning Homework,TRUE,A+
+250064,45,21. Deep Learning Homework,TRUE,A+
+221098,46,0: Data Prework,TRUE,A+
+222028,46,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,46,1. Excel Homework,TRUE,A+
+224010,46,2. Visual Basic Homework,TRUE,A+
+225060,46,3. Python Homework,TRUE,A+
+226069,46,4. Pandas Homework,TRUE,A+
+227052,46,5. Matplotlib Homework,TRUE,A+
+228052,46,Milestone: Pave Your Pathway,TRUE,A+
+229014,46,6. Python APIs Homework,TRUE,A+
+230090,46,Project 1,TRUE,A+
+231014,46,10. SQLAlchemy Homework,TRUE,A+
+232059,46,9. SQL Homework,TRUE,A+
+233012,46,Milestone: Develop Your Resume,TRUE,A+
+234060,46,11. HTML and CSS Homework,TRUE,A+
+235019,46,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,46,Project 2,TRUE,A+
+238065,46,14. Plot.ly Homework,TRUE,A+
+240034,46,15. Geo-mapping Homework,TRUE,A+
+241018,46,Milestone: Polish Your Online Presence,TRUE,A+
+242053,46,Project 3,TRUE,A+
+243072,46,Milestone: Employer-Ready,TRUE,A+
+244090,46,18. Tableau Homework,TRUE,A+
+245022,46,19. Supervised Learning Homework,TRUE,A+
+246063,46,22. Big Data Homework,TRUE,A+
+247012,46,Milestone: Employer-Competitive,TRUE,A+
+248022,46,Project 4,TRUE,A+
+249043,46,20. Unsupervised Learning Homework,TRUE,A+
+250064,46,21. Deep Learning Homework,TRUE,A+
+221098,47,0: Data Prework,TRUE,A+
+222028,47,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,47,1. Excel Homework,TRUE,A+
+224010,47,2. Visual Basic Homework,TRUE,A+
+225060,47,3. Python Homework,TRUE,A+
+226069,47,4. Pandas Homework,TRUE,A+
+227052,47,5. Matplotlib Homework,TRUE,A+
+228052,47,Milestone: Pave Your Pathway,TRUE,A+
+229014,47,6. Python APIs Homework,TRUE,A+
+230090,47,Project 1,TRUE,A+
+231014,47,10. SQLAlchemy Homework,TRUE,A+
+232059,47,9. SQL Homework,TRUE,A+
+233012,47,Milestone: Develop Your Resume,TRUE,A+
+234060,47,11. HTML and CSS Homework,TRUE,A+
+235019,47,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,47,Project 2,TRUE,A+
+238065,47,14. Plot.ly Homework,TRUE,A+
+240034,47,15. Geo-mapping Homework,TRUE,A+
+241018,47,Milestone: Polish Your Online Presence,TRUE,A+
+242053,47,Project 3,TRUE,A+
+243072,47,Milestone: Employer-Ready,TRUE,A+
+244090,47,18. Tableau Homework,TRUE,A+
+245022,47,19. Supervised Learning Homework,TRUE,A+
+246063,47,22. Big Data Homework,TRUE,A+
+247012,47,Milestone: Employer-Competitive,TRUE,A+
+248022,47,Project 4,TRUE,A+
+249043,47,20. Unsupervised Learning Homework,TRUE,A+
+250064,47,21. Deep Learning Homework,TRUE,A+
+221098,48,0: Data Prework,TRUE,A+
+222028,48,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,48,1. Excel Homework,TRUE,A+
+224010,48,2. Visual Basic Homework,TRUE,A+
+225060,48,3. Python Homework,TRUE,A+
+226069,48,4. Pandas Homework,TRUE,A+
+227052,48,5. Matplotlib Homework,TRUE,A+
+228052,48,Milestone: Pave Your Pathway,TRUE,A+
+229014,48,6. Python APIs Homework,TRUE,A+
+230090,48,Project 1,TRUE,A+
+231014,48,10. SQLAlchemy Homework,TRUE,A+
+232059,48,9. SQL Homework,TRUE,A+
+233012,48,Milestone: Develop Your Resume,TRUE,A+
+234060,48,11. HTML and CSS Homework,TRUE,A+
+235019,48,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,48,Project 2,TRUE,A+
+238065,48,14. Plot.ly Homework,TRUE,A+
+240034,48,15. Geo-mapping Homework,TRUE,A+
+241018,48,Milestone: Polish Your Online Presence,TRUE,A+
+242053,48,Project 3,TRUE,A+
+243072,48,Milestone: Employer-Ready,TRUE,A+
+244090,48,18. Tableau Homework,TRUE,A+
+245022,48,19. Supervised Learning Homework,TRUE,A+
+246063,48,22. Big Data Homework,TRUE,A+
+247012,48,Milestone: Employer-Competitive,TRUE,A+
+248022,48,Project 4,TRUE,A+
+249043,48,20. Unsupervised Learning Homework,TRUE,A+
+250064,48,21. Deep Learning Homework,TRUE,A+
+221098,49,0: Data Prework,TRUE,A+
+222028,49,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,49,1. Excel Homework,TRUE,A+
+224010,49,2. Visual Basic Homework,TRUE,A+
+225060,49,3. Python Homework,TRUE,A+
+226069,49,4. Pandas Homework,TRUE,A+
+227052,49,5. Matplotlib Homework,TRUE,A+
+228052,49,Milestone: Pave Your Pathway,TRUE,A+
+229014,49,6. Python APIs Homework,TRUE,A+
+230090,49,Project 1,TRUE,A+
+231014,49,10. SQLAlchemy Homework,TRUE,A+
+232059,49,9. SQL Homework,TRUE,A+
+233012,49,Milestone: Develop Your Resume,TRUE,A+
+234060,49,11. HTML and CSS Homework,TRUE,A+
+235019,49,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,49,Project 2,TRUE,A+
+238065,49,14. Plot.ly Homework,TRUE,A+
+240034,49,15. Geo-mapping Homework,TRUE,A+
+241018,49,Milestone: Polish Your Online Presence,TRUE,A+
+242053,49,Project 3,TRUE,A+
+243072,49,Milestone: Employer-Ready,TRUE,A+
+244090,49,18. Tableau Homework,TRUE,A+
+245022,49,19. Supervised Learning Homework,TRUE,A+
+246063,49,22. Big Data Homework,TRUE,A+
+247012,49,Milestone: Employer-Competitive,TRUE,A+
+248022,49,Project 4,TRUE,A+
+249043,49,20. Unsupervised Learning Homework,TRUE,A+
+250064,49,21. Deep Learning Homework,TRUE,A+
+221098,50,0: Data Prework,TRUE,A+
+222028,50,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+223039,50,1. Excel Homework,TRUE,A+
+224010,50,2. Visual Basic Homework,TRUE,A+
+225060,50,3. Python Homework,TRUE,A+
+226069,50,4. Pandas Homework,TRUE,A+
+227052,50,5. Matplotlib Homework,TRUE,A+
+228052,50,Milestone: Pave Your Pathway,TRUE,A+
+229014,50,6. Python APIs Homework,TRUE,A+
+230090,50,Project 1,TRUE,A+
+231014,50,10. SQLAlchemy Homework,TRUE,A+
+232059,50,9. SQL Homework,TRUE,A+
+233012,50,Milestone: Develop Your Resume,TRUE,A+
+234060,50,11. HTML and CSS Homework,TRUE,A+
+235019,50,12. Web Scraping and Mongo Homework,TRUE,A+
+236073,50,Project 2,TRUE,A+
+238065,50,14. Plot.ly Homework,TRUE,A+
+240034,50,15. Geo-mapping Homework,TRUE,A+
+241018,50,Milestone: Polish Your Online Presence,TRUE,A+
+242053,50,Project 3,TRUE,A+
+243072,50,Milestone: Employer-Ready,TRUE,A+
+244090,50,18. Tableau Homework,TRUE,A+
+245022,50,19. Supervised Learning Homework,TRUE,A+
+246063,50,22. Big Data Homework,TRUE,A+
+247012,50,Milestone: Employer-Competitive,TRUE,A+
+248022,50,Project 4,TRUE,A+
+249043,50,20. Unsupervised Learning Homework,TRUE,A+
+250064,50,21. Deep Learning Homework,TRUE,A+
+231019,51,0: Data Prework,TRUE,A+
+232023,51,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,51,1. Excel Homework,TRUE,A+
+234094,51,2. Visual Basic Homework,TRUE,A+
+235007,51,3. Python Homework,TRUE,A+
+236081,51,4. Pandas Homework,TRUE,A+
+237090,51,5. Matplotlib Homework,TRUE,A+
+238028,51,Milestone: Pave Your Pathway,TRUE,A+
+239060,51,6. Python APIs Homework,TRUE,A+
+240042,51,Project 1,TRUE,A+
+241029,51,10. SQLAlchemy Homework,TRUE,A+
+242009,51,9. SQL Homework,TRUE,A+
+243078,51,Milestone: Develop Your Resume,TRUE,A+
+244049,51,11. HTML and CSS Homework,TRUE,A+
+245009,51,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,51,Project 2,TRUE,A+
+248063,51,14. Plot.ly Homework,TRUE,A+
+250031,51,15. Geo-mapping Homework,TRUE,A+
+251064,51,Milestone: Polish Your Online Presence,TRUE,A+
+252090,51,Project 3,TRUE,A+
+253032,51,Milestone: Employer-Ready,TRUE,A+
+254092,51,18. Tableau Homework,TRUE,A+
+255016,51,19. Supervised Learning Homework,TRUE,A+
+256017,51,22. Big Data Homework,TRUE,A+
+257046,51,Milestone: Employer-Competitive,TRUE,A+
+258054,51,Project 4,TRUE,A+
+259062,51,20. Unsupervised Learning Homework,TRUE,A+
+260027,51,21. Deep Learning Homework,TRUE,A+
+231019,52,0: Data Prework,TRUE,A+
+232023,52,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,52,1. Excel Homework,TRUE,A+
+234094,52,2. Visual Basic Homework,TRUE,A+
+235007,52,3. Python Homework,TRUE,A+
+236081,52,4. Pandas Homework,TRUE,A+
+237090,52,5. Matplotlib Homework,TRUE,A+
+238028,52,Milestone: Pave Your Pathway,TRUE,A+
+239060,52,6. Python APIs Homework,TRUE,A+
+240042,52,Project 1,TRUE,A+
+241029,52,10. SQLAlchemy Homework,TRUE,A+
+242009,52,9. SQL Homework,TRUE,A+
+243078,52,Milestone: Develop Your Resume,TRUE,A+
+244049,52,11. HTML and CSS Homework,TRUE,A+
+245009,52,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,52,Project 2,TRUE,A+
+248063,52,14. Plot.ly Homework,TRUE,A+
+250031,52,15. Geo-mapping Homework,TRUE,A+
+251064,52,Milestone: Polish Your Online Presence,TRUE,A+
+252090,52,Project 3,TRUE,A+
+253032,52,Milestone: Employer-Ready,TRUE,A+
+254092,52,18. Tableau Homework,TRUE,A+
+255016,52,19. Supervised Learning Homework,TRUE,A+
+256017,52,22. Big Data Homework,TRUE,A+
+257046,52,Milestone: Employer-Competitive,TRUE,A+
+258054,52,Project 4,TRUE,A+
+259062,52,20. Unsupervised Learning Homework,TRUE,A+
+260027,52,21. Deep Learning Homework,TRUE,A+
+231019,53,0: Data Prework,TRUE,A+
+232023,53,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,53,1. Excel Homework,TRUE,A+
+234094,53,2. Visual Basic Homework,TRUE,A+
+235007,53,3. Python Homework,TRUE,A+
+236081,53,4. Pandas Homework,TRUE,A+
+237090,53,5. Matplotlib Homework,TRUE,A+
+238028,53,Milestone: Pave Your Pathway,TRUE,A+
+239060,53,6. Python APIs Homework,TRUE,A+
+240042,53,Project 1,TRUE,A+
+241029,53,10. SQLAlchemy Homework,TRUE,A+
+242009,53,9. SQL Homework,TRUE,A+
+243078,53,Milestone: Develop Your Resume,TRUE,A+
+244049,53,11. HTML and CSS Homework,TRUE,A+
+245009,53,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,53,Project 2,TRUE,A+
+248063,53,14. Plot.ly Homework,TRUE,A+
+250031,53,15. Geo-mapping Homework,TRUE,A+
+251064,53,Milestone: Polish Your Online Presence,TRUE,A+
+252090,53,Project 3,TRUE,A+
+253032,53,Milestone: Employer-Ready,TRUE,A+
+254092,53,18. Tableau Homework,TRUE,A+
+255016,53,19. Supervised Learning Homework,TRUE,A+
+256017,53,22. Big Data Homework,TRUE,A+
+257046,53,Milestone: Employer-Competitive,TRUE,A+
+258054,53,Project 4,TRUE,A+
+259062,53,20. Unsupervised Learning Homework,TRUE,A+
+260027,53,21. Deep Learning Homework,TRUE,A+
+231019,54,0: Data Prework,TRUE,A+
+232023,54,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,54,1. Excel Homework,TRUE,A+
+234094,54,2. Visual Basic Homework,TRUE,A+
+235007,54,3. Python Homework,TRUE,A+
+236081,54,4. Pandas Homework,TRUE,A+
+237090,54,5. Matplotlib Homework,TRUE,A+
+238028,54,Milestone: Pave Your Pathway,TRUE,A+
+239060,54,6. Python APIs Homework,TRUE,A+
+240042,54,Project 1,TRUE,A+
+241029,54,10. SQLAlchemy Homework,TRUE,A+
+242009,54,9. SQL Homework,TRUE,A+
+243078,54,Milestone: Develop Your Resume,TRUE,A+
+244049,54,11. HTML and CSS Homework,TRUE,A+
+245009,54,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,54,Project 2,TRUE,A+
+248063,54,14. Plot.ly Homework,TRUE,A+
+250031,54,15. Geo-mapping Homework,TRUE,A+
+251064,54,Milestone: Polish Your Online Presence,TRUE,A+
+252090,54,Project 3,TRUE,A+
+253032,54,Milestone: Employer-Ready,TRUE,A+
+254092,54,18. Tableau Homework,TRUE,A+
+255016,54,19. Supervised Learning Homework,TRUE,A+
+256017,54,22. Big Data Homework,TRUE,A+
+257046,54,Milestone: Employer-Competitive,TRUE,A+
+258054,54,Project 4,TRUE,A+
+259062,54,20. Unsupervised Learning Homework,TRUE,A+
+260027,54,21. Deep Learning Homework,TRUE,A+
+231019,55,0: Data Prework,FALSE,
+232023,55,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,55,1. Excel Homework,TRUE,A+
+234094,55,2. Visual Basic Homework,TRUE,A+
+235007,55,3. Python Homework,TRUE,A+
+236081,55,4. Pandas Homework,TRUE,A+
+237090,55,5. Matplotlib Homework,TRUE,A+
+238028,55,Milestone: Pave Your Pathway,TRUE,A+
+239060,55,6. Python APIs Homework,TRUE,A+
+240042,55,Project 1,TRUE,A+
+241029,55,10. SQLAlchemy Homework,TRUE,A+
+242009,55,9. SQL Homework,TRUE,A+
+243078,55,Milestone: Develop Your Resume,TRUE,A+
+244049,55,11. HTML and CSS Homework,TRUE,A+
+245009,55,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,55,Project 2,TRUE,A+
+248063,55,14. Plot.ly Homework,TRUE,A+
+250031,55,15. Geo-mapping Homework,TRUE,A+
+251064,55,Milestone: Polish Your Online Presence,TRUE,A+
+252090,55,Project 3,TRUE,A+
+253032,55,Milestone: Employer-Ready,TRUE,A+
+254092,55,18. Tableau Homework,TRUE,A+
+255016,55,19. Supervised Learning Homework,TRUE,A+
+256017,55,22. Big Data Homework,TRUE,A+
+257046,55,Milestone: Employer-Competitive,TRUE,A+
+258054,55,Project 4,TRUE,A+
+259062,55,20. Unsupervised Learning Homework,TRUE,A+
+260027,55,21. Deep Learning Homework,TRUE,A+
+231019,56,0: Data Prework,TRUE,A+
+232023,56,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,56,1. Excel Homework,TRUE,A+
+234094,56,2. Visual Basic Homework,TRUE,A+
+235007,56,3. Python Homework,TRUE,A+
+236081,56,4. Pandas Homework,TRUE,A+
+237090,56,5. Matplotlib Homework,TRUE,A+
+238028,56,Milestone: Pave Your Pathway,TRUE,A+
+239060,56,6. Python APIs Homework,TRUE,A+
+240042,56,Project 1,TRUE,A+
+241029,56,10. SQLAlchemy Homework,TRUE,A+
+242009,56,9. SQL Homework,TRUE,A+
+243078,56,Milestone: Develop Your Resume,TRUE,A+
+244049,56,11. HTML and CSS Homework,TRUE,A+
+245009,56,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,56,Project 2,TRUE,A+
+248063,56,14. Plot.ly Homework,TRUE,A+
+250031,56,15. Geo-mapping Homework,TRUE,A+
+251064,56,Milestone: Polish Your Online Presence,TRUE,A+
+252090,56,Project 3,TRUE,A+
+253032,56,Milestone: Employer-Ready,TRUE,A+
+254092,56,18. Tableau Homework,TRUE,A+
+255016,56,19. Supervised Learning Homework,TRUE,A+
+256017,56,22. Big Data Homework,TRUE,A+
+257046,56,Milestone: Employer-Competitive,TRUE,A+
+258054,56,Project 4,TRUE,A+
+259062,56,20. Unsupervised Learning Homework,TRUE,A+
+260027,56,21. Deep Learning Homework,TRUE,A+
+231019,57,0: Data Prework,TRUE,A+
+232023,57,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,57,1. Excel Homework,TRUE,A+
+234094,57,2. Visual Basic Homework,TRUE,A+
+235007,57,3. Python Homework,TRUE,A+
+236081,57,4. Pandas Homework,TRUE,A+
+237090,57,5. Matplotlib Homework,TRUE,A+
+238028,57,Milestone: Pave Your Pathway,TRUE,A+
+239060,57,6. Python APIs Homework,TRUE,A+
+240042,57,Project 1,TRUE,A+
+241029,57,10. SQLAlchemy Homework,TRUE,A+
+242009,57,9. SQL Homework,TRUE,A+
+243078,57,Milestone: Develop Your Resume,TRUE,A+
+244049,57,11. HTML and CSS Homework,TRUE,A+
+245009,57,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,57,Project 2,TRUE,A+
+248063,57,14. Plot.ly Homework,TRUE,A+
+250031,57,15. Geo-mapping Homework,TRUE,A+
+251064,57,Milestone: Polish Your Online Presence,TRUE,A+
+252090,57,Project 3,TRUE,A+
+253032,57,Milestone: Employer-Ready,TRUE,A+
+254092,57,18. Tableau Homework,TRUE,A+
+255016,57,19. Supervised Learning Homework,TRUE,A+
+256017,57,22. Big Data Homework,TRUE,A+
+257046,57,Milestone: Employer-Competitive,TRUE,A+
+258054,57,Project 4,TRUE,A+
+259062,57,20. Unsupervised Learning Homework,TRUE,A+
+260027,57,21. Deep Learning Homework,TRUE,A+
+231019,58,0: Data Prework,TRUE,A+
+232023,58,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,58,1. Excel Homework,TRUE,A+
+234094,58,2. Visual Basic Homework,TRUE,A+
+235007,58,3. Python Homework,TRUE,A+
+236081,58,4. Pandas Homework,TRUE,A+
+237090,58,5. Matplotlib Homework,TRUE,A+
+238028,58,Milestone: Pave Your Pathway,TRUE,A+
+239060,58,6. Python APIs Homework,TRUE,A+
+240042,58,Project 1,TRUE,A+
+241029,58,10. SQLAlchemy Homework,TRUE,A+
+242009,58,9. SQL Homework,TRUE,A+
+243078,58,Milestone: Develop Your Resume,TRUE,A+
+244049,58,11. HTML and CSS Homework,TRUE,A+
+245009,58,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,58,Project 2,TRUE,A+
+248063,58,14. Plot.ly Homework,TRUE,A+
+250031,58,15. Geo-mapping Homework,TRUE,A+
+251064,58,Milestone: Polish Your Online Presence,TRUE,A+
+252090,58,Project 3,TRUE,A+
+253032,58,Milestone: Employer-Ready,TRUE,A+
+254092,58,18. Tableau Homework,TRUE,A+
+255016,58,19. Supervised Learning Homework,TRUE,A+
+256017,58,22. Big Data Homework,TRUE,A+
+257046,58,Milestone: Employer-Competitive,TRUE,A+
+258054,58,Project 4,TRUE,A+
+259062,58,20. Unsupervised Learning Homework,TRUE,A+
+260027,58,21. Deep Learning Homework,TRUE,A+
+231019,59,0: Data Prework,FALSE,
+232023,59,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,59,1. Excel Homework,TRUE,A+
+234094,59,2. Visual Basic Homework,TRUE,A+
+235007,59,3. Python Homework,TRUE,A+
+236081,59,4. Pandas Homework,TRUE,A+
+237090,59,5. Matplotlib Homework,TRUE,A+
+238028,59,Milestone: Pave Your Pathway,TRUE,A+
+239060,59,6. Python APIs Homework,TRUE,A+
+240042,59,Project 1,TRUE,A+
+241029,59,10. SQLAlchemy Homework,TRUE,A+
+242009,59,9. SQL Homework,TRUE,A+
+243078,59,Milestone: Develop Your Resume,TRUE,A+
+244049,59,11. HTML and CSS Homework,TRUE,A+
+245009,59,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,59,Project 2,TRUE,A+
+248063,59,14. Plot.ly Homework,TRUE,A+
+250031,59,15. Geo-mapping Homework,TRUE,A+
+251064,59,Milestone: Polish Your Online Presence,TRUE,A+
+252090,59,Project 3,TRUE,A+
+253032,59,Milestone: Employer-Ready,TRUE,A+
+254092,59,18. Tableau Homework,TRUE,A+
+255016,59,19. Supervised Learning Homework,TRUE,A+
+256017,59,22. Big Data Homework,TRUE,A+
+257046,59,Milestone: Employer-Competitive,TRUE,A+
+258054,59,Project 4,TRUE,A+
+259062,59,20. Unsupervised Learning Homework,TRUE,A+
+260027,59,21. Deep Learning Homework,TRUE,A+
+231019,60,0: Data Prework,TRUE,A+
+232023,60,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,60,1. Excel Homework,TRUE,A+
+234094,60,2. Visual Basic Homework,TRUE,A+
+235007,60,3. Python Homework,TRUE,A+
+236081,60,4. Pandas Homework,TRUE,A+
+237090,60,5. Matplotlib Homework,TRUE,A+
+238028,60,Milestone: Pave Your Pathway,TRUE,A+
+239060,60,6. Python APIs Homework,TRUE,A+
+240042,60,Project 1,TRUE,A+
+241029,60,10. SQLAlchemy Homework,TRUE,A+
+242009,60,9. SQL Homework,TRUE,A+
+243078,60,Milestone: Develop Your Resume,TRUE,A+
+244049,60,11. HTML and CSS Homework,TRUE,A+
+245009,60,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,60,Project 2,TRUE,A+
+248063,60,14. Plot.ly Homework,TRUE,A+
+250031,60,15. Geo-mapping Homework,TRUE,A+
+251064,60,Milestone: Polish Your Online Presence,TRUE,A+
+252090,60,Project 3,TRUE,A+
+253032,60,Milestone: Employer-Ready,TRUE,A+
+254092,60,18. Tableau Homework,TRUE,A+
+255016,60,19. Supervised Learning Homework,TRUE,A+
+256017,60,22. Big Data Homework,TRUE,A+
+257046,60,Milestone: Employer-Competitive,TRUE,A+
+258054,60,Project 4,TRUE,A+
+259062,60,20. Unsupervised Learning Homework,TRUE,A+
+260027,60,21. Deep Learning Homework,TRUE,A+
+231019,61,0: Data Prework,TRUE,A+
+232023,61,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,61,1. Excel Homework,TRUE,A+
+234094,61,2. Visual Basic Homework,TRUE,A+
+235007,61,3. Python Homework,TRUE,A+
+236081,61,4. Pandas Homework,TRUE,A+
+237090,61,5. Matplotlib Homework,TRUE,A+
+238028,61,Milestone: Pave Your Pathway,TRUE,A+
+239060,61,6. Python APIs Homework,TRUE,A+
+240042,61,Project 1,TRUE,A+
+241029,61,10. SQLAlchemy Homework,TRUE,A+
+242009,61,9. SQL Homework,TRUE,A+
+243078,61,Milestone: Develop Your Resume,TRUE,A+
+244049,61,11. HTML and CSS Homework,TRUE,A+
+245009,61,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,61,Project 2,TRUE,A+
+248063,61,14. Plot.ly Homework,TRUE,A+
+250031,61,15. Geo-mapping Homework,TRUE,A+
+251064,61,Milestone: Polish Your Online Presence,TRUE,A+
+252090,61,Project 3,TRUE,A+
+253032,61,Milestone: Employer-Ready,TRUE,A+
+254092,61,18. Tableau Homework,TRUE,A+
+255016,61,19. Supervised Learning Homework,TRUE,A+
+256017,61,22. Big Data Homework,TRUE,A+
+257046,61,Milestone: Employer-Competitive,TRUE,A+
+258054,61,Project 4,TRUE,A+
+259062,61,20. Unsupervised Learning Homework,TRUE,A+
+260027,61,21. Deep Learning Homework,TRUE,A+
+231019,62,0: Data Prework,TRUE,A+
+232023,62,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,62,1. Excel Homework,TRUE,A+
+234094,62,2. Visual Basic Homework,TRUE,A+
+235007,62,3. Python Homework,TRUE,A+
+236081,62,4. Pandas Homework,TRUE,A+
+237090,62,5. Matplotlib Homework,TRUE,A+
+238028,62,Milestone: Pave Your Pathway,TRUE,A+
+239060,62,6. Python APIs Homework,TRUE,A+
+240042,62,Project 1,TRUE,A+
+241029,62,10. SQLAlchemy Homework,TRUE,A+
+242009,62,9. SQL Homework,TRUE,A+
+243078,62,Milestone: Develop Your Resume,TRUE,A+
+244049,62,11. HTML and CSS Homework,TRUE,A+
+245009,62,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,62,Project 2,TRUE,A+
+248063,62,14. Plot.ly Homework,TRUE,A+
+250031,62,15. Geo-mapping Homework,TRUE,A+
+251064,62,Milestone: Polish Your Online Presence,TRUE,A+
+252090,62,Project 3,TRUE,A+
+253032,62,Milestone: Employer-Ready,TRUE,A+
+254092,62,18. Tableau Homework,TRUE,A+
+255016,62,19. Supervised Learning Homework,TRUE,A+
+256017,62,22. Big Data Homework,TRUE,A+
+257046,62,Milestone: Employer-Competitive,TRUE,A+
+258054,62,Project 4,TRUE,A+
+259062,62,20. Unsupervised Learning Homework,TRUE,A+
+260027,62,21. Deep Learning Homework,TRUE,A+
+231019,63,0: Data Prework,TRUE,A+
+232023,63,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,63,1. Excel Homework,TRUE,A+
+234094,63,2. Visual Basic Homework,TRUE,A+
+235007,63,3. Python Homework,TRUE,A+
+236081,63,4. Pandas Homework,TRUE,A+
+237090,63,5. Matplotlib Homework,TRUE,A+
+238028,63,Milestone: Pave Your Pathway,TRUE,A+
+239060,63,6. Python APIs Homework,TRUE,A+
+240042,63,Project 1,TRUE,A+
+241029,63,10. SQLAlchemy Homework,TRUE,A+
+242009,63,9. SQL Homework,TRUE,A+
+243078,63,Milestone: Develop Your Resume,TRUE,A+
+244049,63,11. HTML and CSS Homework,TRUE,A+
+245009,63,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,63,Project 2,TRUE,A+
+248063,63,14. Plot.ly Homework,TRUE,A+
+250031,63,15. Geo-mapping Homework,TRUE,A+
+251064,63,Milestone: Polish Your Online Presence,TRUE,A+
+252090,63,Project 3,TRUE,A+
+253032,63,Milestone: Employer-Ready,TRUE,A+
+254092,63,18. Tableau Homework,TRUE,A+
+255016,63,19. Supervised Learning Homework,TRUE,A+
+256017,63,22. Big Data Homework,TRUE,A+
+257046,63,Milestone: Employer-Competitive,TRUE,A+
+258054,63,Project 4,TRUE,A+
+259062,63,20. Unsupervised Learning Homework,TRUE,A+
+260027,63,21. Deep Learning Homework,TRUE,A+
+231019,64,0: Data Prework,TRUE,A+
+232023,64,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,64,1. Excel Homework,TRUE,A+
+234094,64,2. Visual Basic Homework,TRUE,A+
+235007,64,3. Python Homework,TRUE,A+
+236081,64,4. Pandas Homework,TRUE,A+
+237090,64,5. Matplotlib Homework,TRUE,A+
+238028,64,Milestone: Pave Your Pathway,TRUE,A+
+239060,64,6. Python APIs Homework,TRUE,A+
+240042,64,Project 1,TRUE,A+
+241029,64,10. SQLAlchemy Homework,TRUE,A+
+242009,64,9. SQL Homework,TRUE,A+
+243078,64,Milestone: Develop Your Resume,TRUE,A+
+244049,64,11. HTML and CSS Homework,TRUE,A+
+245009,64,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,64,Project 2,TRUE,A+
+248063,64,14. Plot.ly Homework,TRUE,A+
+250031,64,15. Geo-mapping Homework,TRUE,A+
+251064,64,Milestone: Polish Your Online Presence,TRUE,A+
+252090,64,Project 3,TRUE,A+
+253032,64,Milestone: Employer-Ready,TRUE,A+
+254092,64,18. Tableau Homework,TRUE,A+
+255016,64,19. Supervised Learning Homework,TRUE,A+
+256017,64,22. Big Data Homework,TRUE,A+
+257046,64,Milestone: Employer-Competitive,TRUE,A+
+258054,64,Project 4,TRUE,A+
+259062,64,20. Unsupervised Learning Homework,TRUE,A+
+260027,64,21. Deep Learning Homework,TRUE,A+
+231019,65,0: Data Prework,FALSE,
+232023,65,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,65,1. Excel Homework,TRUE,A+
+234094,65,2. Visual Basic Homework,TRUE,A+
+235007,65,3. Python Homework,TRUE,A+
+236081,65,4. Pandas Homework,TRUE,A+
+237090,65,5. Matplotlib Homework,TRUE,A+
+238028,65,Milestone: Pave Your Pathway,TRUE,A+
+239060,65,6. Python APIs Homework,TRUE,A+
+240042,65,Project 1,TRUE,A+
+241029,65,10. SQLAlchemy Homework,TRUE,A+
+242009,65,9. SQL Homework,TRUE,A+
+243078,65,Milestone: Develop Your Resume,TRUE,A+
+244049,65,11. HTML and CSS Homework,TRUE,A+
+245009,65,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,65,Project 2,TRUE,A+
+248063,65,14. Plot.ly Homework,TRUE,A+
+250031,65,15. Geo-mapping Homework,TRUE,A+
+251064,65,Milestone: Polish Your Online Presence,TRUE,A+
+252090,65,Project 3,TRUE,A+
+253032,65,Milestone: Employer-Ready,TRUE,A+
+254092,65,18. Tableau Homework,TRUE,A+
+255016,65,19. Supervised Learning Homework,TRUE,A+
+256017,65,22. Big Data Homework,TRUE,A+
+257046,65,Milestone: Employer-Competitive,TRUE,A+
+258054,65,Project 4,TRUE,A+
+259062,65,20. Unsupervised Learning Homework,TRUE,A+
+260027,65,21. Deep Learning Homework,TRUE,A+
+231019,66,0: Data Prework,TRUE,A+
+232023,66,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,66,1. Excel Homework,TRUE,A+
+234094,66,2. Visual Basic Homework,TRUE,A+
+235007,66,3. Python Homework,TRUE,A+
+236081,66,4. Pandas Homework,TRUE,A+
+237090,66,5. Matplotlib Homework,TRUE,A+
+238028,66,Milestone: Pave Your Pathway,TRUE,A+
+239060,66,6. Python APIs Homework,TRUE,A+
+240042,66,Project 1,TRUE,A+
+241029,66,10. SQLAlchemy Homework,TRUE,A+
+242009,66,9. SQL Homework,TRUE,A+
+243078,66,Milestone: Develop Your Resume,TRUE,A+
+244049,66,11. HTML and CSS Homework,TRUE,A+
+245009,66,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,66,Project 2,TRUE,A+
+248063,66,14. Plot.ly Homework,TRUE,A+
+250031,66,15. Geo-mapping Homework,TRUE,A+
+251064,66,Milestone: Polish Your Online Presence,TRUE,A+
+252090,66,Project 3,TRUE,A+
+253032,66,Milestone: Employer-Ready,TRUE,A+
+254092,66,18. Tableau Homework,TRUE,A+
+255016,66,19. Supervised Learning Homework,TRUE,A+
+256017,66,22. Big Data Homework,TRUE,A+
+257046,66,Milestone: Employer-Competitive,TRUE,A+
+258054,66,Project 4,TRUE,A+
+259062,66,20. Unsupervised Learning Homework,TRUE,A+
+260027,66,21. Deep Learning Homework,TRUE,A+
+231019,67,0: Data Prework,TRUE,A+
+232023,67,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,67,1. Excel Homework,TRUE,A+
+234094,67,2. Visual Basic Homework,TRUE,A+
+235007,67,3. Python Homework,TRUE,A+
+236081,67,4. Pandas Homework,TRUE,A+
+237090,67,5. Matplotlib Homework,TRUE,A+
+238028,67,Milestone: Pave Your Pathway,TRUE,A+
+239060,67,6. Python APIs Homework,TRUE,A+
+240042,67,Project 1,TRUE,A+
+241029,67,10. SQLAlchemy Homework,TRUE,A+
+242009,67,9. SQL Homework,TRUE,A+
+243078,67,Milestone: Develop Your Resume,TRUE,A+
+244049,67,11. HTML and CSS Homework,TRUE,A+
+245009,67,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,67,Project 2,TRUE,A+
+248063,67,14. Plot.ly Homework,TRUE,A+
+250031,67,15. Geo-mapping Homework,TRUE,A+
+251064,67,Milestone: Polish Your Online Presence,TRUE,A+
+252090,67,Project 3,TRUE,A+
+253032,67,Milestone: Employer-Ready,TRUE,A+
+254092,67,18. Tableau Homework,TRUE,A+
+255016,67,19. Supervised Learning Homework,TRUE,A+
+256017,67,22. Big Data Homework,TRUE,A+
+257046,67,Milestone: Employer-Competitive,TRUE,A+
+258054,67,Project 4,TRUE,A+
+259062,67,20. Unsupervised Learning Homework,TRUE,A+
+260027,67,21. Deep Learning Homework,TRUE,A+
+231019,68,0: Data Prework,TRUE,A+
+232023,68,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,68,1. Excel Homework,TRUE,A+
+234094,68,2. Visual Basic Homework,TRUE,A+
+235007,68,3. Python Homework,TRUE,A+
+236081,68,4. Pandas Homework,TRUE,A+
+237090,68,5. Matplotlib Homework,TRUE,A+
+238028,68,Milestone: Pave Your Pathway,TRUE,A+
+239060,68,6. Python APIs Homework,TRUE,A+
+240042,68,Project 1,TRUE,A+
+241029,68,10. SQLAlchemy Homework,TRUE,A+
+242009,68,9. SQL Homework,TRUE,A+
+243078,68,Milestone: Develop Your Resume,TRUE,A+
+244049,68,11. HTML and CSS Homework,TRUE,A+
+245009,68,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,68,Project 2,TRUE,A+
+248063,68,14. Plot.ly Homework,TRUE,A+
+250031,68,15. Geo-mapping Homework,TRUE,A+
+251064,68,Milestone: Polish Your Online Presence,TRUE,A+
+252090,68,Project 3,TRUE,A+
+253032,68,Milestone: Employer-Ready,TRUE,A+
+254092,68,18. Tableau Homework,TRUE,A+
+255016,68,19. Supervised Learning Homework,TRUE,A+
+256017,68,22. Big Data Homework,TRUE,A+
+257046,68,Milestone: Employer-Competitive,TRUE,A+
+258054,68,Project 4,TRUE,A+
+259062,68,20. Unsupervised Learning Homework,TRUE,A+
+260027,68,21. Deep Learning Homework,TRUE,A+
+231019,69,0: Data Prework,TRUE,A+
+232023,69,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,69,1. Excel Homework,TRUE,A+
+234094,69,2. Visual Basic Homework,TRUE,A+
+235007,69,3. Python Homework,TRUE,A+
+236081,69,4. Pandas Homework,TRUE,A+
+237090,69,5. Matplotlib Homework,TRUE,A+
+238028,69,Milestone: Pave Your Pathway,TRUE,A+
+239060,69,6. Python APIs Homework,TRUE,A+
+240042,69,Project 1,TRUE,A+
+241029,69,10. SQLAlchemy Homework,TRUE,A+
+242009,69,9. SQL Homework,TRUE,A+
+243078,69,Milestone: Develop Your Resume,TRUE,A+
+244049,69,11. HTML and CSS Homework,TRUE,A+
+245009,69,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,69,Project 2,TRUE,A+
+248063,69,14. Plot.ly Homework,TRUE,A+
+250031,69,15. Geo-mapping Homework,TRUE,A+
+251064,69,Milestone: Polish Your Online Presence,TRUE,A+
+252090,69,Project 3,TRUE,A+
+253032,69,Milestone: Employer-Ready,TRUE,A+
+254092,69,18. Tableau Homework,TRUE,A+
+255016,69,19. Supervised Learning Homework,TRUE,A+
+256017,69,22. Big Data Homework,TRUE,A+
+257046,69,Milestone: Employer-Competitive,TRUE,A+
+258054,69,Project 4,TRUE,A+
+259062,69,20. Unsupervised Learning Homework,TRUE,A+
+260027,69,21. Deep Learning Homework,TRUE,A+
+231019,70,0: Data Prework,TRUE,A+
+232023,70,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,70,1. Excel Homework,TRUE,A+
+234094,70,2. Visual Basic Homework,TRUE,A+
+235007,70,3. Python Homework,TRUE,A+
+236081,70,4. Pandas Homework,TRUE,A+
+237090,70,5. Matplotlib Homework,TRUE,A+
+238028,70,Milestone: Pave Your Pathway,TRUE,A+
+239060,70,6. Python APIs Homework,TRUE,A+
+240042,70,Project 1,TRUE,A+
+241029,70,10. SQLAlchemy Homework,TRUE,A+
+242009,70,9. SQL Homework,TRUE,A+
+243078,70,Milestone: Develop Your Resume,TRUE,A+
+244049,70,11. HTML and CSS Homework,TRUE,A+
+245009,70,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,70,Project 2,TRUE,A+
+248063,70,14. Plot.ly Homework,TRUE,A+
+250031,70,15. Geo-mapping Homework,TRUE,A+
+251064,70,Milestone: Polish Your Online Presence,TRUE,A+
+252090,70,Project 3,TRUE,A+
+253032,70,Milestone: Employer-Ready,TRUE,A+
+254092,70,18. Tableau Homework,TRUE,A+
+255016,70,19. Supervised Learning Homework,TRUE,A+
+256017,70,22. Big Data Homework,TRUE,A+
+257046,70,Milestone: Employer-Competitive,TRUE,A+
+258054,70,Project 4,TRUE,A+
+259062,70,20. Unsupervised Learning Homework,TRUE,A+
+260027,70,21. Deep Learning Homework,TRUE,A+
+231019,71,0: Data Prework,FALSE,
+232023,71,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,71,1. Excel Homework,TRUE,A+
+234094,71,2. Visual Basic Homework,TRUE,A+
+235007,71,3. Python Homework,TRUE,A+
+236081,71,4. Pandas Homework,TRUE,A+
+237090,71,5. Matplotlib Homework,TRUE,A+
+238028,71,Milestone: Pave Your Pathway,TRUE,A+
+239060,71,6. Python APIs Homework,TRUE,A+
+240042,71,Project 1,TRUE,A+
+241029,71,10. SQLAlchemy Homework,TRUE,A+
+242009,71,9. SQL Homework,TRUE,A+
+243078,71,Milestone: Develop Your Resume,TRUE,A+
+244049,71,11. HTML and CSS Homework,TRUE,A+
+245009,71,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,71,Project 2,TRUE,A+
+248063,71,14. Plot.ly Homework,TRUE,A+
+250031,71,15. Geo-mapping Homework,TRUE,A+
+251064,71,Milestone: Polish Your Online Presence,TRUE,A+
+252090,71,Project 3,TRUE,A+
+253032,71,Milestone: Employer-Ready,TRUE,A+
+254092,71,18. Tableau Homework,TRUE,A+
+255016,71,19. Supervised Learning Homework,TRUE,A+
+256017,71,22. Big Data Homework,TRUE,A+
+257046,71,Milestone: Employer-Competitive,TRUE,A+
+258054,71,Project 4,TRUE,A+
+259062,71,20. Unsupervised Learning Homework,TRUE,A+
+260027,71,21. Deep Learning Homework,TRUE,A+
+231019,72,0: Data Prework,TRUE,A+
+232023,72,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,72,1. Excel Homework,TRUE,A+
+234094,72,2. Visual Basic Homework,TRUE,A+
+235007,72,3. Python Homework,TRUE,A+
+236081,72,4. Pandas Homework,TRUE,A+
+237090,72,5. Matplotlib Homework,TRUE,A+
+238028,72,Milestone: Pave Your Pathway,TRUE,A+
+239060,72,6. Python APIs Homework,TRUE,A+
+240042,72,Project 1,TRUE,A+
+241029,72,10. SQLAlchemy Homework,TRUE,A+
+242009,72,9. SQL Homework,TRUE,A+
+243078,72,Milestone: Develop Your Resume,TRUE,A+
+244049,72,11. HTML and CSS Homework,TRUE,A+
+245009,72,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,72,Project 2,TRUE,A+
+248063,72,14. Plot.ly Homework,TRUE,A+
+250031,72,15. Geo-mapping Homework,TRUE,A+
+251064,72,Milestone: Polish Your Online Presence,TRUE,A+
+252090,72,Project 3,TRUE,A+
+253032,72,Milestone: Employer-Ready,TRUE,A+
+254092,72,18. Tableau Homework,TRUE,A+
+255016,72,19. Supervised Learning Homework,TRUE,A+
+256017,72,22. Big Data Homework,TRUE,A+
+257046,72,Milestone: Employer-Competitive,TRUE,A+
+258054,72,Project 4,TRUE,A+
+259062,72,20. Unsupervised Learning Homework,TRUE,A+
+260027,72,21. Deep Learning Homework,TRUE,A+
+231019,73,0: Data Prework,TRUE,A+
+232023,73,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,73,1. Excel Homework,TRUE,A+
+234094,73,2. Visual Basic Homework,TRUE,A+
+235007,73,3. Python Homework,TRUE,A+
+236081,73,4. Pandas Homework,TRUE,A+
+237090,73,5. Matplotlib Homework,TRUE,A+
+238028,73,Milestone: Pave Your Pathway,TRUE,A+
+239060,73,6. Python APIs Homework,TRUE,A+
+240042,73,Project 1,TRUE,A+
+241029,73,10. SQLAlchemy Homework,TRUE,A+
+242009,73,9. SQL Homework,TRUE,A+
+243078,73,Milestone: Develop Your Resume,TRUE,A+
+244049,73,11. HTML and CSS Homework,TRUE,A+
+245009,73,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,73,Project 2,TRUE,A+
+248063,73,14. Plot.ly Homework,TRUE,A+
+250031,73,15. Geo-mapping Homework,TRUE,A+
+251064,73,Milestone: Polish Your Online Presence,TRUE,A+
+252090,73,Project 3,TRUE,A+
+253032,73,Milestone: Employer-Ready,TRUE,A+
+254092,73,18. Tableau Homework,TRUE,A+
+255016,73,19. Supervised Learning Homework,TRUE,A+
+256017,73,22. Big Data Homework,TRUE,A+
+257046,73,Milestone: Employer-Competitive,TRUE,A+
+258054,73,Project 4,TRUE,A+
+259062,73,20. Unsupervised Learning Homework,TRUE,A+
+260027,73,21. Deep Learning Homework,TRUE,A+
+231019,74,0: Data Prework,TRUE,A+
+232023,74,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,74,1. Excel Homework,TRUE,A+
+234094,74,2. Visual Basic Homework,TRUE,A+
+235007,74,3. Python Homework,TRUE,A+
+236081,74,4. Pandas Homework,TRUE,A+
+237090,74,5. Matplotlib Homework,TRUE,A+
+238028,74,Milestone: Pave Your Pathway,TRUE,A+
+239060,74,6. Python APIs Homework,TRUE,A+
+240042,74,Project 1,TRUE,A+
+241029,74,10. SQLAlchemy Homework,TRUE,A+
+242009,74,9. SQL Homework,TRUE,A+
+243078,74,Milestone: Develop Your Resume,TRUE,A+
+244049,74,11. HTML and CSS Homework,TRUE,A+
+245009,74,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,74,Project 2,TRUE,A+
+248063,74,14. Plot.ly Homework,TRUE,A+
+250031,74,15. Geo-mapping Homework,TRUE,A+
+251064,74,Milestone: Polish Your Online Presence,TRUE,A+
+252090,74,Project 3,TRUE,A+
+253032,74,Milestone: Employer-Ready,TRUE,A+
+254092,74,18. Tableau Homework,TRUE,A+
+255016,74,19. Supervised Learning Homework,TRUE,A+
+256017,74,22. Big Data Homework,TRUE,A+
+257046,74,Milestone: Employer-Competitive,TRUE,A+
+258054,74,Project 4,TRUE,A+
+259062,74,20. Unsupervised Learning Homework,TRUE,A+
+260027,74,21. Deep Learning Homework,TRUE,A+
+231019,75,0: Data Prework,FALSE,
+232023,75,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,75,1. Excel Homework,TRUE,A+
+234094,75,2. Visual Basic Homework,TRUE,A+
+235007,75,3. Python Homework,TRUE,A+
+236081,75,4. Pandas Homework,TRUE,A+
+237090,75,5. Matplotlib Homework,TRUE,A+
+238028,75,Milestone: Pave Your Pathway,TRUE,A+
+239060,75,6. Python APIs Homework,TRUE,A+
+240042,75,Project 1,TRUE,A+
+241029,75,10. SQLAlchemy Homework,TRUE,A+
+242009,75,9. SQL Homework,TRUE,A+
+243078,75,Milestone: Develop Your Resume,TRUE,A+
+244049,75,11. HTML and CSS Homework,TRUE,A+
+245009,75,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,75,Project 2,TRUE,A+
+248063,75,14. Plot.ly Homework,TRUE,A+
+250031,75,15. Geo-mapping Homework,TRUE,A+
+251064,75,Milestone: Polish Your Online Presence,TRUE,A+
+252090,75,Project 3,TRUE,A+
+253032,75,Milestone: Employer-Ready,TRUE,A+
+254092,75,18. Tableau Homework,TRUE,A+
+255016,75,19. Supervised Learning Homework,TRUE,A+
+256017,75,22. Big Data Homework,TRUE,A+
+257046,75,Milestone: Employer-Competitive,TRUE,A+
+258054,75,Project 4,TRUE,A+
+259062,75,20. Unsupervised Learning Homework,TRUE,A+
+260027,75,21. Deep Learning Homework,TRUE,A+
+231019,76,0: Data Prework,TRUE,A+
+232023,76,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,76,1. Excel Homework,TRUE,A+
+234094,76,2. Visual Basic Homework,TRUE,A+
+235007,76,3. Python Homework,TRUE,A+
+236081,76,4. Pandas Homework,TRUE,A+
+237090,76,5. Matplotlib Homework,TRUE,A+
+238028,76,Milestone: Pave Your Pathway,TRUE,A+
+239060,76,6. Python APIs Homework,TRUE,A+
+240042,76,Project 1,TRUE,A+
+241029,76,10. SQLAlchemy Homework,TRUE,A+
+242009,76,9. SQL Homework,TRUE,A+
+243078,76,Milestone: Develop Your Resume,TRUE,A+
+244049,76,11. HTML and CSS Homework,TRUE,A+
+245009,76,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,76,Project 2,TRUE,A+
+248063,76,14. Plot.ly Homework,TRUE,A+
+250031,76,15. Geo-mapping Homework,TRUE,A+
+251064,76,Milestone: Polish Your Online Presence,TRUE,A+
+252090,76,Project 3,TRUE,A+
+253032,76,Milestone: Employer-Ready,TRUE,A+
+254092,76,18. Tableau Homework,TRUE,A+
+255016,76,19. Supervised Learning Homework,TRUE,A+
+256017,76,22. Big Data Homework,TRUE,A+
+257046,76,Milestone: Employer-Competitive,TRUE,A+
+258054,76,Project 4,TRUE,A+
+259062,76,20. Unsupervised Learning Homework,TRUE,A+
+260027,76,21. Deep Learning Homework,TRUE,A+
+231019,77,0: Data Prework,TRUE,Incomplete
+232023,77,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,77,1. Excel Homework,TRUE,A+
+234094,77,2. Visual Basic Homework,TRUE,A+
+235007,77,3. Python Homework,TRUE,A+
+236081,77,4. Pandas Homework,TRUE,A+
+237090,77,5. Matplotlib Homework,TRUE,A+
+238028,77,Milestone: Pave Your Pathway,TRUE,A+
+239060,77,6. Python APIs Homework,TRUE,A+
+240042,77,Project 1,TRUE,A+
+241029,77,10. SQLAlchemy Homework,TRUE,A+
+242009,77,9. SQL Homework,TRUE,A+
+243078,77,Milestone: Develop Your Resume,TRUE,A+
+244049,77,11. HTML and CSS Homework,TRUE,A+
+245009,77,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,77,Project 2,TRUE,A+
+248063,77,14. Plot.ly Homework,TRUE,A+
+250031,77,15. Geo-mapping Homework,TRUE,A+
+251064,77,Milestone: Polish Your Online Presence,TRUE,A+
+252090,77,Project 3,TRUE,A+
+253032,77,Milestone: Employer-Ready,TRUE,A+
+254092,77,18. Tableau Homework,TRUE,A+
+255016,77,19. Supervised Learning Homework,TRUE,A+
+256017,77,22. Big Data Homework,TRUE,A+
+257046,77,Milestone: Employer-Competitive,TRUE,A+
+258054,77,Project 4,TRUE,A+
+259062,77,20. Unsupervised Learning Homework,TRUE,A+
+260027,77,21. Deep Learning Homework,TRUE,A+
+231019,78,0: Data Prework,TRUE,A+
+232023,78,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,78,1. Excel Homework,TRUE,A+
+234094,78,2. Visual Basic Homework,TRUE,A+
+235007,78,3. Python Homework,TRUE,A+
+236081,78,4. Pandas Homework,TRUE,A+
+237090,78,5. Matplotlib Homework,TRUE,A+
+238028,78,Milestone: Pave Your Pathway,TRUE,A+
+239060,78,6. Python APIs Homework,TRUE,A+
+240042,78,Project 1,TRUE,A+
+241029,78,10. SQLAlchemy Homework,TRUE,A+
+242009,78,9. SQL Homework,TRUE,A+
+243078,78,Milestone: Develop Your Resume,TRUE,A+
+244049,78,11. HTML and CSS Homework,TRUE,A+
+245009,78,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,78,Project 2,TRUE,A+
+248063,78,14. Plot.ly Homework,TRUE,A+
+250031,78,15. Geo-mapping Homework,TRUE,A+
+251064,78,Milestone: Polish Your Online Presence,TRUE,A+
+252090,78,Project 3,TRUE,A+
+253032,78,Milestone: Employer-Ready,TRUE,A+
+254092,78,18. Tableau Homework,TRUE,A+
+255016,78,19. Supervised Learning Homework,TRUE,A+
+256017,78,22. Big Data Homework,TRUE,A+
+257046,78,Milestone: Employer-Competitive,TRUE,A+
+258054,78,Project 4,TRUE,A+
+259062,78,20. Unsupervised Learning Homework,TRUE,A+
+260027,78,21. Deep Learning Homework,TRUE,A+
+231019,79,0: Data Prework,TRUE,A+
+232023,79,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,79,1. Excel Homework,TRUE,A+
+234094,79,2. Visual Basic Homework,TRUE,A+
+235007,79,3. Python Homework,TRUE,A+
+236081,79,4. Pandas Homework,TRUE,A+
+237090,79,5. Matplotlib Homework,TRUE,A+
+238028,79,Milestone: Pave Your Pathway,TRUE,A+
+239060,79,6. Python APIs Homework,TRUE,A+
+240042,79,Project 1,TRUE,A+
+241029,79,10. SQLAlchemy Homework,TRUE,A+
+242009,79,9. SQL Homework,TRUE,A+
+243078,79,Milestone: Develop Your Resume,TRUE,A+
+244049,79,11. HTML and CSS Homework,TRUE,A+
+245009,79,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,79,Project 2,TRUE,A+
+248063,79,14. Plot.ly Homework,TRUE,A+
+250031,79,15. Geo-mapping Homework,TRUE,A+
+251064,79,Milestone: Polish Your Online Presence,TRUE,A+
+252090,79,Project 3,TRUE,A+
+253032,79,Milestone: Employer-Ready,TRUE,A+
+254092,79,18. Tableau Homework,TRUE,A+
+255016,79,19. Supervised Learning Homework,TRUE,A+
+256017,79,22. Big Data Homework,TRUE,A+
+257046,79,Milestone: Employer-Competitive,TRUE,A+
+258054,79,Project 4,TRUE,A+
+259062,79,20. Unsupervised Learning Homework,TRUE,A+
+260027,79,21. Deep Learning Homework,TRUE,A+
+231019,80,0: Data Prework,TRUE,A+
+232023,80,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,80,1. Excel Homework,TRUE,A+
+234094,80,2. Visual Basic Homework,TRUE,A+
+235007,80,3. Python Homework,TRUE,A+
+236081,80,4. Pandas Homework,TRUE,A+
+237090,80,5. Matplotlib Homework,TRUE,A+
+238028,80,Milestone: Pave Your Pathway,TRUE,A+
+239060,80,6. Python APIs Homework,TRUE,A+
+240042,80,Project 1,TRUE,A+
+241029,80,10. SQLAlchemy Homework,TRUE,A+
+242009,80,9. SQL Homework,TRUE,A+
+243078,80,Milestone: Develop Your Resume,TRUE,A+
+244049,80,11. HTML and CSS Homework,TRUE,A+
+245009,80,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,80,Project 2,TRUE,A+
+248063,80,14. Plot.ly Homework,TRUE,A+
+250031,80,15. Geo-mapping Homework,TRUE,A+
+251064,80,Milestone: Polish Your Online Presence,TRUE,A+
+252090,80,Project 3,TRUE,A+
+253032,80,Milestone: Employer-Ready,TRUE,A+
+254092,80,18. Tableau Homework,TRUE,A+
+255016,80,19. Supervised Learning Homework,TRUE,A+
+256017,80,22. Big Data Homework,TRUE,A+
+257046,80,Milestone: Employer-Competitive,TRUE,A+
+258054,80,Project 4,TRUE,A+
+259062,80,20. Unsupervised Learning Homework,TRUE,A+
+260027,80,21. Deep Learning Homework,TRUE,A+
+231019,81,0: Data Prework,TRUE,A+
+232023,81,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,81,1. Excel Homework,TRUE,A+
+234094,81,2. Visual Basic Homework,TRUE,A+
+235007,81,3. Python Homework,TRUE,A+
+236081,81,4. Pandas Homework,TRUE,A+
+237090,81,5. Matplotlib Homework,TRUE,A+
+238028,81,Milestone: Pave Your Pathway,TRUE,A+
+239060,81,6. Python APIs Homework,TRUE,A+
+240042,81,Project 1,TRUE,A+
+241029,81,10. SQLAlchemy Homework,TRUE,A+
+242009,81,9. SQL Homework,TRUE,A+
+243078,81,Milestone: Develop Your Resume,TRUE,A+
+244049,81,11. HTML and CSS Homework,TRUE,A+
+245009,81,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,81,Project 2,TRUE,A+
+248063,81,14. Plot.ly Homework,TRUE,A+
+250031,81,15. Geo-mapping Homework,TRUE,A+
+251064,81,Milestone: Polish Your Online Presence,TRUE,A+
+252090,81,Project 3,TRUE,A+
+253032,81,Milestone: Employer-Ready,TRUE,A+
+254092,81,18. Tableau Homework,TRUE,A+
+255016,81,19. Supervised Learning Homework,TRUE,A+
+256017,81,22. Big Data Homework,TRUE,A+
+257046,81,Milestone: Employer-Competitive,TRUE,A+
+258054,81,Project 4,TRUE,A+
+259062,81,20. Unsupervised Learning Homework,TRUE,A+
+260027,81,21. Deep Learning Homework,TRUE,A+
+231019,82,0: Data Prework,FALSE,
+232023,82,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,82,1. Excel Homework,TRUE,A+
+234094,82,2. Visual Basic Homework,TRUE,A+
+235007,82,3. Python Homework,TRUE,A+
+236081,82,4. Pandas Homework,TRUE,A+
+237090,82,5. Matplotlib Homework,TRUE,A+
+238028,82,Milestone: Pave Your Pathway,TRUE,A+
+239060,82,6. Python APIs Homework,TRUE,A+
+240042,82,Project 1,TRUE,A+
+241029,82,10. SQLAlchemy Homework,TRUE,A+
+242009,82,9. SQL Homework,TRUE,A+
+243078,82,Milestone: Develop Your Resume,TRUE,A+
+244049,82,11. HTML and CSS Homework,TRUE,A+
+245009,82,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,82,Project 2,TRUE,A+
+248063,82,14. Plot.ly Homework,TRUE,A+
+250031,82,15. Geo-mapping Homework,TRUE,A+
+251064,82,Milestone: Polish Your Online Presence,TRUE,A+
+252090,82,Project 3,TRUE,A+
+253032,82,Milestone: Employer-Ready,TRUE,A+
+254092,82,18. Tableau Homework,TRUE,A+
+255016,82,19. Supervised Learning Homework,TRUE,A+
+256017,82,22. Big Data Homework,TRUE,A+
+257046,82,Milestone: Employer-Competitive,TRUE,A+
+258054,82,Project 4,TRUE,A+
+259062,82,20. Unsupervised Learning Homework,TRUE,A+
+260027,82,21. Deep Learning Homework,TRUE,A+
+231019,83,0: Data Prework,TRUE,A+
+232023,83,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,83,1. Excel Homework,TRUE,A+
+234094,83,2. Visual Basic Homework,TRUE,A+
+235007,83,3. Python Homework,TRUE,A+
+236081,83,4. Pandas Homework,TRUE,A+
+237090,83,5. Matplotlib Homework,TRUE,A+
+238028,83,Milestone: Pave Your Pathway,TRUE,A+
+239060,83,6. Python APIs Homework,TRUE,A+
+240042,83,Project 1,TRUE,A+
+241029,83,10. SQLAlchemy Homework,TRUE,A+
+242009,83,9. SQL Homework,TRUE,A+
+243078,83,Milestone: Develop Your Resume,TRUE,A+
+244049,83,11. HTML and CSS Homework,TRUE,A+
+245009,83,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,83,Project 2,TRUE,A+
+248063,83,14. Plot.ly Homework,TRUE,A+
+250031,83,15. Geo-mapping Homework,TRUE,A+
+251064,83,Milestone: Polish Your Online Presence,TRUE,A+
+252090,83,Project 3,TRUE,A+
+253032,83,Milestone: Employer-Ready,TRUE,A+
+254092,83,18. Tableau Homework,TRUE,A+
+255016,83,19. Supervised Learning Homework,TRUE,A+
+256017,83,22. Big Data Homework,TRUE,A+
+257046,83,Milestone: Employer-Competitive,TRUE,A+
+258054,83,Project 4,TRUE,A+
+259062,83,20. Unsupervised Learning Homework,TRUE,A+
+260027,83,21. Deep Learning Homework,TRUE,A+
+231019,84,0: Data Prework,TRUE,A+
+232023,84,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,84,1. Excel Homework,TRUE,A+
+234094,84,2. Visual Basic Homework,TRUE,A+
+235007,84,3. Python Homework,TRUE,A+
+236081,84,4. Pandas Homework,TRUE,A+
+237090,84,5. Matplotlib Homework,TRUE,A+
+238028,84,Milestone: Pave Your Pathway,TRUE,A+
+239060,84,6. Python APIs Homework,TRUE,A+
+240042,84,Project 1,TRUE,A+
+241029,84,10. SQLAlchemy Homework,TRUE,A+
+242009,84,9. SQL Homework,TRUE,A+
+243078,84,Milestone: Develop Your Resume,TRUE,A+
+244049,84,11. HTML and CSS Homework,TRUE,A+
+245009,84,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,84,Project 2,TRUE,A+
+248063,84,14. Plot.ly Homework,TRUE,A+
+250031,84,15. Geo-mapping Homework,TRUE,A+
+251064,84,Milestone: Polish Your Online Presence,TRUE,A+
+252090,84,Project 3,TRUE,A+
+253032,84,Milestone: Employer-Ready,TRUE,A+
+254092,84,18. Tableau Homework,TRUE,A+
+255016,84,19. Supervised Learning Homework,TRUE,A+
+256017,84,22. Big Data Homework,TRUE,A+
+257046,84,Milestone: Employer-Competitive,TRUE,A+
+258054,84,Project 4,TRUE,A+
+259062,84,20. Unsupervised Learning Homework,TRUE,A+
+260027,84,21. Deep Learning Homework,TRUE,A+
+231019,85,0: Data Prework,FALSE,
+232023,85,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,85,1. Excel Homework,TRUE,A+
+234094,85,2. Visual Basic Homework,TRUE,A+
+235007,85,3. Python Homework,TRUE,A+
+236081,85,4. Pandas Homework,TRUE,A+
+237090,85,5. Matplotlib Homework,TRUE,A+
+238028,85,Milestone: Pave Your Pathway,TRUE,A+
+239060,85,6. Python APIs Homework,TRUE,A+
+240042,85,Project 1,TRUE,A+
+241029,85,10. SQLAlchemy Homework,TRUE,A+
+242009,85,9. SQL Homework,TRUE,A+
+243078,85,Milestone: Develop Your Resume,TRUE,A+
+244049,85,11. HTML and CSS Homework,TRUE,A+
+245009,85,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,85,Project 2,TRUE,A+
+248063,85,14. Plot.ly Homework,TRUE,A+
+250031,85,15. Geo-mapping Homework,TRUE,A+
+251064,85,Milestone: Polish Your Online Presence,TRUE,A+
+252090,85,Project 3,TRUE,A+
+253032,85,Milestone: Employer-Ready,TRUE,A+
+254092,85,18. Tableau Homework,TRUE,A+
+255016,85,19. Supervised Learning Homework,TRUE,A+
+256017,85,22. Big Data Homework,TRUE,A+
+257046,85,Milestone: Employer-Competitive,TRUE,A+
+258054,85,Project 4,TRUE,A+
+259062,85,20. Unsupervised Learning Homework,TRUE,A+
+260027,85,21. Deep Learning Homework,TRUE,A+
+231019,86,0: Data Prework,TRUE,A+
+232023,86,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,86,1. Excel Homework,TRUE,A+
+234094,86,2. Visual Basic Homework,TRUE,A+
+235007,86,3. Python Homework,TRUE,A+
+236081,86,4. Pandas Homework,TRUE,A+
+237090,86,5. Matplotlib Homework,TRUE,A+
+238028,86,Milestone: Pave Your Pathway,TRUE,A+
+239060,86,6. Python APIs Homework,TRUE,A+
+240042,86,Project 1,TRUE,A+
+241029,86,10. SQLAlchemy Homework,TRUE,A+
+242009,86,9. SQL Homework,TRUE,A+
+243078,86,Milestone: Develop Your Resume,TRUE,A+
+244049,86,11. HTML and CSS Homework,TRUE,A+
+245009,86,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,86,Project 2,TRUE,A+
+248063,86,14. Plot.ly Homework,TRUE,A+
+250031,86,15. Geo-mapping Homework,TRUE,A+
+251064,86,Milestone: Polish Your Online Presence,TRUE,A+
+252090,86,Project 3,TRUE,A+
+253032,86,Milestone: Employer-Ready,TRUE,A+
+254092,86,18. Tableau Homework,TRUE,A+
+255016,86,19. Supervised Learning Homework,TRUE,A+
+256017,86,22. Big Data Homework,TRUE,A+
+257046,86,Milestone: Employer-Competitive,TRUE,A+
+258054,86,Project 4,TRUE,A+
+259062,86,20. Unsupervised Learning Homework,TRUE,A+
+260027,86,21. Deep Learning Homework,TRUE,A+
+231019,87,0: Data Prework,TRUE,A+
+232023,87,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,87,1. Excel Homework,TRUE,A+
+234094,87,2. Visual Basic Homework,TRUE,A+
+235007,87,3. Python Homework,TRUE,A+
+236081,87,4. Pandas Homework,TRUE,A+
+237090,87,5. Matplotlib Homework,TRUE,A+
+238028,87,Milestone: Pave Your Pathway,TRUE,A+
+239060,87,6. Python APIs Homework,TRUE,A+
+240042,87,Project 1,TRUE,A+
+241029,87,10. SQLAlchemy Homework,TRUE,A+
+242009,87,9. SQL Homework,TRUE,A+
+243078,87,Milestone: Develop Your Resume,TRUE,A+
+244049,87,11. HTML and CSS Homework,TRUE,A+
+245009,87,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,87,Project 2,TRUE,A+
+248063,87,14. Plot.ly Homework,TRUE,A+
+250031,87,15. Geo-mapping Homework,TRUE,A+
+251064,87,Milestone: Polish Your Online Presence,TRUE,A+
+252090,87,Project 3,TRUE,A+
+253032,87,Milestone: Employer-Ready,TRUE,A+
+254092,87,18. Tableau Homework,TRUE,A+
+255016,87,19. Supervised Learning Homework,TRUE,A+
+256017,87,22. Big Data Homework,TRUE,A+
+257046,87,Milestone: Employer-Competitive,TRUE,A+
+258054,87,Project 4,TRUE,A+
+259062,87,20. Unsupervised Learning Homework,TRUE,A+
+260027,87,21. Deep Learning Homework,TRUE,A+
+231019,88,0: Data Prework,TRUE,A+
+232023,88,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,88,1. Excel Homework,TRUE,A+
+234094,88,2. Visual Basic Homework,TRUE,A+
+235007,88,3. Python Homework,TRUE,A+
+236081,88,4. Pandas Homework,TRUE,A+
+237090,88,5. Matplotlib Homework,TRUE,A+
+238028,88,Milestone: Pave Your Pathway,TRUE,A+
+239060,88,6. Python APIs Homework,TRUE,A+
+240042,88,Project 1,TRUE,A+
+241029,88,10. SQLAlchemy Homework,TRUE,A+
+242009,88,9. SQL Homework,TRUE,A+
+243078,88,Milestone: Develop Your Resume,TRUE,A+
+244049,88,11. HTML and CSS Homework,TRUE,A+
+245009,88,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,88,Project 2,TRUE,A+
+248063,88,14. Plot.ly Homework,TRUE,A+
+250031,88,15. Geo-mapping Homework,TRUE,A+
+251064,88,Milestone: Polish Your Online Presence,TRUE,A+
+252090,88,Project 3,TRUE,A+
+253032,88,Milestone: Employer-Ready,TRUE,A+
+254092,88,18. Tableau Homework,TRUE,A+
+255016,88,19. Supervised Learning Homework,TRUE,A+
+256017,88,22. Big Data Homework,TRUE,A+
+257046,88,Milestone: Employer-Competitive,TRUE,A+
+258054,88,Project 4,TRUE,A+
+259062,88,20. Unsupervised Learning Homework,TRUE,A+
+260027,88,21. Deep Learning Homework,TRUE,A+
+231019,89,0: Data Prework,TRUE,A+
+232023,89,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,89,1. Excel Homework,TRUE,A+
+234094,89,2. Visual Basic Homework,TRUE,A+
+235007,89,3. Python Homework,TRUE,A+
+236081,89,4. Pandas Homework,TRUE,A+
+237090,89,5. Matplotlib Homework,TRUE,A+
+238028,89,Milestone: Pave Your Pathway,TRUE,A+
+239060,89,6. Python APIs Homework,TRUE,A+
+240042,89,Project 1,TRUE,A+
+241029,89,10. SQLAlchemy Homework,TRUE,A+
+242009,89,9. SQL Homework,TRUE,A+
+243078,89,Milestone: Develop Your Resume,TRUE,A+
+244049,89,11. HTML and CSS Homework,TRUE,A+
+245009,89,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,89,Project 2,TRUE,A+
+248063,89,14. Plot.ly Homework,TRUE,A+
+250031,89,15. Geo-mapping Homework,TRUE,A+
+251064,89,Milestone: Polish Your Online Presence,TRUE,A+
+252090,89,Project 3,TRUE,A+
+253032,89,Milestone: Employer-Ready,TRUE,A+
+254092,89,18. Tableau Homework,TRUE,A+
+255016,89,19. Supervised Learning Homework,TRUE,A+
+256017,89,22. Big Data Homework,TRUE,A+
+257046,89,Milestone: Employer-Competitive,TRUE,A+
+258054,89,Project 4,TRUE,A+
+259062,89,20. Unsupervised Learning Homework,TRUE,A+
+260027,89,21. Deep Learning Homework,TRUE,A+
+231019,90,0: Data Prework,TRUE,A+
+232023,90,Intro to Career Services: Employer-Ready vs Employer-Competitive,TRUE,A+
+233088,90,1. Excel Homework,TRUE,A+
+234094,90,2. Visual Basic Homework,TRUE,A+
+235007,90,3. Python Homework,TRUE,A+
+236081,90,4. Pandas Homework,TRUE,A+
+237090,90,5. Matplotlib Homework,TRUE,A+
+238028,90,Milestone: Pave Your Pathway,TRUE,A+
+239060,90,6. Python APIs Homework,TRUE,A+
+240042,90,Project 1,TRUE,A+
+241029,90,10. SQLAlchemy Homework,TRUE,A+
+242009,90,9. SQL Homework,TRUE,A+
+243078,90,Milestone: Develop Your Resume,TRUE,A+
+244049,90,11. HTML and CSS Homework,TRUE,A+
+245009,90,12. Web Scraping and Mongo Homework,TRUE,A+
+246042,90,Project 2,TRUE,A+
+248063,90,14. Plot.ly Homework,TRUE,A+
+250031,90,15. Geo-mapping Homework,TRUE,A+
+251064,90,Milestone: Polish Your Online Presence,TRUE,A+
+252090,90,Project 3,TRUE,A+
+253032,90,Milestone: Employer-Ready,TRUE,A+
+254092,90,18. Tableau Homework,TRUE,A+
+255016,90,19. Supervised Learning Homework,TRUE,A+
+256017,90,22. Big Data Homework,TRUE,A+
+257046,90,Milestone: Employer-Competitive,TRUE,A+
+258054,90,Project 4,TRUE,A+
+259062,90,20. Unsupervised Learning Homework,TRUE,A+
+260027,90,21. Deep Learning Homework,TRUE,A+

@@ -1,0 +1,136 @@
+body {
+    background-color: #f4f6f9;
+}
+
+
+.bg-success, .bg-success>a {
+    color: #fff!important;
+}
+
+.bg-success {
+    background-color: #28a745!important;
+}
+
+.small-box {
+    border-radius: 0.25rem;
+    box-shadow: 0 0 1px rgb(0 0 0 / 13%), 0 1px 3px rgb(0 0 0 / 20%);
+    display: block;
+    margin-bottom: 20px;
+    position: relative;
+}
+.small-box h3, .small-box p {
+    z-index: 5;
+}
+.small-box h3 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin: 0 0 10px;
+    padding: 0;
+    white-space: nowrap;
+}
+
+.small-box>.inner {
+    padding: 10px;
+}
+
+
+
+.small-box .icon > i {
+    font-size: 90px;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    transition: -webkit-transform .3s linear;
+    transition: transform .3s linear;
+    transition: transform .3s linear,-webkit-transform .3s linear;
+}
+
+.bg-success, .bg-success > a {
+    color: #fff!important;
+}
+
+.fa, .fas {
+    font-weight: 900;
+}
+
+.fa, .far, .fas {
+    font-family: "Font Awesome 5 Free";
+}
+
+.fa, .fab, .fad, .fal, .far, .fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+
+.ion-person-add:before {
+    content: "\f211";
+}
+
+.icon .ion-stats-bars {
+    font-size: 70px;
+    top: 20px;
+}
+
+.small-box .icon>i.fa, .small-box .icon>i.fab, .small-box .icon>i.fad, .small-box .icon>i.fal, .small-box .icon>i.far, .small-box .icon>i.fas, .small-box .icon>i.ion {
+    font-size: 70px;
+    top: 20px;
+}
+
+.small-box>.small-box-footer {
+    background-color: rgba(0,0,0,.1);
+    color: rgba(255,255,255,.8);
+    display: block;
+    padding: 3px 0;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    z-index: 10;
+}
+
+@media (max-width: 767.98px){
+    .small-box {
+        text-align: center;
+    }
+    .small-box p {
+        font-size: 12px;
+    }
+}
+
+
+/* plotly modifications */
+.js-plotly-plot .plotly .main-svg {
+    border-radius: 10px;
+}
+
+.card-header>.card-tools {
+    float: right;
+    margin-right: -0.625rem;
+}
+
+
+/* Fix model layering issue with menu bar */
+.modal-backdrop {
+    z-index: 1010;
+}
+
+.modal .form-control{
+    border: #86b7fe solid 5px
+}
+.modal .col-form-label{
+    font-size: 1.25rem;
+}
+
+.modal .modal-header{
+    background-color: rgba(0,0,0,.03);
+}
+
+.modal i{
+    font-size: 1.75rem;
+    padding: 0 10px;
+    color:#0d6efd;
+}

@@ -1,0 +1,2521 @@
+unit_id,student_id,first_name,last_name,email,submission_status,submission_date,submission_notes,grade,feedback,plagiarism
+211085,1,Pia, Emery,Pia Emery,TRUE,2/4/2021 5:59:59,,A+,Good Job.,NO
+212070,1,Pia, Emery,Pia Emery,TRUE,2/11/2021 5:59:59,,A+,Everything is complete,NO
+213030,1,Pia, Emery,Pia Emery,TRUE,2/14/2021 5:59:59,,A+,Everything is complete,NO
+214096,1,Pia, Emery,Pia Emery,TRUE,2/21/2021 4:59:59,,A+,Good Job.,NO
+215023,1,Pia, Emery,Pia Emery,TRUE,2/28/2021 5:59:59,,A+,Everything is complete,NO
+216022,1,Pia, Emery,Pia Emery,TRUE,3/7/2021 5:59:59,,A+,Your code works.,NO
+217066,1,Pia, Emery,Pia Emery,TRUE,3/14/2021 5:59:59,,A+,Good Job.,NO
+218097,1,Pia, Emery,Pia Emery,TRUE,3/18/2021 5:59:59,,A+,Your code works.,NO
+219089,1,Pia, Emery,Pia Emery,TRUE,3/21/2021 5:59:59,,A+,Everything is complete,NO
+220002,1,Pia, Emery,Pia Emery,TRUE,3/28/2021 5:59:59,,A+,Everything is complete,NO
+221064,1,Pia, Emery,Pia Emery,TRUE,4/11/2021 5:59:59,,A+,Your code works.,NO
+222074,1,Pia, Emery,Pia Emery,TRUE,4/18/2021 5:59:59,,A+,Good Job.,NO
+223013,1,Pia, Emery,Pia Emery,TRUE,4/22/2021 5:59:59,,A+,Your code works.,NO
+224064,1,Pia, Emery,Pia Emery,TRUE,4/25/2021 5:59:59,,A+,Good Job.,NO
+225090,1,Pia, Emery,Pia Emery,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+226020,1,Pia, Emery,Pia Emery,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+228067,1,Pia, Emery,Pia Emery,TRUE,5/26/2021 5:59:59,,A+,Your code works.,NO
+230002,1,Pia, Emery,Pia Emery,TRUE,6/3/2021 5:59:59,,A+,Good Job.,NO
+231056,1,Pia, Emery,Pia Emery,TRUE,6/18/2021 5:59:59,,A+,Good Job.,NO
+232095,1,Pia, Emery,Pia Emery,TRUE,6/25/2021 5:59:59,,A+,Good Job.,NO
+233014,1,Pia, Emery,Pia Emery,TRUE,7/1/2021 5:59:59,,A+,Everything is complete,NO
+234086,1,Pia, Emery,Pia Emery,TRUE,7/2/2021 5:59:59,,A+,Everything is complete,NO
+235060,1,Pia, Emery,Pia Emery,TRUE,7/9/2021 5:59:59,,A+,Your code works.,NO
+236074,1,Pia, Emery,Pia Emery,TRUE,7/16/2021 5:59:59,,A+,Good Job.,NO
+237066,1,Pia, Emery,Pia Emery,TRUE,7/22/2021 5:59:59,,A+,Good Job.,NO
+238036,1,Pia, Emery,Pia Emery,TRUE,7/23/2021 5:59:59,,A+,Everything is complete,NO
+239039,1,Pia, Emery,Pia Emery,TRUE,5/19/2021 5:59:59,,A+,Everything is complete,NO
+240031,1,Pia, Emery,Pia Emery,TRUE,6/2/2021 5:59:59,,A+,Your code works.,NO
+211085,2,Adriana, Kent,Adriana Kent,TRUE,2/4/2021 5:59:59,,A+,Everything is complete,NO
+212070,2,Adriana, Kent,Adriana Kent,TRUE,2/11/2021 5:59:59,,A+,Your code works.,NO
+213030,2,Adriana, Kent,Adriana Kent,TRUE,2/14/2021 5:59:59,,A+,Your code works.,NO
+214096,2,Adriana, Kent,Adriana Kent,TRUE,2/21/2021 4:59:59,,A+,Everything is complete,NO
+215023,2,Adriana, Kent,Adriana Kent,TRUE,2/28/2021 5:59:59,,A+,Your code works.,NO
+216022,2,Adriana, Kent,Adriana Kent,TRUE,3/7/2021 5:59:59,,A+,Good Job.,NO
+217066,2,Adriana, Kent,Adriana Kent,TRUE,3/14/2021 5:59:59,,A+,Everything is complete,NO
+218097,2,Adriana, Kent,Adriana Kent,TRUE,3/18/2021 5:59:59,,A+,Good Job.,NO
+219089,2,Adriana, Kent,Adriana Kent,TRUE,3/21/2021 5:59:59,,A+,Good Job.,NO
+220002,2,Adriana, Kent,Adriana Kent,TRUE,3/28/2021 5:59:59,,A+,Your code works.,NO
+221064,2,Adriana, Kent,Adriana Kent,TRUE,4/11/2021 5:59:59,,A+,Good Job.,NO
+222074,2,Adriana, Kent,Adriana Kent,TRUE,4/18/2021 5:59:59,,A+,Everything is complete,NO
+223013,2,Adriana, Kent,Adriana Kent,TRUE,4/22/2021 5:59:59,,A+,Good Job.,NO
+224064,2,Adriana, Kent,Adriana Kent,TRUE,4/25/2021 5:59:59,,A+,Everything is complete,NO
+225090,2,Adriana, Kent,Adriana Kent,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+226020,2,Adriana, Kent,Adriana Kent,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+228067,2,Adriana, Kent,Adriana Kent,TRUE,5/26/2021 5:59:59,,A+,Good Job.,NO
+230002,2,Adriana, Kent,Adriana Kent,TRUE,6/3/2021 5:59:59,,A+,Everything is complete,NO
+231056,2,Adriana, Kent,Adriana Kent,TRUE,6/18/2021 5:59:59,,A+,Everything is complete,NO
+232095,2,Adriana, Kent,Adriana Kent,TRUE,6/25/2021 5:59:59,,A+,Everything is complete,NO
+233014,2,Adriana, Kent,Adriana Kent,TRUE,7/1/2021 5:59:59,,A+,Your code works.,NO
+234086,2,Adriana, Kent,Adriana Kent,TRUE,7/2/2021 5:59:59,,A+,Your code works.,NO
+235060,2,Adriana, Kent,Adriana Kent,TRUE,7/9/2021 5:59:59,,A+,Good Job.,NO
+236074,2,Adriana, Kent,Adriana Kent,TRUE,7/16/2021 5:59:59,,A+,Everything is complete,NO
+237066,2,Adriana, Kent,Adriana Kent,TRUE,7/22/2021 5:59:59,,A+,Everything is complete,NO
+238036,2,Adriana, Kent,Adriana Kent,TRUE,7/23/2021 5:59:59,,A+,Your code works.,NO
+239039,2,Adriana, Kent,Adriana Kent,TRUE,5/19/2021 5:59:59,,A+,Your code works.,NO
+240031,2,Adriana, Kent,Adriana Kent,TRUE,6/2/2021 5:59:59,,A+,Good Job.,NO
+211085,3,Jareth, Rios,Jareth Rios,TRUE,2/4/2021 5:59:59,,A+,Your code works.,NO
+212070,3,Jareth, Rios,Jareth Rios,TRUE,2/11/2021 5:59:59,,A+,Good Job.,NO
+213030,3,Jareth, Rios,Jareth Rios,TRUE,2/14/2021 5:59:59,,A+,Good Job.,NO
+214096,3,Jareth, Rios,Jareth Rios,TRUE,2/21/2021 4:59:59,,A+,Your code works.,NO
+215023,3,Jareth, Rios,Jareth Rios,TRUE,2/28/2021 5:59:59,,A+,Good Job.,NO
+216022,3,Jareth, Rios,Jareth Rios,TRUE,3/7/2021 5:59:59,,A+,Everything is complete,NO
+217066,3,Jareth, Rios,Jareth Rios,TRUE,3/14/2021 5:59:59,,A+,Good Job.,NO
+218097,3,Jareth, Rios,Jareth Rios,TRUE,3/18/2021 5:59:59,,A+,Everything is complete,NO
+219089,3,Jareth, Rios,Jareth Rios,TRUE,3/21/2021 5:59:59,,A+,Everything is complete,NO
+220002,3,Jareth, Rios,Jareth Rios,TRUE,3/28/2021 5:59:59,,A+,Good Job.,NO
+221064,3,Jareth, Rios,Jareth Rios,TRUE,4/11/2021 5:59:59,,A+,Everything is complete,NO
+222074,3,Jareth, Rios,Jareth Rios,TRUE,4/18/2021 5:59:59,,A+,Your code works.,NO
+223013,3,Jareth, Rios,Jareth Rios,TRUE,4/22/2021 5:59:59,,A+,Everything is complete,NO
+224064,3,Jareth, Rios,Jareth Rios,TRUE,4/25/2021 5:59:59,,A+,Your code works.,NO
+225090,3,Jareth, Rios,Jareth Rios,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+226020,3,Jareth, Rios,Jareth Rios,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+228067,3,Jareth, Rios,Jareth Rios,TRUE,5/26/2021 5:59:59,,A+,Everything is complete,NO
+230002,3,Jareth, Rios,Jareth Rios,TRUE,6/3/2021 5:59:59,,A+,Your code works.,NO
+231056,3,Jareth, Rios,Jareth Rios,TRUE,6/18/2021 5:59:59,,A+,Your code works.,NO
+232095,3,Jareth, Rios,Jareth Rios,TRUE,6/25/2021 5:59:59,,A+,Your code works.,NO
+233014,3,Jareth, Rios,Jareth Rios,TRUE,7/1/2021 5:59:59,,A+,Good Job.,NO
+234086,3,Jareth, Rios,Jareth Rios,TRUE,7/2/2021 5:59:59,,A+,Good Job.,NO
+235060,3,Jareth, Rios,Jareth Rios,TRUE,7/9/2021 5:59:59,,A+,Everything is complete,NO
+236074,3,Jareth, Rios,Jareth Rios,TRUE,7/16/2021 5:59:59,,A+,Your code works.,NO
+237066,3,Jareth, Rios,Jareth Rios,TRUE,7/22/2021 5:59:59,,A+,Your code works.,NO
+238036,3,Jareth, Rios,Jareth Rios,TRUE,7/23/2021 5:59:59,,A+,Good Job.,NO
+239039,3,Jareth, Rios,Jareth Rios,TRUE,5/19/2021 5:59:59,,A+,Good Job.,NO
+240031,3,Jareth, Rios,Jareth Rios,TRUE,6/2/2021 5:59:59,,A+,Everything is complete,NO
+211085,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,2/4/2021 5:59:59,,A+,Good Job.,NO
+212070,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,2/11/2021 5:59:59,,A+,Everything is complete,NO
+213030,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,2/14/2021 5:59:59,,A+,Everything is complete,NO
+214096,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,2/21/2021 4:59:59,,A+,Good Job.,NO
+215023,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,2/28/2021 5:59:59,,A+,Everything is complete,NO
+216022,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,3/7/2021 5:59:59,,A+,Good Job.,NO
+217066,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,3/14/2021 5:59:59,,A+,Everything is complete,NO
+218097,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,3/18/2021 5:59:59,,A+,Your code works.,NO
+219089,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,3/21/2021 5:59:59,,A+,Your code works.,NO
+220002,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,3/28/2021 5:59:59,,A+,Everything is complete,NO
+221064,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,4/11/2021 5:59:59,,A+,Your code works.,NO
+222074,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,4/18/2021 5:59:59,,A+,Good Job.,NO
+223013,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,4/22/2021 5:59:59,,A+,Your code works.,NO
+224064,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,4/25/2021 5:59:59,,A+,Good Job.,NO
+225090,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+226020,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+228067,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,5/26/2021 5:59:59,,A+,Your code works.,YES
+230002,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,6/3/2021 5:59:59,,A+,Good Job.,NO
+231056,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,6/18/2021 5:59:59,,A+,Good Job.,NO
+232095,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,6/25/2021 5:59:59,,A+,Good Job.,NO
+233014,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,7/1/2021 5:59:59,,A+,Everything is complete,NO
+234086,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,7/2/2021 5:59:59,,A+,Everything is complete,NO
+235060,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,7/9/2021 5:59:59,,A+,Your code works.,NO
+236074,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,7/16/2021 5:59:59,,A+,Good Job.,NO
+237066,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,7/22/2021 5:59:59,,A+,Good Job.,NO
+238036,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,7/23/2021 5:59:59,,A+,Everything is complete,NO
+239039,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,5/19/2021 5:59:59,,A+,Everything is complete,NO
+240031,4,Agnes, Tomlinson,Agnes Tomlinson,TRUE,6/2/2021 5:59:59,,A+,Your code works.,NO
+211085,5,Ansh, Melton,Ansh Melton,FALSE,2/4/2021 5:59:59,,,,
+212070,5,Ansh, Melton,Ansh Melton,TRUE,2/11/2021 5:59:59,,A+,Your code works.,NO
+213030,5,Ansh, Melton,Ansh Melton,TRUE,2/14/2021 5:59:59,,A+,Your code works.,NO
+214096,5,Ansh, Melton,Ansh Melton,TRUE,2/21/2021 4:59:59,,A+,Everything is complete,NO
+215023,5,Ansh, Melton,Ansh Melton,TRUE,2/28/2021 5:59:59,,A+,Good Job.,NO
+216022,5,Ansh, Melton,Ansh Melton,TRUE,3/7/2021 5:59:59,,A+,Everything is complete,NO
+217066,5,Ansh, Melton,Ansh Melton,TRUE,3/14/2021 5:59:59,,A+,Your code works.,NO
+218097,5,Ansh, Melton,Ansh Melton,TRUE,3/18/2021 5:59:59,,A+,Good Job.,NO
+219089,5,Ansh, Melton,Ansh Melton,TRUE,3/21/2021 5:59:59,,A+,Good Job.,NO
+220002,5,Ansh, Melton,Ansh Melton,TRUE,3/28/2021 5:59:59,,A+,Your code works.,NO
+221064,5,Ansh, Melton,Ansh Melton,TRUE,4/11/2021 5:59:59,,A+,Good Job.,NO
+222074,5,Ansh, Melton,Ansh Melton,TRUE,4/18/2021 5:59:59,,A+,Everything is complete,NO
+223013,5,Ansh, Melton,Ansh Melton,TRUE,4/22/2021 5:59:59,,A+,Good Job.,NO
+224064,5,Ansh, Melton,Ansh Melton,TRUE,4/25/2021 5:59:59,,A+,Everything is complete,NO
+225090,5,Ansh, Melton,Ansh Melton,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+226020,5,Ansh, Melton,Ansh Melton,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+228067,5,Ansh, Melton,Ansh Melton,TRUE,5/26/2021 5:59:59,,A+,Good Job.,NO
+230002,5,Ansh, Melton,Ansh Melton,TRUE,6/3/2021 5:59:59,,A+,Everything is complete,NO
+231056,5,Ansh, Melton,Ansh Melton,TRUE,6/18/2021 5:59:59,,A+,Everything is complete,NO
+232095,5,Ansh, Melton,Ansh Melton,TRUE,6/25/2021 5:59:59,,A+,Everything is complete,NO
+233014,5,Ansh, Melton,Ansh Melton,TRUE,7/1/2021 5:59:59,,A+,Your code works.,NO
+234086,5,Ansh, Melton,Ansh Melton,TRUE,7/2/2021 5:59:59,,A+,Your code works.,NO
+235060,5,Ansh, Melton,Ansh Melton,TRUE,7/9/2021 5:59:59,,A+,Good Job.,NO
+236074,5,Ansh, Melton,Ansh Melton,TRUE,7/16/2021 5:59:59,,A+,Everything is complete,NO
+237066,5,Ansh, Melton,Ansh Melton,TRUE,7/22/2021 5:59:59,,A+,Everything is complete,NO
+238036,5,Ansh, Melton,Ansh Melton,TRUE,7/23/2021 5:59:59,,A+,Your code works.,NO
+239039,5,Ansh, Melton,Ansh Melton,TRUE,5/19/2021 5:59:59,,A+,Your code works.,NO
+240031,5,Ansh, Melton,Ansh Melton,TRUE,6/2/2021 5:59:59,,A+,Good Job.,NO
+211085,6,Suhail, Ashley,Suhail Ashley,TRUE,2/4/2021 5:59:59,,A+,Your code works.,NO
+212070,6,Suhail, Ashley,Suhail Ashley,TRUE,2/11/2021 5:59:59,,A+,Good Job.,NO
+213030,6,Suhail, Ashley,Suhail Ashley,TRUE,2/14/2021 5:59:59,,A+,Good Job.,NO
+214096,6,Suhail, Ashley,Suhail Ashley,TRUE,2/21/2021 4:59:59,,A+,Your code works.,NO
+215023,6,Suhail, Ashley,Suhail Ashley,TRUE,2/28/2021 5:59:59,,A+,Everything is complete,NO
+216022,6,Suhail, Ashley,Suhail Ashley,TRUE,3/7/2021 5:59:59,,A+,Your code works.,NO
+217066,6,Suhail, Ashley,Suhail Ashley,TRUE,3/14/2021 5:59:59,,A+,Good Job.,NO
+218097,6,Suhail, Ashley,Suhail Ashley,TRUE,3/18/2021 5:59:59,,A+,Everything is complete,NO
+219089,6,Suhail, Ashley,Suhail Ashley,TRUE,3/21/2021 5:59:59,,A+,Everything is complete,NO
+220002,6,Suhail, Ashley,Suhail Ashley,TRUE,3/28/2021 5:59:59,,A+,Good Job.,NO
+221064,6,Suhail, Ashley,Suhail Ashley,TRUE,4/11/2021 5:59:59,,A+,Everything is complete,NO
+222074,6,Suhail, Ashley,Suhail Ashley,TRUE,4/18/2021 5:59:59,,A+,Your code works.,NO
+223013,6,Suhail, Ashley,Suhail Ashley,TRUE,4/22/2021 5:59:59,,A+,Everything is complete,NO
+224064,6,Suhail, Ashley,Suhail Ashley,TRUE,4/25/2021 5:59:59,,A+,Your code works.,NO
+225090,6,Suhail, Ashley,Suhail Ashley,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+226020,6,Suhail, Ashley,Suhail Ashley,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+228067,6,Suhail, Ashley,Suhail Ashley,TRUE,5/26/2021 5:59:59,,A+,Everything is complete,NO
+230002,6,Suhail, Ashley,Suhail Ashley,TRUE,6/3/2021 5:59:59,,A+,Your code works.,NO
+231056,6,Suhail, Ashley,Suhail Ashley,TRUE,6/18/2021 5:59:59,,A+,Your code works.,NO
+232095,6,Suhail, Ashley,Suhail Ashley,TRUE,6/25/2021 5:59:59,,A+,Your code works.,NO
+233014,6,Suhail, Ashley,Suhail Ashley,TRUE,7/1/2021 5:59:59,,A+,Good Job.,NO
+234086,6,Suhail, Ashley,Suhail Ashley,TRUE,7/2/2021 5:59:59,,A+,Good Job.,NO
+235060,6,Suhail, Ashley,Suhail Ashley,TRUE,7/9/2021 5:59:59,,A+,Everything is complete,NO
+236074,6,Suhail, Ashley,Suhail Ashley,TRUE,7/16/2021 5:59:59,,A+,Good Job.,NO
+237066,6,Suhail, Ashley,Suhail Ashley,TRUE,7/22/2021 5:59:59,,A+,Your code works.,NO
+238036,6,Suhail, Ashley,Suhail Ashley,TRUE,7/23/2021 5:59:59,,A+,Good Job.,NO
+239039,6,Suhail, Ashley,Suhail Ashley,TRUE,5/19/2021 5:59:59,,A+,Good Job.,NO
+240031,6,Suhail, Ashley,Suhail Ashley,TRUE,6/2/2021 5:59:59,,A+,Everything is complete,NO
+211085,7,Arabella, Christie,Arabella Christie,TRUE,2/4/2021 5:59:59,,A+,Good Job.,NO
+212070,7,Arabella, Christie,Arabella Christie,TRUE,2/11/2021 5:59:59,,A+,Everything is complete,NO
+213030,7,Arabella, Christie,Arabella Christie,TRUE,2/14/2021 5:59:59,,A+,Everything is complete,NO
+214096,7,Arabella, Christie,Arabella Christie,TRUE,2/21/2021 4:59:59,,A+,Good Job.,NO
+215023,7,Arabella, Christie,Arabella Christie,TRUE,2/28/2021 5:59:59,,A+,Your code works.,NO
+216022,7,Arabella, Christie,Arabella Christie,TRUE,3/7/2021 5:59:59,,A+,Good Job.,NO
+217066,7,Arabella, Christie,Arabella Christie,TRUE,3/14/2021 5:59:59,,A+,Everything is complete,NO
+218097,7,Arabella, Christie,Arabella Christie,TRUE,3/18/2021 5:59:59,,A+,Your code works.,NO
+219089,7,Arabella, Christie,Arabella Christie,TRUE,3/21/2021 5:59:59,,A+,Your code works.,NO
+220002,7,Arabella, Christie,Arabella Christie,TRUE,3/28/2021 5:59:59,,A+,Everything is complete,NO
+221064,7,Arabella, Christie,Arabella Christie,TRUE,4/11/2021 5:59:59,,A+,Your code works.,NO
+222074,7,Arabella, Christie,Arabella Christie,TRUE,4/18/2021 5:59:59,,A+,Good Job.,NO
+223013,7,Arabella, Christie,Arabella Christie,TRUE,4/22/2021 5:59:59,,A+,Your code works.,NO
+224064,7,Arabella, Christie,Arabella Christie,TRUE,4/25/2021 5:59:59,,A+,Good Job.,NO
+225090,7,Arabella, Christie,Arabella Christie,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+226020,7,Arabella, Christie,Arabella Christie,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+228067,7,Arabella, Christie,Arabella Christie,TRUE,5/26/2021 5:59:59,,A+,Your code works.,NO
+230002,7,Arabella, Christie,Arabella Christie,TRUE,6/3/2021 5:59:59,,A+,Good Job.,NO
+231056,7,Arabella, Christie,Arabella Christie,TRUE,6/18/2021 5:59:59,,A+,Good Job.,NO
+232095,7,Arabella, Christie,Arabella Christie,TRUE,6/25/2021 5:59:59,,A+,Good Job.,NO
+233014,7,Arabella, Christie,Arabella Christie,TRUE,7/1/2021 5:59:59,,A+,Everything is complete,NO
+234086,7,Arabella, Christie,Arabella Christie,TRUE,7/2/2021 5:59:59,,A+,Everything is complete,NO
+235060,7,Arabella, Christie,Arabella Christie,TRUE,7/9/2021 5:59:59,,A+,Your code works.,NO
+236074,7,Arabella, Christie,Arabella Christie,TRUE,7/16/2021 5:59:59,,A+,Everything is complete,NO
+237066,7,Arabella, Christie,Arabella Christie,TRUE,7/22/2021 5:59:59,,A+,Good Job.,NO
+238036,7,Arabella, Christie,Arabella Christie,TRUE,7/23/2021 5:59:59,,A+,Everything is complete,NO
+239039,7,Arabella, Christie,Arabella Christie,TRUE,5/19/2021 5:59:59,,A+,Everything is complete,NO
+240031,7,Arabella, Christie,Arabella Christie,TRUE,6/2/2021 5:59:59,,A+,Good Job.,NO
+211085,8,Amara, Finch,Amara Finch,TRUE,2/4/2021 5:59:59,,A+,Everything is complete,NO
+212070,8,Amara, Finch,Amara Finch,TRUE,2/11/2021 5:59:59,,A+,Your code works.,NO
+213030,8,Amara, Finch,Amara Finch,TRUE,2/14/2021 5:59:59,,A+,Your code works.,NO
+214096,8,Amara, Finch,Amara Finch,TRUE,2/21/2021 4:59:59,,A+,Everything is complete,NO
+215023,8,Amara, Finch,Amara Finch,TRUE,2/28/2021 5:59:59,,A+,Good Job.,NO
+216022,8,Amara, Finch,Amara Finch,TRUE,3/7/2021 5:59:59,,A+,Everything is complete,NO
+217066,8,Amara, Finch,Amara Finch,TRUE,3/14/2021 5:59:59,,A+,Your code works.,NO
+218097,8,Amara, Finch,Amara Finch,TRUE,3/18/2021 5:59:59,,A+,Good Job.,NO
+219089,8,Amara, Finch,Amara Finch,TRUE,3/21/2021 5:59:59,,A+,Good Job.,NO
+220002,8,Amara, Finch,Amara Finch,TRUE,3/28/2021 5:59:59,,A+,Your code works.,NO
+221064,8,Amara, Finch,Amara Finch,TRUE,4/11/2021 5:59:59,,A+,Good Job.,NO
+222074,8,Amara, Finch,Amara Finch,TRUE,4/18/2021 5:59:59,,A+,Everything is complete,NO
+223013,8,Amara, Finch,Amara Finch,TRUE,4/22/2021 5:59:59,,A+,Good Job.,NO
+224064,8,Amara, Finch,Amara Finch,TRUE,4/25/2021 5:59:59,,A+,Everything is complete,NO
+225090,8,Amara, Finch,Amara Finch,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+226020,8,Amara, Finch,Amara Finch,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+228067,8,Amara, Finch,Amara Finch,TRUE,5/26/2021 5:59:59,,A+,Good Job.,NO
+230002,8,Amara, Finch,Amara Finch,TRUE,6/3/2021 5:59:59,,A+,Everything is complete,NO
+231056,8,Amara, Finch,Amara Finch,TRUE,6/18/2021 5:59:59,,A+,Everything is complete,NO
+232095,8,Amara, Finch,Amara Finch,TRUE,6/25/2021 5:59:59,,A+,Everything is complete,NO
+233014,8,Amara, Finch,Amara Finch,TRUE,7/1/2021 5:59:59,,A+,Your code works.,NO
+234086,8,Amara, Finch,Amara Finch,TRUE,7/2/2021 5:59:59,,A+,Your code works.,NO
+235060,8,Amara, Finch,Amara Finch,TRUE,7/9/2021 5:59:59,,A+,Good Job.,NO
+236074,8,Amara, Finch,Amara Finch,TRUE,7/16/2021 5:59:59,,A+,Your code works.,NO
+237066,8,Amara, Finch,Amara Finch,TRUE,7/22/2021 5:59:59,,A+,Everything is complete,NO
+238036,8,Amara, Finch,Amara Finch,TRUE,7/23/2021 5:59:59,,A+,Good Job.,NO
+239039,8,Amara, Finch,Amara Finch,TRUE,5/19/2021 5:59:59,,A+,Good Job.,NO
+240031,8,Amara, Finch,Amara Finch,TRUE,6/2/2021 5:59:59,,A+,Everything is complete,NO
+211085,9,Pranav, Davies,Pranav Davies,TRUE,2/4/2021 5:59:59,,A+,Your code works.,NO
+212070,9,Pranav, Davies,Pranav Davies,TRUE,2/11/2021 5:59:59,,A+,Good Job.,NO
+213030,9,Pranav, Davies,Pranav Davies,TRUE,2/14/2021 5:59:59,,A+,Good Job.,NO
+214096,9,Pranav, Davies,Pranav Davies,TRUE,2/21/2021 4:59:59,,A+,Good Job.,NO
+215023,9,Pranav, Davies,Pranav Davies,TRUE,2/28/2021 5:59:59,,A+,Everything is complete,NO
+216022,9,Pranav, Davies,Pranav Davies,TRUE,3/7/2021 5:59:59,,A+,Your code works.,NO
+217066,9,Pranav, Davies,Pranav Davies,TRUE,3/14/2021 5:59:59,,A+,Good Job.,NO
+218097,9,Pranav, Davies,Pranav Davies,TRUE,3/18/2021 5:59:59,,A+,Everything is complete,NO
+219089,9,Pranav, Davies,Pranav Davies,TRUE,3/21/2021 5:59:59,,A+,Everything is complete,NO
+220002,9,Pranav, Davies,Pranav Davies,TRUE,3/28/2021 5:59:59,,A+,Good Job.,NO
+221064,9,Pranav, Davies,Pranav Davies,TRUE,4/11/2021 5:59:59,,A+,Everything is complete,NO
+222074,9,Pranav, Davies,Pranav Davies,TRUE,4/18/2021 5:59:59,,A+,Your code works.,NO
+223013,9,Pranav, Davies,Pranav Davies,TRUE,4/22/2021 5:59:59,,A+,Everything is complete,NO
+224064,9,Pranav, Davies,Pranav Davies,TRUE,4/25/2021 5:59:59,,A+,Your code works.,NO
+225090,9,Pranav, Davies,Pranav Davies,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+226020,9,Pranav, Davies,Pranav Davies,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+228067,9,Pranav, Davies,Pranav Davies,TRUE,5/26/2021 5:59:59,,A+,Everything is complete,NO
+230002,9,Pranav, Davies,Pranav Davies,TRUE,6/3/2021 5:59:59,,A+,Your code works.,NO
+231056,9,Pranav, Davies,Pranav Davies,TRUE,6/18/2021 5:59:59,,A+,Your code works.,NO
+232095,9,Pranav, Davies,Pranav Davies,TRUE,6/25/2021 5:59:59,,A+,Good Job.,NO
+233014,9,Pranav, Davies,Pranav Davies,TRUE,7/1/2021 5:59:59,,A+,Good Job.,NO
+234086,9,Pranav, Davies,Pranav Davies,TRUE,7/2/2021 5:59:59,,A+,Good Job.,NO
+235060,9,Pranav, Davies,Pranav Davies,TRUE,7/9/2021 5:59:59,,A+,Everything is complete,NO
+236074,9,Pranav, Davies,Pranav Davies,TRUE,7/16/2021 5:59:59,,A+,Good Job.,NO
+237066,9,Pranav, Davies,Pranav Davies,TRUE,7/22/2021 5:59:59,,A+,Your code works.,NO
+238036,9,Pranav, Davies,Pranav Davies,TRUE,7/23/2021 5:59:59,,A+,Everything is complete,NO
+239039,9,Pranav, Davies,Pranav Davies,TRUE,5/19/2021 5:59:59,,A+,Everything is complete,NO
+240031,9,Pranav, Davies,Pranav Davies,TRUE,6/2/2021 5:59:59,,A+,Your code works.,NO
+211085,10,Kaden, Connolly,Kaden Connolly,TRUE,2/4/2021 5:59:59,,A+,Good Job.,NO
+212070,10,Kaden, Connolly,Kaden Connolly,TRUE,2/11/2021 5:59:59,,A+,Everything is complete,NO
+213030,10,Kaden, Connolly,Kaden Connolly,TRUE,2/14/2021 5:59:59,,A+,Everything is complete,NO
+214096,10,Kaden, Connolly,Kaden Connolly,TRUE,2/21/2021 4:59:59,,A+,Everything is complete,NO
+215023,10,Kaden, Connolly,Kaden Connolly,TRUE,2/28/2021 5:59:59,,A+,Your code works.,NO
+216022,10,Kaden, Connolly,Kaden Connolly,TRUE,3/7/2021 5:59:59,,A+,Good Job.,NO
+217066,10,Kaden, Connolly,Kaden Connolly,TRUE,3/14/2021 5:59:59,,A+,Everything is complete,NO
+218097,10,Kaden, Connolly,Kaden Connolly,TRUE,3/18/2021 5:59:59,,A+,Your code works.,NO
+219089,10,Kaden, Connolly,Kaden Connolly,TRUE,3/21/2021 5:59:59,,A+,Your code works.,NO
+220002,10,Kaden, Connolly,Kaden Connolly,TRUE,3/28/2021 5:59:59,,A+,Everything is complete,NO
+221064,10,Kaden, Connolly,Kaden Connolly,TRUE,4/11/2021 5:59:59,,A+,Your code works.,NO
+222074,10,Kaden, Connolly,Kaden Connolly,TRUE,4/18/2021 5:59:59,,A+,Good Job.,NO
+223013,10,Kaden, Connolly,Kaden Connolly,TRUE,4/22/2021 5:59:59,,A+,Your code works.,NO
+224064,10,Kaden, Connolly,Kaden Connolly,TRUE,4/25/2021 5:59:59,,A+,Good Job.,NO
+225090,10,Kaden, Connolly,Kaden Connolly,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+226020,10,Kaden, Connolly,Kaden Connolly,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+228067,10,Kaden, Connolly,Kaden Connolly,TRUE,5/26/2021 5:59:59,,A+,Your code works.,NO
+230002,10,Kaden, Connolly,Kaden Connolly,TRUE,6/3/2021 5:59:59,,A+,Good Job.,NO
+231056,10,Kaden, Connolly,Kaden Connolly,TRUE,6/18/2021 5:59:59,,A+,Good Job.,NO
+232095,10,Kaden, Connolly,Kaden Connolly,TRUE,6/25/2021 5:59:59,,A+,Everything is complete,NO
+233014,10,Kaden, Connolly,Kaden Connolly,TRUE,7/1/2021 5:59:59,,A+,Everything is complete,NO
+234086,10,Kaden, Connolly,Kaden Connolly,TRUE,7/2/2021 5:59:59,,A+,Everything is complete,NO
+235060,10,Kaden, Connolly,Kaden Connolly,TRUE,7/9/2021 5:59:59,,A+,Good Job.,NO
+236074,10,Kaden, Connolly,Kaden Connolly,TRUE,7/16/2021 5:59:59,,A+,Everything is complete,NO
+237066,10,Kaden, Connolly,Kaden Connolly,TRUE,7/22/2021 5:59:59,,A+,Good Job.,NO
+238036,10,Kaden, Connolly,Kaden Connolly,TRUE,7/23/2021 5:59:59,,A+,Your code works.,NO
+239039,10,Kaden, Connolly,Kaden Connolly,TRUE,5/19/2021 5:59:59,,A+,Your code works.,NO
+240031,10,Kaden, Connolly,Kaden Connolly,TRUE,6/2/2021 5:59:59,,A+,Good Job.,NO
+211085,11,Gladys, Preston,Gladys Preston,FALSE,2/4/2021 5:59:59,,,,
+212070,11,Gladys, Preston,Gladys Preston,TRUE,2/11/2021 5:59:59,,A+,Your code works.,NO
+213030,11,Gladys, Preston,Gladys Preston,TRUE,2/14/2021 5:59:59,,A+,Your code works.,NO
+214096,11,Gladys, Preston,Gladys Preston,TRUE,2/21/2021 4:59:59,,A+,Your code works.,NO
+215023,11,Gladys, Preston,Gladys Preston,TRUE,2/28/2021 5:59:59,,A+,Good Job.,NO
+216022,11,Gladys, Preston,Gladys Preston,TRUE,3/7/2021 5:59:59,,A+,Everything is complete,NO
+217066,11,Gladys, Preston,Gladys Preston,TRUE,3/14/2021 5:59:59,,A+,Your code works.,NO
+218097,11,Gladys, Preston,Gladys Preston,TRUE,3/18/2021 5:59:59,,A+,Good Job.,NO
+219089,11,Gladys, Preston,Gladys Preston,TRUE,3/21/2021 5:59:59,,A+,Good Job.,NO
+220002,11,Gladys, Preston,Gladys Preston,TRUE,3/28/2021 5:59:59,,A+,Good Job.,NO
+221064,11,Gladys, Preston,Gladys Preston,TRUE,4/11/2021 5:59:59,,A+,Good Job.,NO
+222074,11,Gladys, Preston,Gladys Preston,TRUE,4/18/2021 5:59:59,,A+,Everything is complete,NO
+223013,11,Gladys, Preston,Gladys Preston,TRUE,4/22/2021 5:59:59,,A+,Good Job.,NO
+224064,11,Gladys, Preston,Gladys Preston,TRUE,4/25/2021 5:59:59,,A+,Everything is complete,NO
+225090,11,Gladys, Preston,Gladys Preston,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+226020,11,Gladys, Preston,Gladys Preston,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+228067,11,Gladys, Preston,Gladys Preston,TRUE,5/26/2021 5:59:59,,A+,Good Job.,NO
+230002,11,Gladys, Preston,Gladys Preston,TRUE,6/3/2021 5:59:59,,A+,Everything is complete,NO
+231056,11,Gladys, Preston,Gladys Preston,TRUE,6/18/2021 5:59:59,,A+,Everything is complete,NO
+232095,11,Gladys, Preston,Gladys Preston,TRUE,6/25/2021 5:59:59,,A+,Your code works.,NO
+233014,11,Gladys, Preston,Gladys Preston,TRUE,7/1/2021 5:59:59,,A+,Your code works.,NO
+234086,11,Gladys, Preston,Gladys Preston,TRUE,7/2/2021 5:59:59,,A+,Good Job.,NO
+235060,11,Gladys, Preston,Gladys Preston,TRUE,7/9/2021 5:59:59,,A+,Everything is complete,NO
+236074,11,Gladys, Preston,Gladys Preston,TRUE,7/16/2021 5:59:59,,A+,Your code works.,NO
+237066,11,Gladys, Preston,Gladys Preston,TRUE,7/22/2021 5:59:59,,A+,Everything is complete,NO
+238036,11,Gladys, Preston,Gladys Preston,TRUE,7/23/2021 5:59:59,,A+,Good Job.,NO
+239039,11,Gladys, Preston,Gladys Preston,TRUE,5/19/2021 5:59:59,,A+,Good Job.,NO
+240031,11,Gladys, Preston,Gladys Preston,TRUE,6/2/2021 5:59:59,,A+,Everything is complete,NO
+211085,12,Asa, Healy,Asa Healy,FALSE,2/4/2021 5:59:59,,,,
+212070,12,Asa, Healy,Asa Healy,TRUE,2/11/2021 5:59:59,,A+,Good Job.,NO
+213030,12,Asa, Healy,Asa Healy,TRUE,2/14/2021 5:59:59,,A+,Good Job.,NO
+214096,12,Asa, Healy,Asa Healy,TRUE,2/21/2021 4:59:59,,A+,Good Job.,NO
+215023,12,Asa, Healy,Asa Healy,TRUE,2/28/2021 5:59:59,,A+,Everything is complete,NO
+216022,12,Asa, Healy,Asa Healy,TRUE,3/7/2021 5:59:59,,A+,Your code works.,NO
+217066,12,Asa, Healy,Asa Healy,TRUE,3/14/2021 5:59:59,,A+,Good Job.,NO
+218097,12,Asa, Healy,Asa Healy,TRUE,3/18/2021 5:59:59,,A+,Everything is complete,NO
+219089,12,Asa, Healy,Asa Healy,TRUE,3/21/2021 5:59:59,,A+,Everything is complete,NO
+220002,12,Asa, Healy,Asa Healy,TRUE,3/28/2021 5:59:59,,A+,Everything is complete,NO
+221064,12,Asa, Healy,Asa Healy,TRUE,4/11/2021 5:59:59,,A+,Everything is complete,NO
+222074,12,Asa, Healy,Asa Healy,TRUE,4/18/2021 5:59:59,,A+,Your code works.,NO
+223013,12,Asa, Healy,Asa Healy,TRUE,4/22/2021 5:59:59,,A+,Everything is complete,NO
+224064,12,Asa, Healy,Asa Healy,TRUE,4/25/2021 5:59:59,,A+,Your code works.,NO
+225090,12,Asa, Healy,Asa Healy,TRUE,5/5/2021 5:59:59,,A+,Good Job.,YES
+226020,12,Asa, Healy,Asa Healy,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+228067,12,Asa, Healy,Asa Healy,TRUE,5/26/2021 5:59:59,,A+,Everything is complete,NO
+230002,12,Asa, Healy,Asa Healy,TRUE,6/3/2021 5:59:59,,A+,Good Job.,NO
+231056,12,Asa, Healy,Asa Healy,TRUE,6/18/2021 5:59:59,,A+,Good Job.,NO
+232095,12,Asa, Healy,Asa Healy,TRUE,6/25/2021 5:59:59,,A+,Good Job.,NO
+233014,12,Asa, Healy,Asa Healy,TRUE,7/1/2021 5:59:59,,A+,Good Job.,NO
+234086,12,Asa, Healy,Asa Healy,TRUE,7/2/2021 5:59:59,,A+,Everything is complete,NO
+235060,12,Asa, Healy,Asa Healy,TRUE,7/9/2021 5:59:59,,A+,Your code works.,NO
+236074,12,Asa, Healy,Asa Healy,TRUE,7/16/2021 5:59:59,,A+,Good Job.,NO
+237066,12,Asa, Healy,Asa Healy,TRUE,7/22/2021 5:59:59,,A+,Your code works.,NO
+238036,12,Asa, Healy,Asa Healy,TRUE,7/23/2021 5:59:59,,A+,Everything is complete,NO
+239039,12,Asa, Healy,Asa Healy,TRUE,5/19/2021 5:59:59,,A+,Everything is complete,NO
+240031,12,Asa, Healy,Asa Healy,TRUE,6/2/2021 5:59:59,,A+,Your code works.,NO
+211085,13,Rhydian, Wells,Rhydian Wells,TRUE,2/4/2021 5:59:59,,A+,Good Job.,NO
+212070,13,Rhydian, Wells,Rhydian Wells,TRUE,2/11/2021 5:59:59,,A+,Everything is complete,NO
+213030,13,Rhydian, Wells,Rhydian Wells,TRUE,2/14/2021 5:59:59,,A+,Everything is complete,NO
+214096,13,Rhydian, Wells,Rhydian Wells,TRUE,2/21/2021 4:59:59,,A+,Everything is complete,NO
+215023,13,Rhydian, Wells,Rhydian Wells,TRUE,2/28/2021 5:59:59,,A+,Your code works.,NO
+216022,13,Rhydian, Wells,Rhydian Wells,TRUE,3/7/2021 5:59:59,,A+,Good Job.,NO
+217066,13,Rhydian, Wells,Rhydian Wells,TRUE,3/14/2021 5:59:59,,A+,Everything is complete,NO
+218097,13,Rhydian, Wells,Rhydian Wells,TRUE,3/18/2021 5:59:59,,A+,Good Job.,NO
+219089,13,Rhydian, Wells,Rhydian Wells,TRUE,3/21/2021 5:59:59,,A+,Your code works.,NO
+220002,13,Rhydian, Wells,Rhydian Wells,TRUE,3/28/2021 5:59:59,,A+,Your code works.,NO
+221064,13,Rhydian, Wells,Rhydian Wells,TRUE,4/11/2021 5:59:59,,A+,Your code works.,NO
+222074,13,Rhydian, Wells,Rhydian Wells,TRUE,4/18/2021 5:59:59,,A+,Good Job.,NO
+223013,13,Rhydian, Wells,Rhydian Wells,TRUE,4/22/2021 5:59:59,,A+,Your code works.,NO
+224064,13,Rhydian, Wells,Rhydian Wells,TRUE,4/25/2021 5:59:59,,A+,Good Job.,NO
+225090,13,Rhydian, Wells,Rhydian Wells,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+226020,13,Rhydian, Wells,Rhydian Wells,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+228067,13,Rhydian, Wells,Rhydian Wells,TRUE,5/26/2021 5:59:59,,A+,Good Job.,NO
+230002,13,Rhydian, Wells,Rhydian Wells,TRUE,6/3/2021 5:59:59,,A+,Everything is complete,NO
+231056,13,Rhydian, Wells,Rhydian Wells,TRUE,6/18/2021 5:59:59,,A+,Everything is complete,NO
+232095,13,Rhydian, Wells,Rhydian Wells,TRUE,6/25/2021 5:59:59,,A+,Everything is complete,NO
+233014,13,Rhydian, Wells,Rhydian Wells,TRUE,7/1/2021 5:59:59,,A+,Everything is complete,NO
+234086,13,Rhydian, Wells,Rhydian Wells,TRUE,7/2/2021 5:59:59,,A+,Your code works.,NO
+235060,13,Rhydian, Wells,Rhydian Wells,TRUE,7/9/2021 5:59:59,,A+,Good Job.,NO
+236074,13,Rhydian, Wells,Rhydian Wells,TRUE,7/16/2021 5:59:59,,A+,Everything is complete,NO
+237066,13,Rhydian, Wells,Rhydian Wells,TRUE,7/22/2021 5:59:59,,A+,Good Job.,NO
+238036,13,Rhydian, Wells,Rhydian Wells,TRUE,7/23/2021 5:59:59,,A+,Your code works.,NO
+239039,13,Rhydian, Wells,Rhydian Wells,TRUE,5/19/2021 5:59:59,,A+,Your code works.,NO
+240031,13,Rhydian, Wells,Rhydian Wells,TRUE,6/2/2021 5:59:59,,A+,Good Job.,NO
+211085,14,Stephen, Bullock,Stephen Bullock,TRUE,2/4/2021 5:59:59,,Incomplete,Everything is complete,NO
+212070,14,Stephen, Bullock,Stephen Bullock,TRUE,2/11/2021 5:59:59,,A+,Your code works.,NO
+213030,14,Stephen, Bullock,Stephen Bullock,TRUE,2/14/2021 5:59:59,,A+,Your code works.,NO
+214096,14,Stephen, Bullock,Stephen Bullock,TRUE,2/21/2021 4:59:59,,A+,Your code works.,NO
+215023,14,Stephen, Bullock,Stephen Bullock,TRUE,2/28/2021 5:59:59,,A+,Good Job.,NO
+216022,14,Stephen, Bullock,Stephen Bullock,TRUE,3/7/2021 5:59:59,,A+,Everything is complete,NO
+217066,14,Stephen, Bullock,Stephen Bullock,TRUE,3/14/2021 5:59:59,,A+,Your code works.,NO
+218097,14,Stephen, Bullock,Stephen Bullock,TRUE,3/18/2021 5:59:59,,A+,Everything is complete,NO
+219089,14,Stephen, Bullock,Stephen Bullock,TRUE,3/21/2021 5:59:59,,A+,Good Job.,NO
+220002,14,Stephen, Bullock,Stephen Bullock,TRUE,3/28/2021 5:59:59,,A+,Good Job.,NO
+221064,14,Stephen, Bullock,Stephen Bullock,TRUE,4/11/2021 5:59:59,,A+,Good Job.,NO
+222074,14,Stephen, Bullock,Stephen Bullock,TRUE,4/18/2021 5:59:59,,A+,Everything is complete,NO
+223013,14,Stephen, Bullock,Stephen Bullock,TRUE,4/22/2021 5:59:59,,A+,Good Job.,NO
+224064,14,Stephen, Bullock,Stephen Bullock,TRUE,4/25/2021 5:59:59,,A+,Everything is complete,NO
+225090,14,Stephen, Bullock,Stephen Bullock,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+226020,14,Stephen, Bullock,Stephen Bullock,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+228067,14,Stephen, Bullock,Stephen Bullock,TRUE,5/26/2021 5:59:59,,A+,Everything is complete,NO
+230002,14,Stephen, Bullock,Stephen Bullock,TRUE,6/3/2021 5:59:59,,A+,Your code works.,NO
+231056,14,Stephen, Bullock,Stephen Bullock,TRUE,6/18/2021 5:59:59,,A+,Your code works.,NO
+232095,14,Stephen, Bullock,Stephen Bullock,TRUE,6/25/2021 5:59:59,,A+,Your code works.,NO
+233014,14,Stephen, Bullock,Stephen Bullock,TRUE,7/1/2021 5:59:59,,A+,Good Job.,NO
+234086,14,Stephen, Bullock,Stephen Bullock,TRUE,7/2/2021 5:59:59,,A+,Good Job.,NO
+235060,14,Stephen, Bullock,Stephen Bullock,TRUE,7/9/2021 5:59:59,,A+,Everything is complete,NO
+236074,14,Stephen, Bullock,Stephen Bullock,TRUE,7/16/2021 5:59:59,,A+,Your code works.,NO
+237066,14,Stephen, Bullock,Stephen Bullock,TRUE,7/22/2021 5:59:59,,A+,Everything is complete,NO
+238036,14,Stephen, Bullock,Stephen Bullock,TRUE,7/23/2021 5:59:59,,A+,Good Job.,NO
+239039,14,Stephen, Bullock,Stephen Bullock,TRUE,5/19/2021 5:59:59,,A+,Good Job.,NO
+240031,14,Stephen, Bullock,Stephen Bullock,TRUE,6/2/2021 5:59:59,,A+,Everything is complete,NO
+211085,15,Raymond, Frye,Raymond Frye,TRUE,2/4/2021 5:59:59,,A+,Your code works.,NO
+212070,15,Raymond, Frye,Raymond Frye,TRUE,2/11/2021 5:59:59,,A+,Good Job.,NO
+213030,15,Raymond, Frye,Raymond Frye,TRUE,2/14/2021 5:59:59,,A+,Good Job.,NO
+214096,15,Raymond, Frye,Raymond Frye,TRUE,2/21/2021 4:59:59,,A+,Good Job.,NO
+215023,15,Raymond, Frye,Raymond Frye,TRUE,2/28/2021 5:59:59,,A+,Everything is complete,NO
+216022,15,Raymond, Frye,Raymond Frye,TRUE,3/7/2021 5:59:59,,A+,Your code works.,NO
+217066,15,Raymond, Frye,Raymond Frye,TRUE,3/14/2021 5:59:59,,A+,Good Job.,NO
+218097,15,Raymond, Frye,Raymond Frye,TRUE,3/18/2021 5:59:59,,A+,Your code works.,NO
+219089,15,Raymond, Frye,Raymond Frye,TRUE,3/21/2021 5:59:59,,A+,Everything is complete,NO
+220002,15,Raymond, Frye,Raymond Frye,TRUE,3/28/2021 5:59:59,,A+,Everything is complete,NO
+221064,15,Raymond, Frye,Raymond Frye,TRUE,4/11/2021 5:59:59,,A+,Everything is complete,NO
+222074,15,Raymond, Frye,Raymond Frye,TRUE,4/18/2021 5:59:59,,A+,Your code works.,NO
+223013,15,Raymond, Frye,Raymond Frye,TRUE,4/22/2021 5:59:59,,A+,Everything is complete,NO
+224064,15,Raymond, Frye,Raymond Frye,TRUE,4/25/2021 5:59:59,,A+,Good Job.,NO
+225090,15,Raymond, Frye,Raymond Frye,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+226020,15,Raymond, Frye,Raymond Frye,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+228067,15,Raymond, Frye,Raymond Frye,TRUE,5/26/2021 5:59:59,,A+,Your code works.,NO
+230002,15,Raymond, Frye,Raymond Frye,TRUE,6/3/2021 5:59:59,,A+,Good Job.,NO
+231056,15,Raymond, Frye,Raymond Frye,TRUE,6/18/2021 5:59:59,,A+,Good Job.,NO
+232095,15,Raymond, Frye,Raymond Frye,TRUE,6/25/2021 5:59:59,,A+,Good Job.,NO
+233014,15,Raymond, Frye,Raymond Frye,TRUE,7/1/2021 5:59:59,,A+,Everything is complete,NO
+234086,15,Raymond, Frye,Raymond Frye,TRUE,7/2/2021 5:59:59,,A+,Everything is complete,NO
+235060,15,Raymond, Frye,Raymond Frye,TRUE,7/9/2021 5:59:59,,A+,Your code works.,NO
+236074,15,Raymond, Frye,Raymond Frye,TRUE,7/16/2021 5:59:59,,A+,Good Job.,NO
+237066,15,Raymond, Frye,Raymond Frye,TRUE,7/22/2021 5:59:59,,A+,Good Job.,NO
+238036,15,Raymond, Frye,Raymond Frye,TRUE,7/23/2021 5:59:59,,A+,Everything is complete,NO
+239039,15,Raymond, Frye,Raymond Frye,TRUE,5/19/2021 5:59:59,,A+,Everything is complete,NO
+240031,15,Raymond, Frye,Raymond Frye,TRUE,6/2/2021 5:59:59,,A+,Your code works.,NO
+211085,16,Steven, Bean,Steven Bean,TRUE,2/4/2021 5:59:59,,A+,Good Job.,NO
+212070,16,Steven, Bean,Steven Bean,TRUE,2/11/2021 5:59:59,,A+,Everything is complete,NO
+213030,16,Steven, Bean,Steven Bean,TRUE,2/14/2021 5:59:59,,A+,Everything is complete,NO
+214096,16,Steven, Bean,Steven Bean,TRUE,2/21/2021 4:59:59,,A+,Everything is complete,NO
+215023,16,Steven, Bean,Steven Bean,TRUE,2/28/2021 5:59:59,,A+,Your code works.,NO
+216022,16,Steven, Bean,Steven Bean,TRUE,3/7/2021 5:59:59,,A+,Good Job.,NO
+217066,16,Steven, Bean,Steven Bean,TRUE,3/14/2021 5:59:59,,A+,Everything is complete,NO
+218097,16,Steven, Bean,Steven Bean,TRUE,3/18/2021 5:59:59,,A+,Good Job.,NO
+219089,16,Steven, Bean,Steven Bean,TRUE,3/21/2021 5:59:59,,A+,Your code works.,NO
+220002,16,Steven, Bean,Steven Bean,TRUE,3/28/2021 5:59:59,,A+,Your code works.,NO
+221064,16,Steven, Bean,Steven Bean,TRUE,4/11/2021 5:59:59,,A+,Good Job.,NO
+222074,16,Steven, Bean,Steven Bean,TRUE,4/18/2021 5:59:59,,A+,Good Job.,NO
+223013,16,Steven, Bean,Steven Bean,TRUE,4/22/2021 5:59:59,,A+,Good Job.,NO
+224064,16,Steven, Bean,Steven Bean,TRUE,4/25/2021 5:59:59,,A+,Everything is complete,NO
+225090,16,Steven, Bean,Steven Bean,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+226020,16,Steven, Bean,Steven Bean,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+228067,16,Steven, Bean,Steven Bean,TRUE,5/26/2021 5:59:59,,A+,Good Job.,NO
+230002,16,Steven, Bean,Steven Bean,TRUE,6/3/2021 5:59:59,,A+,Everything is complete,NO
+231056,16,Steven, Bean,Steven Bean,TRUE,6/18/2021 5:59:59,,A+,Everything is complete,NO
+232095,16,Steven, Bean,Steven Bean,TRUE,6/25/2021 5:59:59,,A+,Everything is complete,NO
+233014,16,Steven, Bean,Steven Bean,TRUE,7/1/2021 5:59:59,,A+,Your code works.,NO
+234086,16,Steven, Bean,Steven Bean,TRUE,7/2/2021 5:59:59,,A+,Your code works.,NO
+235060,16,Steven, Bean,Steven Bean,TRUE,7/9/2021 5:59:59,,A+,Good Job.,NO
+236074,16,Steven, Bean,Steven Bean,TRUE,7/16/2021 5:59:59,,A+,Everything is complete,NO
+237066,16,Steven, Bean,Steven Bean,TRUE,7/22/2021 5:59:59,,A+,Everything is complete,NO
+238036,16,Steven, Bean,Steven Bean,TRUE,7/23/2021 5:59:59,,A+,Your code works.,NO
+239039,16,Steven, Bean,Steven Bean,TRUE,5/19/2021 5:59:59,,A+,Your code works.,NO
+240031,16,Steven, Bean,Steven Bean,TRUE,6/2/2021 5:59:59,,A+,Good Job.,NO
+211085,17,Dafydd, Ryan,Dafydd Ryan,TRUE,2/4/2021 5:59:59,,A+,Everything is complete,NO
+212070,17,Dafydd, Ryan,Dafydd Ryan,TRUE,2/11/2021 5:59:59,,A+,Good Job.,NO
+213030,17,Dafydd, Ryan,Dafydd Ryan,TRUE,2/14/2021 5:59:59,,A+,Good Job.,NO
+214096,17,Dafydd, Ryan,Dafydd Ryan,TRUE,2/21/2021 4:59:59,,A+,Your code works.,NO
+215023,17,Dafydd, Ryan,Dafydd Ryan,TRUE,2/28/2021 5:59:59,,A+,Good Job.,NO
+216022,17,Dafydd, Ryan,Dafydd Ryan,TRUE,3/7/2021 5:59:59,,A+,Everything is complete,NO
+217066,17,Dafydd, Ryan,Dafydd Ryan,TRUE,3/14/2021 5:59:59,,A+,Your code works.,NO
+218097,17,Dafydd, Ryan,Dafydd Ryan,TRUE,3/18/2021 5:59:59,,A+,Everything is complete,NO
+219089,17,Dafydd, Ryan,Dafydd Ryan,TRUE,3/21/2021 5:59:59,,A+,Good Job.,NO
+220002,17,Dafydd, Ryan,Dafydd Ryan,TRUE,3/28/2021 5:59:59,,A+,Good Job.,NO
+221064,17,Dafydd, Ryan,Dafydd Ryan,TRUE,4/11/2021 5:59:59,,A+,Everything is complete,NO
+222074,17,Dafydd, Ryan,Dafydd Ryan,TRUE,4/18/2021 5:59:59,,A+,Everything is complete,NO
+223013,17,Dafydd, Ryan,Dafydd Ryan,TRUE,4/22/2021 5:59:59,,A+,Everything is complete,NO
+224064,17,Dafydd, Ryan,Dafydd Ryan,TRUE,4/25/2021 5:59:59,,A+,Your code works.,NO
+225090,17,Dafydd, Ryan,Dafydd Ryan,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+226020,17,Dafydd, Ryan,Dafydd Ryan,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+228067,17,Dafydd, Ryan,Dafydd Ryan,TRUE,5/26/2021 5:59:59,,A+,Everything is complete,NO
+230002,17,Dafydd, Ryan,Dafydd Ryan,TRUE,6/3/2021 5:59:59,,A+,Your code works.,NO
+231056,17,Dafydd, Ryan,Dafydd Ryan,TRUE,6/18/2021 5:59:59,,A+,Your code works.,NO
+232095,17,Dafydd, Ryan,Dafydd Ryan,TRUE,6/25/2021 5:59:59,,A+,Your code works.,NO
+233014,17,Dafydd, Ryan,Dafydd Ryan,TRUE,7/1/2021 5:59:59,,A+,Good Job.,NO
+234086,17,Dafydd, Ryan,Dafydd Ryan,TRUE,7/2/2021 5:59:59,,A+,Good Job.,NO
+235060,17,Dafydd, Ryan,Dafydd Ryan,TRUE,7/9/2021 5:59:59,,A+,Everything is complete,NO
+236074,17,Dafydd, Ryan,Dafydd Ryan,TRUE,7/16/2021 5:59:59,,A+,Your code works.,NO
+237066,17,Dafydd, Ryan,Dafydd Ryan,TRUE,7/22/2021 5:59:59,,A+,Your code works.,NO
+238036,17,Dafydd, Ryan,Dafydd Ryan,TRUE,7/23/2021 5:59:59,,A+,Good Job.,NO
+239039,17,Dafydd, Ryan,Dafydd Ryan,TRUE,5/19/2021 5:59:59,,A+,Good Job.,NO
+240031,17,Dafydd, Ryan,Dafydd Ryan,TRUE,6/2/2021 5:59:59,,A+,Everything is complete,NO
+211085,18,Che, Nielsen,Che Nielsen,TRUE,2/4/2021 5:59:59,,A+,Good Job.,NO
+212070,18,Che, Nielsen,Che Nielsen,TRUE,2/11/2021 5:59:59,,A+,Everything is complete,NO
+213030,18,Che, Nielsen,Che Nielsen,TRUE,2/14/2021 5:59:59,,A+,Everything is complete,NO
+214096,18,Che, Nielsen,Che Nielsen,TRUE,2/21/2021 4:59:59,,A+,Good Job.,NO
+215023,18,Che, Nielsen,Che Nielsen,TRUE,2/28/2021 5:59:59,,A+,Everything is complete,NO
+216022,18,Che, Nielsen,Che Nielsen,TRUE,3/7/2021 5:59:59,,A+,Your code works.,NO
+217066,18,Che, Nielsen,Che Nielsen,TRUE,3/14/2021 5:59:59,,A+,Good Job.,NO
+218097,18,Che, Nielsen,Che Nielsen,TRUE,3/18/2021 5:59:59,,A+,Your code works.,NO
+219089,18,Che, Nielsen,Che Nielsen,TRUE,3/21/2021 5:59:59,,A+,Everything is complete,NO
+220002,18,Che, Nielsen,Che Nielsen,TRUE,3/28/2021 5:59:59,,A+,Everything is complete,NO
+221064,18,Che, Nielsen,Che Nielsen,TRUE,4/11/2021 5:59:59,,A+,Your code works.,NO
+222074,18,Che, Nielsen,Che Nielsen,TRUE,4/18/2021 5:59:59,,A+,Good Job.,NO
+223013,18,Che, Nielsen,Che Nielsen,TRUE,4/22/2021 5:59:59,,A+,Your code works.,NO
+224064,18,Che, Nielsen,Che Nielsen,TRUE,4/25/2021 5:59:59,,A+,Good Job.,NO
+225090,18,Che, Nielsen,Che Nielsen,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+226020,18,Che, Nielsen,Che Nielsen,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+228067,18,Che, Nielsen,Che Nielsen,TRUE,5/26/2021 5:59:59,,A+,Your code works.,NO
+230002,18,Che, Nielsen,Che Nielsen,TRUE,6/3/2021 5:59:59,,A+,Good Job.,NO
+231056,18,Che, Nielsen,Che Nielsen,TRUE,6/18/2021 5:59:59,,A+,Good Job.,NO
+232095,18,Che, Nielsen,Che Nielsen,TRUE,6/25/2021 5:59:59,,A+,Good Job.,NO
+233014,18,Che, Nielsen,Che Nielsen,TRUE,7/1/2021 5:59:59,,A+,Everything is complete,NO
+234086,18,Che, Nielsen,Che Nielsen,TRUE,7/2/2021 5:59:59,,A+,Everything is complete,NO
+235060,18,Che, Nielsen,Che Nielsen,TRUE,7/9/2021 5:59:59,,A+,Your code works.,NO
+236074,18,Che, Nielsen,Che Nielsen,TRUE,7/16/2021 5:59:59,,A+,Good Job.,NO
+237066,18,Che, Nielsen,Che Nielsen,TRUE,7/22/2021 5:59:59,,A+,Good Job.,NO
+238036,18,Che, Nielsen,Che Nielsen,TRUE,7/23/2021 5:59:59,,A+,Everything is complete,NO
+239039,18,Che, Nielsen,Che Nielsen,TRUE,5/19/2021 5:59:59,,A+,Everything is complete,NO
+240031,18,Che, Nielsen,Che Nielsen,TRUE,6/2/2021 5:59:59,,A+,Your code works.,NO
+211085,19,Malia, Broughton,Malia Broughton,FALSE,2/4/2021 5:59:59,,,,
+212070,19,Malia, Broughton,Malia Broughton,TRUE,2/11/2021 5:59:59,,A+,Your code works.,NO
+213030,19,Malia, Broughton,Malia Broughton,TRUE,2/14/2021 5:59:59,,A+,Your code works.,NO
+214096,19,Malia, Broughton,Malia Broughton,TRUE,2/21/2021 4:59:59,,A+,Everything is complete,NO
+215023,19,Malia, Broughton,Malia Broughton,TRUE,2/28/2021 5:59:59,,A+,Your code works.,NO
+216022,19,Malia, Broughton,Malia Broughton,TRUE,3/7/2021 5:59:59,,A+,Good Job.,NO
+217066,19,Malia, Broughton,Malia Broughton,TRUE,3/14/2021 5:59:59,,A+,Everything is complete,NO
+218097,19,Malia, Broughton,Malia Broughton,TRUE,3/18/2021 5:59:59,,A+,Good Job.,NO
+219089,19,Malia, Broughton,Malia Broughton,TRUE,3/21/2021 5:59:59,,A+,Good Job.,NO
+220002,19,Malia, Broughton,Malia Broughton,TRUE,3/28/2021 5:59:59,,A+,Your code works.,NO
+221064,19,Malia, Broughton,Malia Broughton,TRUE,4/11/2021 5:59:59,,A+,Good Job.,NO
+222074,19,Malia, Broughton,Malia Broughton,TRUE,4/18/2021 5:59:59,,A+,Everything is complete,NO
+223013,19,Malia, Broughton,Malia Broughton,TRUE,4/22/2021 5:59:59,,A+,Good Job.,NO
+224064,19,Malia, Broughton,Malia Broughton,TRUE,4/25/2021 5:59:59,,A+,Everything is complete,NO
+225090,19,Malia, Broughton,Malia Broughton,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+226020,19,Malia, Broughton,Malia Broughton,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+228067,19,Malia, Broughton,Malia Broughton,TRUE,5/26/2021 5:59:59,,A+,Good Job.,NO
+230002,19,Malia, Broughton,Malia Broughton,TRUE,6/3/2021 5:59:59,,A+,Everything is complete,NO
+231056,19,Malia, Broughton,Malia Broughton,TRUE,6/18/2021 5:59:59,,A+,Everything is complete,NO
+232095,19,Malia, Broughton,Malia Broughton,TRUE,6/25/2021 5:59:59,,A+,Everything is complete,NO
+233014,19,Malia, Broughton,Malia Broughton,TRUE,7/1/2021 5:59:59,,A+,Your code works.,NO
+234086,19,Malia, Broughton,Malia Broughton,TRUE,7/2/2021 5:59:59,,A+,Your code works.,NO
+235060,19,Malia, Broughton,Malia Broughton,TRUE,7/9/2021 5:59:59,,A+,Good Job.,NO
+236074,19,Malia, Broughton,Malia Broughton,TRUE,7/16/2021 5:59:59,,A+,Everything is complete,NO
+237066,19,Malia, Broughton,Malia Broughton,TRUE,7/22/2021 5:59:59,,A+,Everything is complete,NO
+238036,19,Malia, Broughton,Malia Broughton,TRUE,7/23/2021 5:59:59,,A+,Your code works.,NO
+239039,19,Malia, Broughton,Malia Broughton,TRUE,5/19/2021 5:59:59,,A+,Your code works.,NO
+240031,19,Malia, Broughton,Malia Broughton,TRUE,6/2/2021 5:59:59,,A+,Good Job.,NO
+211085,20,Bilal, Shelton,Bilal Shelton,FALSE,2/4/2021 5:59:59,,,,
+212070,20,Bilal, Shelton,Bilal Shelton,TRUE,2/11/2021 5:59:59,,A+,Good Job.,NO
+213030,20,Bilal, Shelton,Bilal Shelton,TRUE,2/14/2021 5:59:59,,A+,Good Job.,NO
+214096,20,Bilal, Shelton,Bilal Shelton,TRUE,2/21/2021 4:59:59,,A+,Your code works.,NO
+215023,20,Bilal, Shelton,Bilal Shelton,TRUE,2/28/2021 5:59:59,,A+,Good Job.,NO
+216022,20,Bilal, Shelton,Bilal Shelton,TRUE,3/7/2021 5:59:59,,A+,Everything is complete,NO
+217066,20,Bilal, Shelton,Bilal Shelton,TRUE,3/14/2021 5:59:59,,A+,Good Job.,NO
+218097,20,Bilal, Shelton,Bilal Shelton,TRUE,3/18/2021 5:59:59,,A+,Everything is complete,NO
+219089,20,Bilal, Shelton,Bilal Shelton,TRUE,3/21/2021 5:59:59,,A+,Everything is complete,NO
+220002,20,Bilal, Shelton,Bilal Shelton,TRUE,3/28/2021 5:59:59,,A+,Good Job.,NO
+221064,20,Bilal, Shelton,Bilal Shelton,TRUE,4/11/2021 5:59:59,,A+,Everything is complete,NO
+222074,20,Bilal, Shelton,Bilal Shelton,TRUE,4/18/2021 5:59:59,,A+,Your code works.,NO
+223013,20,Bilal, Shelton,Bilal Shelton,TRUE,4/22/2021 5:59:59,,A+,Everything is complete,NO
+224064,20,Bilal, Shelton,Bilal Shelton,TRUE,4/25/2021 5:59:59,,A+,Your code works.,NO
+225090,20,Bilal, Shelton,Bilal Shelton,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+226020,20,Bilal, Shelton,Bilal Shelton,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+228067,20,Bilal, Shelton,Bilal Shelton,TRUE,5/26/2021 5:59:59,,A+,Everything is complete,NO
+230002,20,Bilal, Shelton,Bilal Shelton,TRUE,6/3/2021 5:59:59,,A+,Your code works.,NO
+231056,20,Bilal, Shelton,Bilal Shelton,TRUE,6/18/2021 5:59:59,,A+,Your code works.,NO
+232095,20,Bilal, Shelton,Bilal Shelton,TRUE,6/25/2021 5:59:59,,A+,Your code works.,NO
+233014,20,Bilal, Shelton,Bilal Shelton,TRUE,7/1/2021 5:59:59,,A+,Good Job.,NO
+234086,20,Bilal, Shelton,Bilal Shelton,TRUE,7/2/2021 5:59:59,,A+,Good Job.,NO
+235060,20,Bilal, Shelton,Bilal Shelton,TRUE,7/9/2021 5:59:59,,A+,Everything is complete,NO
+236074,20,Bilal, Shelton,Bilal Shelton,TRUE,7/16/2021 5:59:59,,A+,Your code works.,NO
+237066,20,Bilal, Shelton,Bilal Shelton,TRUE,7/22/2021 5:59:59,,A+,Your code works.,NO
+238036,20,Bilal, Shelton,Bilal Shelton,TRUE,7/23/2021 5:59:59,,A+,Good Job.,NO
+239039,20,Bilal, Shelton,Bilal Shelton,TRUE,5/19/2021 5:59:59,,A+,Good Job.,NO
+240031,20,Bilal, Shelton,Bilal Shelton,TRUE,6/2/2021 5:59:59,,A+,Everything is complete,NO
+211085,21,Ayana, Brett,Ayana Brett,TRUE,2/4/2021 5:59:59,,A+,Good Job.,NO
+212070,21,Ayana, Brett,Ayana Brett,TRUE,2/11/2021 5:59:59,,A+,Everything is complete,NO
+213030,21,Ayana, Brett,Ayana Brett,TRUE,2/14/2021 5:59:59,,A+,Everything is complete,NO
+214096,21,Ayana, Brett,Ayana Brett,TRUE,2/21/2021 4:59:59,,A+,Good Job.,NO
+215023,21,Ayana, Brett,Ayana Brett,TRUE,2/28/2021 5:59:59,,A+,Everything is complete,NO
+216022,21,Ayana, Brett,Ayana Brett,TRUE,3/7/2021 5:59:59,,A+,Good Job.,NO
+217066,21,Ayana, Brett,Ayana Brett,TRUE,3/14/2021 5:59:59,,A+,Everything is complete,NO
+218097,21,Ayana, Brett,Ayana Brett,TRUE,3/18/2021 5:59:59,,A+,Your code works.,NO
+219089,21,Ayana, Brett,Ayana Brett,TRUE,3/21/2021 5:59:59,,A+,Your code works.,NO
+220002,21,Ayana, Brett,Ayana Brett,TRUE,3/28/2021 5:59:59,,A+,Everything is complete,NO
+221064,21,Ayana, Brett,Ayana Brett,TRUE,4/11/2021 5:59:59,,A+,Your code works.,NO
+222074,21,Ayana, Brett,Ayana Brett,TRUE,4/18/2021 5:59:59,,A+,Good Job.,NO
+223013,21,Ayana, Brett,Ayana Brett,TRUE,4/22/2021 5:59:59,,A+,Your code works.,NO
+224064,21,Ayana, Brett,Ayana Brett,TRUE,4/25/2021 5:59:59,,A+,Good Job.,NO
+225090,21,Ayana, Brett,Ayana Brett,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+226020,21,Ayana, Brett,Ayana Brett,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+228067,21,Ayana, Brett,Ayana Brett,TRUE,5/26/2021 5:59:59,,A+,Your code works.,NO
+230002,21,Ayana, Brett,Ayana Brett,TRUE,6/3/2021 5:59:59,,A+,Good Job.,NO
+231056,21,Ayana, Brett,Ayana Brett,TRUE,6/18/2021 5:59:59,,A+,Good Job.,NO
+232095,21,Ayana, Brett,Ayana Brett,TRUE,6/25/2021 5:59:59,,A+,Good Job.,NO
+233014,21,Ayana, Brett,Ayana Brett,TRUE,7/1/2021 5:59:59,,A+,Everything is complete,NO
+234086,21,Ayana, Brett,Ayana Brett,TRUE,7/2/2021 5:59:59,,A+,Everything is complete,NO
+235060,21,Ayana, Brett,Ayana Brett,TRUE,7/9/2021 5:59:59,,A+,Your code works.,NO
+236074,21,Ayana, Brett,Ayana Brett,TRUE,7/16/2021 5:59:59,,A+,Good Job.,NO
+237066,21,Ayana, Brett,Ayana Brett,TRUE,7/22/2021 5:59:59,,A+,Good Job.,NO
+238036,21,Ayana, Brett,Ayana Brett,TRUE,7/23/2021 5:59:59,,A+,Everything is complete,NO
+239039,21,Ayana, Brett,Ayana Brett,TRUE,5/19/2021 5:59:59,,A+,Everything is complete,NO
+240031,21,Ayana, Brett,Ayana Brett,TRUE,6/2/2021 5:59:59,,A+,Your code works.,NO
+211085,22,Ahmet, Senior,Ahmet Senior,TRUE,2/4/2021 5:59:59,,A+,Everything is complete,NO
+212070,22,Ahmet, Senior,Ahmet Senior,TRUE,2/11/2021 5:59:59,,A+,Your code works.,NO
+213030,22,Ahmet, Senior,Ahmet Senior,TRUE,2/14/2021 5:59:59,,A+,Your code works.,NO
+214096,22,Ahmet, Senior,Ahmet Senior,TRUE,2/21/2021 4:59:59,,A+,Everything is complete,NO
+215023,22,Ahmet, Senior,Ahmet Senior,TRUE,2/28/2021 5:59:59,,A+,Good Job.,NO
+216022,22,Ahmet, Senior,Ahmet Senior,TRUE,3/7/2021 5:59:59,,A+,Everything is complete,NO
+217066,22,Ahmet, Senior,Ahmet Senior,TRUE,3/14/2021 5:59:59,,A+,Your code works.,NO
+218097,22,Ahmet, Senior,Ahmet Senior,TRUE,3/18/2021 5:59:59,,A+,Good Job.,NO
+219089,22,Ahmet, Senior,Ahmet Senior,TRUE,3/21/2021 5:59:59,,A+,Good Job.,NO
+220002,22,Ahmet, Senior,Ahmet Senior,TRUE,3/28/2021 5:59:59,,A+,Your code works.,NO
+221064,22,Ahmet, Senior,Ahmet Senior,TRUE,4/11/2021 5:59:59,,A+,Good Job.,NO
+222074,22,Ahmet, Senior,Ahmet Senior,TRUE,4/18/2021 5:59:59,,A+,Everything is complete,NO
+223013,22,Ahmet, Senior,Ahmet Senior,TRUE,4/22/2021 5:59:59,,A+,Good Job.,NO
+224064,22,Ahmet, Senior,Ahmet Senior,TRUE,4/25/2021 5:59:59,,A+,Everything is complete,NO
+225090,22,Ahmet, Senior,Ahmet Senior,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+226020,22,Ahmet, Senior,Ahmet Senior,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+228067,22,Ahmet, Senior,Ahmet Senior,TRUE,5/26/2021 5:59:59,,A+,Good Job.,NO
+230002,22,Ahmet, Senior,Ahmet Senior,TRUE,6/3/2021 5:59:59,,A+,Everything is complete,NO
+231056,22,Ahmet, Senior,Ahmet Senior,TRUE,6/18/2021 5:59:59,,A+,Everything is complete,NO
+232095,22,Ahmet, Senior,Ahmet Senior,TRUE,6/25/2021 5:59:59,,A+,Everything is complete,NO
+233014,22,Ahmet, Senior,Ahmet Senior,TRUE,7/1/2021 5:59:59,,A+,Your code works.,NO
+234086,22,Ahmet, Senior,Ahmet Senior,TRUE,7/2/2021 5:59:59,,A+,Your code works.,NO
+235060,22,Ahmet, Senior,Ahmet Senior,TRUE,7/9/2021 5:59:59,,A+,Good Job.,NO
+236074,22,Ahmet, Senior,Ahmet Senior,TRUE,7/16/2021 5:59:59,,A+,Everything is complete,NO
+237066,22,Ahmet, Senior,Ahmet Senior,TRUE,7/22/2021 5:59:59,,A+,Everything is complete,NO
+238036,22,Ahmet, Senior,Ahmet Senior,TRUE,7/23/2021 5:59:59,,A+,Your code works.,NO
+239039,22,Ahmet, Senior,Ahmet Senior,TRUE,5/19/2021 5:59:59,,A+,Your code works.,NO
+240031,22,Ahmet, Senior,Ahmet Senior,TRUE,6/2/2021 5:59:59,,A+,Good Job.,NO
+211085,23,Beth, Warren,Beth Warren,TRUE,2/4/2021 5:59:59,,A+,Your code works.,NO
+212070,23,Beth, Warren,Beth Warren,TRUE,2/11/2021 5:59:59,,A+,Good Job.,NO
+213030,23,Beth, Warren,Beth Warren,TRUE,2/14/2021 5:59:59,,A+,Good Job.,NO
+214096,23,Beth, Warren,Beth Warren,TRUE,2/21/2021 4:59:59,,A+,Your code works.,NO
+215023,23,Beth, Warren,Beth Warren,TRUE,2/28/2021 5:59:59,,A+,Everything is complete,NO
+216022,23,Beth, Warren,Beth Warren,TRUE,3/7/2021 5:59:59,,A+,Your code works.,NO
+217066,23,Beth, Warren,Beth Warren,TRUE,3/14/2021 5:59:59,,A+,Good Job.,NO
+218097,23,Beth, Warren,Beth Warren,TRUE,3/18/2021 5:59:59,,A+,Everything is complete,NO
+219089,23,Beth, Warren,Beth Warren,TRUE,3/21/2021 5:59:59,,A+,Everything is complete,NO
+220002,23,Beth, Warren,Beth Warren,TRUE,3/28/2021 5:59:59,,A+,Good Job.,NO
+221064,23,Beth, Warren,Beth Warren,TRUE,4/11/2021 5:59:59,,A+,Everything is complete,NO
+222074,23,Beth, Warren,Beth Warren,TRUE,4/18/2021 5:59:59,,A+,Your code works.,NO
+223013,23,Beth, Warren,Beth Warren,TRUE,4/22/2021 5:59:59,,A+,Everything is complete,NO
+224064,23,Beth, Warren,Beth Warren,TRUE,4/25/2021 5:59:59,,A+,Your code works.,NO
+225090,23,Beth, Warren,Beth Warren,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+226020,23,Beth, Warren,Beth Warren,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+228067,23,Beth, Warren,Beth Warren,TRUE,5/26/2021 5:59:59,,A+,Everything is complete,NO
+230002,23,Beth, Warren,Beth Warren,TRUE,6/3/2021 5:59:59,,A+,Your code works.,NO
+231056,23,Beth, Warren,Beth Warren,TRUE,6/18/2021 5:59:59,,A+,Your code works.,NO
+232095,23,Beth, Warren,Beth Warren,TRUE,6/25/2021 5:59:59,,A+,Your code works.,NO
+233014,23,Beth, Warren,Beth Warren,TRUE,7/1/2021 5:59:59,,A+,Good Job.,NO
+234086,23,Beth, Warren,Beth Warren,TRUE,7/2/2021 5:59:59,,A+,Good Job.,NO
+235060,23,Beth, Warren,Beth Warren,TRUE,7/9/2021 5:59:59,,A+,Everything is complete,NO
+236074,23,Beth, Warren,Beth Warren,TRUE,7/16/2021 5:59:59,,A+,Good Job.,NO
+237066,23,Beth, Warren,Beth Warren,TRUE,7/22/2021 5:59:59,,A+,Your code works.,NO
+238036,23,Beth, Warren,Beth Warren,TRUE,7/23/2021 5:59:59,,A+,Good Job.,NO
+239039,23,Beth, Warren,Beth Warren,TRUE,5/19/2021 5:59:59,,A+,Good Job.,NO
+240031,23,Beth, Warren,Beth Warren,TRUE,6/2/2021 5:59:59,,A+,Everything is complete,NO
+211085,24,Noah, Mcgregor,Noah Mcgregor,TRUE,2/4/2021 5:59:59,,A+,Good Job.,NO
+212070,24,Noah, Mcgregor,Noah Mcgregor,TRUE,2/11/2021 5:59:59,,A+,Everything is complete,NO
+213030,24,Noah, Mcgregor,Noah Mcgregor,TRUE,2/14/2021 5:59:59,,A+,Everything is complete,NO
+214096,24,Noah, Mcgregor,Noah Mcgregor,TRUE,2/21/2021 4:59:59,,A+,Good Job.,NO
+215023,24,Noah, Mcgregor,Noah Mcgregor,TRUE,2/28/2021 5:59:59,,A+,Your code works.,NO
+216022,24,Noah, Mcgregor,Noah Mcgregor,TRUE,3/7/2021 5:59:59,,A+,Good Job.,NO
+217066,24,Noah, Mcgregor,Noah Mcgregor,TRUE,3/14/2021 5:59:59,,A+,Everything is complete,NO
+218097,24,Noah, Mcgregor,Noah Mcgregor,TRUE,3/18/2021 5:59:59,,A+,Your code works.,NO
+219089,24,Noah, Mcgregor,Noah Mcgregor,TRUE,3/21/2021 5:59:59,,A+,Your code works.,NO
+220002,24,Noah, Mcgregor,Noah Mcgregor,TRUE,3/28/2021 5:59:59,,A+,Everything is complete,NO
+221064,24,Noah, Mcgregor,Noah Mcgregor,TRUE,4/11/2021 5:59:59,,A+,Your code works.,NO
+222074,24,Noah, Mcgregor,Noah Mcgregor,TRUE,4/18/2021 5:59:59,,A+,Good Job.,NO
+223013,24,Noah, Mcgregor,Noah Mcgregor,TRUE,4/22/2021 5:59:59,,A+,Your code works.,NO
+224064,24,Noah, Mcgregor,Noah Mcgregor,TRUE,4/25/2021 5:59:59,,A+,Good Job.,NO
+225090,24,Noah, Mcgregor,Noah Mcgregor,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+226020,24,Noah, Mcgregor,Noah Mcgregor,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+228067,24,Noah, Mcgregor,Noah Mcgregor,TRUE,5/26/2021 5:59:59,,A+,Your code works.,NO
+230002,24,Noah, Mcgregor,Noah Mcgregor,TRUE,6/3/2021 5:59:59,,A+,Good Job.,NO
+231056,24,Noah, Mcgregor,Noah Mcgregor,TRUE,6/18/2021 5:59:59,,A+,Good Job.,NO
+232095,24,Noah, Mcgregor,Noah Mcgregor,TRUE,6/25/2021 5:59:59,,A+,Good Job.,NO
+233014,24,Noah, Mcgregor,Noah Mcgregor,TRUE,7/1/2021 5:59:59,,A+,Everything is complete,NO
+234086,24,Noah, Mcgregor,Noah Mcgregor,TRUE,7/2/2021 5:59:59,,A+,Everything is complete,NO
+235060,24,Noah, Mcgregor,Noah Mcgregor,TRUE,7/9/2021 5:59:59,,A+,Your code works.,NO
+236074,24,Noah, Mcgregor,Noah Mcgregor,TRUE,7/16/2021 5:59:59,,A+,Everything is complete,NO
+237066,24,Noah, Mcgregor,Noah Mcgregor,TRUE,7/22/2021 5:59:59,,A+,Good Job.,NO
+238036,24,Noah, Mcgregor,Noah Mcgregor,TRUE,7/23/2021 5:59:59,,A+,Everything is complete,NO
+239039,24,Noah, Mcgregor,Noah Mcgregor,TRUE,5/19/2021 5:59:59,,A+,Everything is complete,NO
+240031,24,Noah, Mcgregor,Noah Mcgregor,TRUE,6/2/2021 5:59:59,,A+,Good Job.,NO
+211085,25,Ocean, Swan,Ocean Swan,TRUE,2/4/2021 5:59:59,,A+,Everything is complete,NO
+212070,25,Ocean, Swan,Ocean Swan,TRUE,2/11/2021 5:59:59,,A+,Your code works.,NO
+213030,25,Ocean, Swan,Ocean Swan,TRUE,2/14/2021 5:59:59,,A+,Your code works.,NO
+214096,25,Ocean, Swan,Ocean Swan,TRUE,2/21/2021 4:59:59,,A+,Everything is complete,NO
+215023,25,Ocean, Swan,Ocean Swan,TRUE,2/28/2021 5:59:59,,A+,Good Job.,NO
+216022,25,Ocean, Swan,Ocean Swan,TRUE,3/7/2021 5:59:59,,A+,Everything is complete,NO
+217066,25,Ocean, Swan,Ocean Swan,TRUE,3/14/2021 5:59:59,,A+,Your code works.,NO
+218097,25,Ocean, Swan,Ocean Swan,TRUE,3/18/2021 5:59:59,,A+,Good Job.,NO
+219089,25,Ocean, Swan,Ocean Swan,TRUE,3/21/2021 5:59:59,,A+,Good Job.,NO
+220002,25,Ocean, Swan,Ocean Swan,TRUE,3/28/2021 5:59:59,,A+,Your code works.,NO
+221064,25,Ocean, Swan,Ocean Swan,TRUE,4/11/2021 5:59:59,,A+,Good Job.,NO
+222074,25,Ocean, Swan,Ocean Swan,TRUE,4/18/2021 5:59:59,,A+,Everything is complete,NO
+223013,25,Ocean, Swan,Ocean Swan,TRUE,4/22/2021 5:59:59,,A+,Good Job.,NO
+224064,25,Ocean, Swan,Ocean Swan,TRUE,4/25/2021 5:59:59,,A+,Everything is complete,NO
+225090,25,Ocean, Swan,Ocean Swan,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+226020,25,Ocean, Swan,Ocean Swan,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+228067,25,Ocean, Swan,Ocean Swan,TRUE,5/26/2021 5:59:59,,A+,Good Job.,NO
+230002,25,Ocean, Swan,Ocean Swan,TRUE,6/3/2021 5:59:59,,A+,Everything is complete,NO
+231056,25,Ocean, Swan,Ocean Swan,TRUE,6/18/2021 5:59:59,,A+,Everything is complete,NO
+232095,25,Ocean, Swan,Ocean Swan,TRUE,6/25/2021 5:59:59,,A+,Everything is complete,NO
+233014,25,Ocean, Swan,Ocean Swan,TRUE,7/1/2021 5:59:59,,A+,Your code works.,NO
+234086,25,Ocean, Swan,Ocean Swan,TRUE,7/2/2021 5:59:59,,A+,Your code works.,NO
+235060,25,Ocean, Swan,Ocean Swan,TRUE,7/9/2021 5:59:59,,A+,Good Job.,NO
+236074,25,Ocean, Swan,Ocean Swan,TRUE,7/16/2021 5:59:59,,A+,Your code works.,NO
+237066,25,Ocean, Swan,Ocean Swan,TRUE,7/22/2021 5:59:59,,A+,Everything is complete,NO
+238036,25,Ocean, Swan,Ocean Swan,TRUE,7/23/2021 5:59:59,,A+,Good Job.,NO
+239039,25,Ocean, Swan,Ocean Swan,TRUE,5/19/2021 5:59:59,,A+,Good Job.,NO
+240031,25,Ocean, Swan,Ocean Swan,TRUE,6/2/2021 5:59:59,,A+,Everything is complete,NO
+211085,26,Richie, Vega,Richie Vega,TRUE,2/4/2021 5:59:59,,A+,Your code works.,NO
+212070,26,Richie, Vega,Richie Vega,TRUE,2/11/2021 5:59:59,,A+,Good Job.,NO
+213030,26,Richie, Vega,Richie Vega,TRUE,2/14/2021 5:59:59,,A+,Good Job.,NO
+214096,26,Richie, Vega,Richie Vega,TRUE,2/21/2021 4:59:59,,A+,Good Job.,NO
+215023,26,Richie, Vega,Richie Vega,TRUE,2/28/2021 5:59:59,,A+,Everything is complete,NO
+216022,26,Richie, Vega,Richie Vega,TRUE,3/7/2021 5:59:59,,A+,Your code works.,NO
+217066,26,Richie, Vega,Richie Vega,TRUE,3/14/2021 5:59:59,,A+,Good Job.,NO
+218097,26,Richie, Vega,Richie Vega,TRUE,3/18/2021 5:59:59,,A+,Everything is complete,NO
+219089,26,Richie, Vega,Richie Vega,TRUE,3/21/2021 5:59:59,,A+,Everything is complete,NO
+220002,26,Richie, Vega,Richie Vega,TRUE,3/28/2021 5:59:59,,A+,Good Job.,NO
+221064,26,Richie, Vega,Richie Vega,TRUE,4/11/2021 5:59:59,,A+,Everything is complete,NO
+222074,26,Richie, Vega,Richie Vega,TRUE,4/18/2021 5:59:59,,A+,Your code works.,NO
+223013,26,Richie, Vega,Richie Vega,TRUE,4/22/2021 5:59:59,,A+,Everything is complete,NO
+224064,26,Richie, Vega,Richie Vega,TRUE,4/25/2021 5:59:59,,A+,Your code works.,NO
+225090,26,Richie, Vega,Richie Vega,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+226020,26,Richie, Vega,Richie Vega,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+228067,26,Richie, Vega,Richie Vega,TRUE,5/26/2021 5:59:59,,A+,Everything is complete,NO
+230002,26,Richie, Vega,Richie Vega,TRUE,6/3/2021 5:59:59,,A+,Your code works.,NO
+231056,26,Richie, Vega,Richie Vega,TRUE,6/18/2021 5:59:59,,A+,Your code works.,NO
+232095,26,Richie, Vega,Richie Vega,TRUE,6/25/2021 5:59:59,,A+,Good Job.,NO
+233014,26,Richie, Vega,Richie Vega,TRUE,7/1/2021 5:59:59,,A+,Good Job.,NO
+234086,26,Richie, Vega,Richie Vega,TRUE,7/2/2021 5:59:59,,A+,Good Job.,NO
+235060,26,Richie, Vega,Richie Vega,TRUE,7/9/2021 5:59:59,,A+,Everything is complete,NO
+236074,26,Richie, Vega,Richie Vega,TRUE,7/16/2021 5:59:59,,A+,Good Job.,NO
+237066,26,Richie, Vega,Richie Vega,TRUE,7/22/2021 5:59:59,,A+,Your code works.,NO
+238036,26,Richie, Vega,Richie Vega,TRUE,7/23/2021 5:59:59,,A+,Everything is complete,NO
+239039,26,Richie, Vega,Richie Vega,TRUE,5/19/2021 5:59:59,,A+,Everything is complete,NO
+240031,26,Richie, Vega,Richie Vega,TRUE,6/2/2021 5:59:59,,A+,Your code works.,NO
+211085,27,King, Sharpe,King Sharpe,FALSE,2/4/2021 5:59:59,,,,
+212070,27,King, Sharpe,King Sharpe,TRUE,2/11/2021 5:59:59,,A+,Everything is complete,NO
+213030,27,King, Sharpe,King Sharpe,TRUE,2/14/2021 5:59:59,,A+,Everything is complete,NO
+214096,27,King, Sharpe,King Sharpe,TRUE,2/21/2021 4:59:59,,A+,Everything is complete,NO
+215023,27,King, Sharpe,King Sharpe,TRUE,2/28/2021 5:59:59,,A+,Your code works.,NO
+216022,27,King, Sharpe,King Sharpe,TRUE,3/7/2021 5:59:59,,A+,Good Job.,NO
+217066,27,King, Sharpe,King Sharpe,TRUE,3/14/2021 5:59:59,,A+,Everything is complete,NO
+218097,27,King, Sharpe,King Sharpe,TRUE,3/18/2021 5:59:59,,A+,Your code works.,NO
+219089,27,King, Sharpe,King Sharpe,TRUE,3/21/2021 5:59:59,,A+,Your code works.,NO
+220002,27,King, Sharpe,King Sharpe,TRUE,3/28/2021 5:59:59,,A+,Everything is complete,NO
+221064,27,King, Sharpe,King Sharpe,TRUE,4/11/2021 5:59:59,,A+,Your code works.,NO
+222074,27,King, Sharpe,King Sharpe,TRUE,4/18/2021 5:59:59,,A+,Good Job.,NO
+223013,27,King, Sharpe,King Sharpe,TRUE,4/22/2021 5:59:59,,A+,Your code works.,NO
+224064,27,King, Sharpe,King Sharpe,TRUE,4/25/2021 5:59:59,,A+,Good Job.,NO
+225090,27,King, Sharpe,King Sharpe,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+226020,27,King, Sharpe,King Sharpe,TRUE,5/5/2021 5:59:59,,A+,Good Job.,NO
+228067,27,King, Sharpe,King Sharpe,TRUE,5/26/2021 5:59:59,,A+,Your code works.,NO
+230002,27,King, Sharpe,King Sharpe,TRUE,6/3/2021 5:59:59,,A+,Good Job.,NO
+231056,27,King, Sharpe,King Sharpe,TRUE,6/18/2021 5:59:59,,A+,Good Job.,NO
+232095,27,King, Sharpe,King Sharpe,TRUE,6/25/2021 5:59:59,,A+,Everything is complete,NO
+233014,27,King, Sharpe,King Sharpe,TRUE,7/1/2021 5:59:59,,A+,Everything is complete,NO
+234086,27,King, Sharpe,King Sharpe,TRUE,7/2/2021 5:59:59,,A+,Everything is complete,NO
+235060,27,King, Sharpe,King Sharpe,TRUE,7/9/2021 5:59:59,,A+,Good Job.,NO
+236074,27,King, Sharpe,King Sharpe,TRUE,7/16/2021 5:59:59,,A+,Everything is complete,NO
+237066,27,King, Sharpe,King Sharpe,TRUE,7/22/2021 5:59:59,,A+,Good Job.,NO
+238036,27,King, Sharpe,King Sharpe,TRUE,7/23/2021 5:59:59,,A+,Your code works.,NO
+239039,27,King, Sharpe,King Sharpe,TRUE,5/19/2021 5:59:59,,A+,Your code works.,NO
+240031,27,King, Sharpe,King Sharpe,TRUE,6/2/2021 5:59:59,,A+,Good Job.,NO
+221098,28,Everly, Bone,Everly Bone,TRUE,2/4/2021 5:59:59,,A+,Everything is complete,NO
+222028,28,Everly, Bone,Everly Bone,TRUE,2/11/2021 5:59:59,,A+,Your code works.,NO
+223039,28,Everly, Bone,Everly Bone,TRUE,2/14/2021 5:59:59,,A+,Your code works.,NO
+224010,28,Everly, Bone,Everly Bone,TRUE,2/21/2021 4:59:59,,A+,Your code works.,NO
+225060,28,Everly, Bone,Everly Bone,TRUE,2/28/2021 5:59:59,,A+,Good Job.,NO
+226069,28,Everly, Bone,Everly Bone,TRUE,3/7/2021 5:59:59,,A+,Everything is complete,NO
+227052,28,Everly, Bone,Everly Bone,TRUE,3/14/2021 5:59:59,,A+,Your code works.,NO
+228052,28,Everly, Bone,Everly Bone,TRUE,3/18/2021 5:59:59,,A+,Good Job.,NO
+229014,28,Everly, Bone,Everly Bone,TRUE,3/21/2021 5:59:59,,A+,Good Job.,NO
+230090,28,Everly, Bone,Everly Bone,TRUE,3/28/2021 5:59:59,,A+,Good Job.,NO
+231014,28,Everly, Bone,Everly Bone,TRUE,4/11/2021 5:59:59,,A+,Good Job.,NO
+232059,28,Everly, Bone,Everly Bone,TRUE,4/18/2021 5:59:59,,A+,Everything is complete,NO
+233012,28,Everly, Bone,Everly Bone,TRUE,4/22/2021 5:59:59,,A+,Good Job.,NO
+234060,28,Everly, Bone,Everly Bone,TRUE,4/25/2021 5:59:59,,A+,Everything is complete,NO
+235019,28,Everly, Bone,Everly Bone,TRUE,5/5/2021 5:59:59,,A+,Your code works.,NO
+236073,28,Everly, Bone,Everly Bone,TRUE,5/5/2021 5:59:59,,A+,Everything is complete,NO
+238065,28,Everly, Bone,Everly Bone,TRUE,5/26/2021 5:59:59,,A+,Good Job.,NO
+240034,28,Everly, Bone,Everly Bone,TRUE,6/3/2021 5:59:59,,A+,Everything is complete,NO
+241018,28,Everly, Bone,Everly Bone,TRUE,6/18/2021 5:59:59,,A+,Everything is complete,NO
+242053,28,Everly, Bone,Everly Bone,TRUE,6/25/2021 5:59:59,,A+,Your code works.,NO
+243072,28,Everly, Bone,Everly Bone,TRUE,7/1/2021 5:59:59,,A+,Your code works.,NO
+244090,28,Everly, Bone,Everly Bone,TRUE,7/2/2021 5:59:59,,A+,Good Job.,NO
+245022,28,Everly, Bone,Everly Bone,TRUE,7/9/2021 5:59:59,,A+,Everything is complete,NO
+246063,28,Everly, Bone,Everly Bone,TRUE,7/16/2021 5:59:59,,A+,Your code works.,NO
+247012,28,Everly, Bone,Everly Bone,TRUE,7/22/2021 5:59:59,,A+,Everything is complete,NO
+248022,28,Everly, Bone,Everly Bone,TRUE,7/23/2021 5:59:59,,A+,Good Job.,NO
+249043,28,Everly, Bone,Everly Bone,TRUE,5/19/2021 5:59:59,,A+,Good Job.,NO
+250064,28,Everly, Bone,Everly Bone,TRUE,6/2/2021 5:59:59,,A+,Everything is complete,NO
+221098,29,Sinead, Rosales,Sinead Rosales,TRUE,8/18/2021 5:59:59,,A+,Your code works.,NO
+222028,29,Sinead, Rosales,Sinead Rosales,TRUE,8/25/2021 5:59:59,,A+,Good Job.,NO
+223039,29,Sinead, Rosales,Sinead Rosales,TRUE,8/28/2021 5:59:59,,A+,Good Job.,NO
+224010,29,Sinead, Rosales,Sinead Rosales,TRUE,9/4/2021 4:59:59,,A+,Good Job.,NO
+225060,29,Sinead, Rosales,Sinead Rosales,TRUE,9/11/2021 5:59:59,,A+,Everything is complete,NO
+226069,29,Sinead, Rosales,Sinead Rosales,TRUE,9/18/2021 5:59:59,,A+,Your code works.,NO
+227052,29,Sinead, Rosales,Sinead Rosales,TRUE,9/25/2021 5:59:59,,A+,Good Job.,NO
+228052,29,Sinead, Rosales,Sinead Rosales,TRUE,9/29/2021 5:59:59,,A+,Everything is complete,NO
+229014,29,Sinead, Rosales,Sinead Rosales,TRUE,10/2/2021 5:59:59,,A+,Everything is complete,NO
+230090,29,Sinead, Rosales,Sinead Rosales,TRUE,10/9/2021 5:59:59,,A+,Everything is complete,NO
+231014,29,Sinead, Rosales,Sinead Rosales,TRUE,10/23/2021 5:59:59,,A+,Everything is complete,NO
+232059,29,Sinead, Rosales,Sinead Rosales,TRUE,10/30/2021 5:59:59,,A+,Your code works.,NO
+233012,29,Sinead, Rosales,Sinead Rosales,TRUE,11/3/2021 5:59:59,,A+,Everything is complete,NO
+234060,29,Sinead, Rosales,Sinead Rosales,TRUE,11/6/2021 5:59:59,,A+,Your code works.,NO
+235019,29,Sinead, Rosales,Sinead Rosales,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+236073,29,Sinead, Rosales,Sinead Rosales,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+238065,29,Sinead, Rosales,Sinead Rosales,TRUE,12/7/2021 5:59:59,,A+,Everything is complete,NO
+240034,29,Sinead, Rosales,Sinead Rosales,TRUE,12/15/2021 5:59:59,,A+,Good Job.,NO
+241018,29,Sinead, Rosales,Sinead Rosales,TRUE,12/30/2021 5:59:59,,A+,Good Job.,NO
+242053,29,Sinead, Rosales,Sinead Rosales,TRUE,1/6/2022 5:59:59,,A+,Good Job.,NO
+243072,29,Sinead, Rosales,Sinead Rosales,TRUE,1/12/2022 5:59:59,,A+,Good Job.,NO
+244090,29,Sinead, Rosales,Sinead Rosales,TRUE,1/13/2022 5:59:59,,A+,Everything is complete,NO
+245022,29,Sinead, Rosales,Sinead Rosales,TRUE,1/20/2022 5:59:59,,A+,Your code works.,NO
+246063,29,Sinead, Rosales,Sinead Rosales,TRUE,1/27/2022 5:59:59,,A+,Good Job.,NO
+247012,29,Sinead, Rosales,Sinead Rosales,TRUE,2/2/2022 5:59:59,,A+,Your code works.,NO
+248022,29,Sinead, Rosales,Sinead Rosales,TRUE,2/3/2022 5:59:59,,A+,Everything is complete,NO
+249043,29,Sinead, Rosales,Sinead Rosales,TRUE,11/30/2021 5:59:59,,A+,Everything is complete,NO
+250064,29,Sinead, Rosales,Sinead Rosales,TRUE,12/14/2021 5:59:59,,A+,Your code works.,NO
+221098,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,8/18/2021 5:59:59,,A+,Good Job.,NO
+222028,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,8/25/2021 5:59:59,,A+,Everything is complete,NO
+223039,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,8/28/2021 5:59:59,,A+,Everything is complete,NO
+224010,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,9/4/2021 4:59:59,,A+,Everything is complete,NO
+225060,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,9/11/2021 5:59:59,,A+,Your code works.,NO
+226069,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,9/18/2021 5:59:59,,A+,Good Job.,NO
+227052,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,9/25/2021 5:59:59,,A+,Everything is complete,NO
+228052,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,9/29/2021 5:59:59,,A+,Good Job.,NO
+229014,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,10/2/2021 5:59:59,,A+,Your code works.,NO
+230090,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,10/9/2021 5:59:59,,A+,Your code works.,NO
+231014,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,10/23/2021 5:59:59,,A+,Your code works.,NO
+232059,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,10/30/2021 5:59:59,,A+,Good Job.,NO
+233012,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,11/3/2021 5:59:59,,A+,Your code works.,NO
+234060,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,11/6/2021 5:59:59,,A+,Good Job.,NO
+235019,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+236073,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+238065,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,12/7/2021 5:59:59,,A+,Good Job.,NO
+240034,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,12/15/2021 5:59:59,,A+,Everything is complete,NO
+241018,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,12/30/2021 5:59:59,,A+,Everything is complete,NO
+242053,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,1/6/2022 5:59:59,,A+,Everything is complete,NO
+243072,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,1/12/2022 5:59:59,,A+,Everything is complete,NO
+244090,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,1/13/2022 5:59:59,,A+,Your code works.,NO
+245022,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,1/20/2022 5:59:59,,A+,Good Job.,NO
+246063,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,1/27/2022 5:59:59,,A+,Everything is complete,NO
+247012,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,2/2/2022 5:59:59,,A+,Good Job.,NO
+248022,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,2/3/2022 5:59:59,,A+,Your code works.,NO
+249043,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,11/30/2021 5:59:59,,A+,Your code works.,NO
+250064,30,Alistair, Mcdonnell,Alistair Mcdonnell,TRUE,12/14/2021 5:59:59,,A+,Good Job.,NO
+221098,31,Chandni, Findlay,Chandni Findlay,TRUE,8/18/2021 5:59:59,,A+,Everything is complete,NO
+222028,31,Chandni, Findlay,Chandni Findlay,TRUE,8/25/2021 5:59:59,,A+,Your code works.,NO
+223039,31,Chandni, Findlay,Chandni Findlay,TRUE,8/28/2021 5:59:59,,A+,Your code works.,NO
+224010,31,Chandni, Findlay,Chandni Findlay,TRUE,9/4/2021 4:59:59,,A+,Your code works.,NO
+225060,31,Chandni, Findlay,Chandni Findlay,TRUE,9/11/2021 5:59:59,,A+,Good Job.,NO
+226069,31,Chandni, Findlay,Chandni Findlay,TRUE,9/18/2021 5:59:59,,A+,Everything is complete,NO
+227052,31,Chandni, Findlay,Chandni Findlay,TRUE,9/25/2021 5:59:59,,A+,Your code works.,NO
+228052,31,Chandni, Findlay,Chandni Findlay,TRUE,9/29/2021 5:59:59,,A+,Everything is complete,NO
+229014,31,Chandni, Findlay,Chandni Findlay,TRUE,10/2/2021 5:59:59,,A+,Good Job.,NO
+230090,31,Chandni, Findlay,Chandni Findlay,TRUE,10/9/2021 5:59:59,,A+,Good Job.,NO
+231014,31,Chandni, Findlay,Chandni Findlay,TRUE,10/23/2021 5:59:59,,A+,Good Job.,NO
+232059,31,Chandni, Findlay,Chandni Findlay,TRUE,10/30/2021 5:59:59,,A+,Everything is complete,NO
+233012,31,Chandni, Findlay,Chandni Findlay,TRUE,11/3/2021 5:59:59,,A+,Good Job.,NO
+234060,31,Chandni, Findlay,Chandni Findlay,TRUE,11/6/2021 5:59:59,,A+,Everything is complete,NO
+235019,31,Chandni, Findlay,Chandni Findlay,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+236073,31,Chandni, Findlay,Chandni Findlay,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+238065,31,Chandni, Findlay,Chandni Findlay,TRUE,12/7/2021 5:59:59,,A+,Everything is complete,NO
+240034,31,Chandni, Findlay,Chandni Findlay,TRUE,12/15/2021 5:59:59,,A+,Your code works.,NO
+241018,31,Chandni, Findlay,Chandni Findlay,TRUE,12/30/2021 5:59:59,,A+,Your code works.,NO
+242053,31,Chandni, Findlay,Chandni Findlay,TRUE,1/6/2022 5:59:59,,A+,Your code works.,NO
+243072,31,Chandni, Findlay,Chandni Findlay,TRUE,1/12/2022 5:59:59,,A+,Good Job.,NO
+244090,31,Chandni, Findlay,Chandni Findlay,TRUE,1/13/2022 5:59:59,,A+,Good Job.,NO
+245022,31,Chandni, Findlay,Chandni Findlay,TRUE,1/20/2022 5:59:59,,A+,Everything is complete,NO
+246063,31,Chandni, Findlay,Chandni Findlay,TRUE,1/27/2022 5:59:59,,A+,Your code works.,NO
+247012,31,Chandni, Findlay,Chandni Findlay,TRUE,2/2/2022 5:59:59,,A+,Everything is complete,NO
+248022,31,Chandni, Findlay,Chandni Findlay,TRUE,2/3/2022 5:59:59,,A+,Good Job.,NO
+249043,31,Chandni, Findlay,Chandni Findlay,TRUE,11/30/2021 5:59:59,,A+,Good Job.,NO
+250064,31,Chandni, Findlay,Chandni Findlay,TRUE,12/14/2021 5:59:59,,A+,Everything is complete,NO
+221098,32,Rocky, Rodgers,Rocky Rodgers,TRUE,8/18/2021 5:59:59,,A+,Your code works.,NO
+222028,32,Rocky, Rodgers,Rocky Rodgers,TRUE,8/25/2021 5:59:59,,A+,Good Job.,NO
+223039,32,Rocky, Rodgers,Rocky Rodgers,TRUE,8/28/2021 5:59:59,,A+,Good Job.,NO
+224010,32,Rocky, Rodgers,Rocky Rodgers,TRUE,9/4/2021 4:59:59,,A+,Good Job.,NO
+225060,32,Rocky, Rodgers,Rocky Rodgers,TRUE,9/11/2021 5:59:59,,A+,Everything is complete,NO
+226069,32,Rocky, Rodgers,Rocky Rodgers,TRUE,9/18/2021 5:59:59,,A+,Your code works.,NO
+227052,32,Rocky, Rodgers,Rocky Rodgers,TRUE,9/25/2021 5:59:59,,A+,Good Job.,NO
+228052,32,Rocky, Rodgers,Rocky Rodgers,TRUE,9/29/2021 5:59:59,,A+,Your code works.,NO
+229014,32,Rocky, Rodgers,Rocky Rodgers,TRUE,10/2/2021 5:59:59,,A+,Everything is complete,NO
+230090,32,Rocky, Rodgers,Rocky Rodgers,TRUE,10/9/2021 5:59:59,,A+,Everything is complete,NO
+231014,32,Rocky, Rodgers,Rocky Rodgers,TRUE,10/23/2021 5:59:59,,A+,Everything is complete,NO
+232059,32,Rocky, Rodgers,Rocky Rodgers,TRUE,10/30/2021 5:59:59,,A+,Your code works.,NO
+233012,32,Rocky, Rodgers,Rocky Rodgers,TRUE,11/3/2021 5:59:59,,A+,Everything is complete,NO
+234060,32,Rocky, Rodgers,Rocky Rodgers,TRUE,11/6/2021 5:59:59,,A+,Good Job.,NO
+235019,32,Rocky, Rodgers,Rocky Rodgers,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+236073,32,Rocky, Rodgers,Rocky Rodgers,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+238065,32,Rocky, Rodgers,Rocky Rodgers,TRUE,12/7/2021 5:59:59,,A+,Your code works.,NO
+240034,32,Rocky, Rodgers,Rocky Rodgers,TRUE,12/15/2021 5:59:59,,A+,Good Job.,NO
+241018,32,Rocky, Rodgers,Rocky Rodgers,TRUE,12/30/2021 5:59:59,,A+,Good Job.,NO
+242053,32,Rocky, Rodgers,Rocky Rodgers,TRUE,1/6/2022 5:59:59,,A+,Good Job.,NO
+243072,32,Rocky, Rodgers,Rocky Rodgers,TRUE,1/12/2022 5:59:59,,A+,Everything is complete,NO
+244090,32,Rocky, Rodgers,Rocky Rodgers,TRUE,1/13/2022 5:59:59,,A+,Everything is complete,NO
+245022,32,Rocky, Rodgers,Rocky Rodgers,TRUE,1/20/2022 5:59:59,,A+,Your code works.,NO
+246063,32,Rocky, Rodgers,Rocky Rodgers,TRUE,1/27/2022 5:59:59,,A+,Good Job.,NO
+247012,32,Rocky, Rodgers,Rocky Rodgers,TRUE,2/2/2022 5:59:59,,A+,Good Job.,NO
+248022,32,Rocky, Rodgers,Rocky Rodgers,TRUE,2/3/2022 5:59:59,,A+,Everything is complete,NO
+249043,32,Rocky, Rodgers,Rocky Rodgers,TRUE,11/30/2021 5:59:59,,A+,Everything is complete,NO
+250064,32,Rocky, Rodgers,Rocky Rodgers,TRUE,12/14/2021 5:59:59,,A+,Your code works.,NO
+221098,33,Carolina, Short,Carolina Short,FALSE,8/18/2021 5:59:59,,,,
+222028,33,Carolina, Short,Carolina Short,TRUE,8/25/2021 5:59:59,,A+,Everything is complete,NO
+223039,33,Carolina, Short,Carolina Short,TRUE,8/28/2021 5:59:59,,A+,Everything is complete,NO
+224010,33,Carolina, Short,Carolina Short,TRUE,9/4/2021 4:59:59,,A+,Everything is complete,NO
+225060,33,Carolina, Short,Carolina Short,TRUE,9/11/2021 5:59:59,,A+,Your code works.,NO
+226069,33,Carolina, Short,Carolina Short,TRUE,9/18/2021 5:59:59,,A+,Good Job.,NO
+227052,33,Carolina, Short,Carolina Short,TRUE,9/25/2021 5:59:59,,A+,Everything is complete,NO
+228052,33,Carolina, Short,Carolina Short,TRUE,9/29/2021 5:59:59,,A+,Good Job.,NO
+229014,33,Carolina, Short,Carolina Short,TRUE,10/2/2021 5:59:59,,A+,Your code works.,NO
+230090,33,Carolina, Short,Carolina Short,TRUE,10/9/2021 5:59:59,,A+,Your code works.,NO
+231014,33,Carolina, Short,Carolina Short,TRUE,10/23/2021 5:59:59,,A+,Good Job.,NO
+232059,33,Carolina, Short,Carolina Short,TRUE,10/30/2021 5:59:59,,A+,Good Job.,NO
+233012,33,Carolina, Short,Carolina Short,TRUE,11/3/2021 5:59:59,,A+,Good Job.,NO
+234060,33,Carolina, Short,Carolina Short,TRUE,11/6/2021 5:59:59,,A+,Everything is complete,NO
+235019,33,Carolina, Short,Carolina Short,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+236073,33,Carolina, Short,Carolina Short,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+238065,33,Carolina, Short,Carolina Short,TRUE,12/7/2021 5:59:59,,A+,Good Job.,NO
+240034,33,Carolina, Short,Carolina Short,TRUE,12/15/2021 5:59:59,,A+,Everything is complete,NO
+241018,33,Carolina, Short,Carolina Short,TRUE,12/30/2021 5:59:59,,A+,Everything is complete,NO
+242053,33,Carolina, Short,Carolina Short,TRUE,1/6/2022 5:59:59,,A+,Everything is complete,NO
+243072,33,Carolina, Short,Carolina Short,TRUE,1/12/2022 5:59:59,,A+,Your code works.,NO
+244090,33,Carolina, Short,Carolina Short,TRUE,1/13/2022 5:59:59,,A+,Your code works.,NO
+245022,33,Carolina, Short,Carolina Short,TRUE,1/20/2022 5:59:59,,A+,Good Job.,NO
+246063,33,Carolina, Short,Carolina Short,TRUE,1/27/2022 5:59:59,,A+,Everything is complete,NO
+247012,33,Carolina, Short,Carolina Short,TRUE,2/2/2022 5:59:59,,A+,Everything is complete,NO
+248022,33,Carolina, Short,Carolina Short,TRUE,2/3/2022 5:59:59,,A+,Your code works.,NO
+249043,33,Carolina, Short,Carolina Short,TRUE,11/30/2021 5:59:59,,A+,Your code works.,NO
+250064,33,Carolina, Short,Carolina Short,TRUE,12/14/2021 5:59:59,,A+,Good Job.,NO
+221098,34,Tess, Green,Tess Green,TRUE,8/18/2021 5:59:59,,A+,Everything is complete,NO
+222028,34,Tess, Green,Tess Green,TRUE,8/25/2021 5:59:59,,A+,Good Job.,NO
+223039,34,Tess, Green,Tess Green,TRUE,8/28/2021 5:59:59,,A+,Good Job.,NO
+224010,34,Tess, Green,Tess Green,TRUE,9/4/2021 4:59:59,,A+,Your code works.,NO
+225060,34,Tess, Green,Tess Green,TRUE,9/11/2021 5:59:59,,A+,Good Job.,NO
+226069,34,Tess, Green,Tess Green,TRUE,9/18/2021 5:59:59,,A+,Everything is complete,NO
+227052,34,Tess, Green,Tess Green,TRUE,9/25/2021 5:59:59,,A+,Your code works.,NO
+228052,34,Tess, Green,Tess Green,TRUE,9/29/2021 5:59:59,,A+,Everything is complete,NO
+229014,34,Tess, Green,Tess Green,TRUE,10/2/2021 5:59:59,,A+,Good Job.,NO
+230090,34,Tess, Green,Tess Green,TRUE,10/9/2021 5:59:59,,A+,Good Job.,NO
+231014,34,Tess, Green,Tess Green,TRUE,10/23/2021 5:59:59,,A+,Everything is complete,NO
+232059,34,Tess, Green,Tess Green,TRUE,10/30/2021 5:59:59,,A+,Everything is complete,NO
+233012,34,Tess, Green,Tess Green,TRUE,11/3/2021 5:59:59,,A+,Everything is complete,NO
+234060,34,Tess, Green,Tess Green,TRUE,11/6/2021 5:59:59,,A+,Your code works.,NO
+235019,34,Tess, Green,Tess Green,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+236073,34,Tess, Green,Tess Green,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+238065,34,Tess, Green,Tess Green,TRUE,12/7/2021 5:59:59,,A+,Everything is complete,NO
+240034,34,Tess, Green,Tess Green,TRUE,12/15/2021 5:59:59,,A+,Your code works.,NO
+241018,34,Tess, Green,Tess Green,TRUE,12/30/2021 5:59:59,,A+,Your code works.,NO
+242053,34,Tess, Green,Tess Green,TRUE,1/6/2022 5:59:59,,A+,Your code works.,NO
+243072,34,Tess, Green,Tess Green,TRUE,1/12/2022 5:59:59,,A+,Good Job.,NO
+244090,34,Tess, Green,Tess Green,TRUE,1/13/2022 5:59:59,,A+,Good Job.,NO
+245022,34,Tess, Green,Tess Green,TRUE,1/20/2022 5:59:59,,A+,Everything is complete,NO
+246063,34,Tess, Green,Tess Green,TRUE,1/27/2022 5:59:59,,A+,Your code works.,NO
+247012,34,Tess, Green,Tess Green,TRUE,2/2/2022 5:59:59,,A+,Your code works.,NO
+248022,34,Tess, Green,Tess Green,TRUE,2/3/2022 5:59:59,,A+,Good Job.,NO
+249043,34,Tess, Green,Tess Green,TRUE,11/30/2021 5:59:59,,A+,Good Job.,NO
+250064,34,Tess, Green,Tess Green,TRUE,12/14/2021 5:59:59,,A+,Everything is complete,NO
+221098,35,Remy, John,Remy John,TRUE,8/18/2021 5:59:59,,A+,Good Job.,NO
+222028,35,Remy, John,Remy John,TRUE,8/25/2021 5:59:59,,A+,Everything is complete,NO
+223039,35,Remy, John,Remy John,TRUE,8/28/2021 5:59:59,,A+,Everything is complete,NO
+224010,35,Remy, John,Remy John,TRUE,9/4/2021 4:59:59,,A+,Good Job.,NO
+225060,35,Remy, John,Remy John,TRUE,9/11/2021 5:59:59,,A+,Everything is complete,NO
+226069,35,Remy, John,Remy John,TRUE,9/18/2021 5:59:59,,A+,Your code works.,NO
+227052,35,Remy, John,Remy John,TRUE,9/25/2021 5:59:59,,A+,Good Job.,NO
+228052,35,Remy, John,Remy John,TRUE,9/29/2021 5:59:59,,A+,Your code works.,NO
+229014,35,Remy, John,Remy John,TRUE,10/2/2021 5:59:59,,A+,Everything is complete,NO
+230090,35,Remy, John,Remy John,TRUE,10/9/2021 5:59:59,,A+,Everything is complete,NO
+231014,35,Remy, John,Remy John,TRUE,10/23/2021 5:59:59,,A+,Your code works.,NO
+232059,35,Remy, John,Remy John,TRUE,10/30/2021 5:59:59,,A+,Good Job.,NO
+233012,35,Remy, John,Remy John,TRUE,11/3/2021 5:59:59,,A+,Your code works.,NO
+234060,35,Remy, John,Remy John,TRUE,11/6/2021 5:59:59,,A+,Good Job.,NO
+235019,35,Remy, John,Remy John,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+236073,35,Remy, John,Remy John,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+238065,35,Remy, John,Remy John,TRUE,12/7/2021 5:59:59,,A+,Your code works.,NO
+240034,35,Remy, John,Remy John,TRUE,12/15/2021 5:59:59,,A+,Good Job.,NO
+241018,35,Remy, John,Remy John,TRUE,12/30/2021 5:59:59,,A+,Good Job.,NO
+242053,35,Remy, John,Remy John,TRUE,1/6/2022 5:59:59,,A+,Good Job.,NO
+243072,35,Remy, John,Remy John,TRUE,1/12/2022 5:59:59,,A+,Everything is complete,NO
+244090,35,Remy, John,Remy John,TRUE,1/13/2022 5:59:59,,A+,Everything is complete,NO
+245022,35,Remy, John,Remy John,TRUE,1/20/2022 5:59:59,,A+,Your code works.,NO
+246063,35,Remy, John,Remy John,TRUE,1/27/2022 5:59:59,,A+,Good Job.,NO
+247012,35,Remy, John,Remy John,TRUE,2/2/2022 5:59:59,,A+,Good Job.,NO
+248022,35,Remy, John,Remy John,TRUE,2/3/2022 5:59:59,,A+,Everything is complete,NO
+249043,35,Remy, John,Remy John,TRUE,11/30/2021 5:59:59,,A+,Everything is complete,NO
+250064,35,Remy, John,Remy John,TRUE,12/14/2021 5:59:59,,A+,Your code works.,NO
+221098,36,Thiago, Gates,Thiago Gates,TRUE,8/18/2021 5:59:59,,A+,Everything is complete,NO
+222028,36,Thiago, Gates,Thiago Gates,TRUE,8/25/2021 5:59:59,,A+,Your code works.,NO
+223039,36,Thiago, Gates,Thiago Gates,TRUE,8/28/2021 5:59:59,,A+,Your code works.,NO
+224010,36,Thiago, Gates,Thiago Gates,TRUE,9/4/2021 4:59:59,,A+,Everything is complete,NO
+225060,36,Thiago, Gates,Thiago Gates,TRUE,9/11/2021 5:59:59,,A+,Your code works.,NO
+226069,36,Thiago, Gates,Thiago Gates,TRUE,9/18/2021 5:59:59,,A+,Good Job.,NO
+227052,36,Thiago, Gates,Thiago Gates,TRUE,9/25/2021 5:59:59,,A+,Everything is complete,NO
+228052,36,Thiago, Gates,Thiago Gates,TRUE,9/29/2021 5:59:59,,A+,Good Job.,NO
+229014,36,Thiago, Gates,Thiago Gates,TRUE,10/2/2021 5:59:59,,A+,Good Job.,NO
+230090,36,Thiago, Gates,Thiago Gates,TRUE,10/9/2021 5:59:59,,A+,Your code works.,NO
+231014,36,Thiago, Gates,Thiago Gates,TRUE,10/23/2021 5:59:59,,A+,Good Job.,NO
+232059,36,Thiago, Gates,Thiago Gates,TRUE,10/30/2021 5:59:59,,A+,Everything is complete,NO
+233012,36,Thiago, Gates,Thiago Gates,TRUE,11/3/2021 5:59:59,,A+,Good Job.,NO
+234060,36,Thiago, Gates,Thiago Gates,TRUE,11/6/2021 5:59:59,,A+,Everything is complete,NO
+235019,36,Thiago, Gates,Thiago Gates,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+236073,36,Thiago, Gates,Thiago Gates,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+238065,36,Thiago, Gates,Thiago Gates,TRUE,12/7/2021 5:59:59,,A+,Good Job.,NO
+240034,36,Thiago, Gates,Thiago Gates,TRUE,12/15/2021 5:59:59,,A+,Everything is complete,NO
+241018,36,Thiago, Gates,Thiago Gates,TRUE,12/30/2021 5:59:59,,A+,Everything is complete,NO
+242053,36,Thiago, Gates,Thiago Gates,TRUE,1/6/2022 5:59:59,,A+,Everything is complete,NO
+243072,36,Thiago, Gates,Thiago Gates,TRUE,1/12/2022 5:59:59,,A+,Your code works.,NO
+244090,36,Thiago, Gates,Thiago Gates,TRUE,1/13/2022 5:59:59,,A+,Your code works.,NO
+245022,36,Thiago, Gates,Thiago Gates,TRUE,1/20/2022 5:59:59,,A+,Good Job.,NO
+246063,36,Thiago, Gates,Thiago Gates,TRUE,1/27/2022 5:59:59,,A+,Everything is complete,NO
+247012,36,Thiago, Gates,Thiago Gates,TRUE,2/2/2022 5:59:59,,A+,Everything is complete,NO
+248022,36,Thiago, Gates,Thiago Gates,TRUE,2/3/2022 5:59:59,,A+,Your code works.,NO
+249043,36,Thiago, Gates,Thiago Gates,TRUE,11/30/2021 5:59:59,,A+,Your code works.,NO
+250064,36,Thiago, Gates,Thiago Gates,TRUE,12/14/2021 5:59:59,,A+,Good Job.,NO
+221098,37,Katie, Hendrix,Katie Hendrix,TRUE,8/18/2021 5:59:59,,A+,Your code works.,NO
+222028,37,Katie, Hendrix,Katie Hendrix,TRUE,8/25/2021 5:59:59,,A+,Good Job.,NO
+223039,37,Katie, Hendrix,Katie Hendrix,TRUE,8/28/2021 5:59:59,,A+,Good Job.,NO
+224010,37,Katie, Hendrix,Katie Hendrix,TRUE,9/4/2021 4:59:59,,A+,Your code works.,NO
+225060,37,Katie, Hendrix,Katie Hendrix,TRUE,9/11/2021 5:59:59,,A+,Good Job.,NO
+226069,37,Katie, Hendrix,Katie Hendrix,TRUE,9/18/2021 5:59:59,,A+,Everything is complete,NO
+227052,37,Katie, Hendrix,Katie Hendrix,TRUE,9/25/2021 5:59:59,,A+,Good Job.,NO
+228052,37,Katie, Hendrix,Katie Hendrix,TRUE,9/29/2021 5:59:59,,A+,Everything is complete,NO
+229014,37,Katie, Hendrix,Katie Hendrix,TRUE,10/2/2021 5:59:59,,A+,Everything is complete,NO
+230090,37,Katie, Hendrix,Katie Hendrix,TRUE,10/9/2021 5:59:59,,A+,Good Job.,NO
+231014,37,Katie, Hendrix,Katie Hendrix,TRUE,10/23/2021 5:59:59,,A+,Everything is complete,NO
+232059,37,Katie, Hendrix,Katie Hendrix,TRUE,10/30/2021 5:59:59,,A+,Your code works.,NO
+233012,37,Katie, Hendrix,Katie Hendrix,TRUE,11/3/2021 5:59:59,,A+,Everything is complete,NO
+234060,37,Katie, Hendrix,Katie Hendrix,TRUE,11/6/2021 5:59:59,,A+,Your code works.,NO
+235019,37,Katie, Hendrix,Katie Hendrix,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+236073,37,Katie, Hendrix,Katie Hendrix,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+238065,37,Katie, Hendrix,Katie Hendrix,TRUE,12/7/2021 5:59:59,,A+,Everything is complete,NO
+240034,37,Katie, Hendrix,Katie Hendrix,TRUE,12/15/2021 5:59:59,,A+,Your code works.,NO
+241018,37,Katie, Hendrix,Katie Hendrix,TRUE,12/30/2021 5:59:59,,A+,Your code works.,NO
+242053,37,Katie, Hendrix,Katie Hendrix,TRUE,1/6/2022 5:59:59,,A+,Your code works.,NO
+243072,37,Katie, Hendrix,Katie Hendrix,TRUE,1/12/2022 5:59:59,,A+,Good Job.,NO
+244090,37,Katie, Hendrix,Katie Hendrix,TRUE,1/13/2022 5:59:59,,A+,Good Job.,NO
+245022,37,Katie, Hendrix,Katie Hendrix,TRUE,1/20/2022 5:59:59,,A+,Everything is complete,NO
+246063,37,Katie, Hendrix,Katie Hendrix,TRUE,1/27/2022 5:59:59,,A+,Your code works.,NO
+247012,37,Katie, Hendrix,Katie Hendrix,TRUE,2/2/2022 5:59:59,,A+,Your code works.,NO
+248022,37,Katie, Hendrix,Katie Hendrix,TRUE,2/3/2022 5:59:59,,A+,Good Job.,NO
+249043,37,Katie, Hendrix,Katie Hendrix,TRUE,11/30/2021 5:59:59,,A+,Good Job.,NO
+250064,37,Katie, Hendrix,Katie Hendrix,TRUE,12/14/2021 5:59:59,,A+,Everything is complete,NO
+221098,38,Xanthe, Wiley,Xanthe Wiley,TRUE,8/18/2021 5:59:59,,A+,Good Job.,NO
+222028,38,Xanthe, Wiley,Xanthe Wiley,TRUE,8/25/2021 5:59:59,,A+,Everything is complete,NO
+223039,38,Xanthe, Wiley,Xanthe Wiley,TRUE,8/28/2021 5:59:59,,A+,Everything is complete,NO
+224010,38,Xanthe, Wiley,Xanthe Wiley,TRUE,9/4/2021 4:59:59,,A+,Good Job.,NO
+225060,38,Xanthe, Wiley,Xanthe Wiley,TRUE,9/11/2021 5:59:59,,A+,Everything is complete,NO
+226069,38,Xanthe, Wiley,Xanthe Wiley,TRUE,9/18/2021 5:59:59,,A+,Good Job.,NO
+227052,38,Xanthe, Wiley,Xanthe Wiley,TRUE,9/25/2021 5:59:59,,A+,Everything is complete,NO
+228052,38,Xanthe, Wiley,Xanthe Wiley,TRUE,9/29/2021 5:59:59,,A+,Your code works.,NO
+229014,38,Xanthe, Wiley,Xanthe Wiley,TRUE,10/2/2021 5:59:59,,A+,Your code works.,NO
+230090,38,Xanthe, Wiley,Xanthe Wiley,TRUE,10/9/2021 5:59:59,,A+,Everything is complete,NO
+231014,38,Xanthe, Wiley,Xanthe Wiley,TRUE,10/23/2021 5:59:59,,A+,Your code works.,NO
+232059,38,Xanthe, Wiley,Xanthe Wiley,TRUE,10/30/2021 5:59:59,,A+,Good Job.,NO
+233012,38,Xanthe, Wiley,Xanthe Wiley,TRUE,11/3/2021 5:59:59,,A+,Your code works.,NO
+234060,38,Xanthe, Wiley,Xanthe Wiley,TRUE,11/6/2021 5:59:59,,A+,Good Job.,NO
+235019,38,Xanthe, Wiley,Xanthe Wiley,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+236073,38,Xanthe, Wiley,Xanthe Wiley,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+238065,38,Xanthe, Wiley,Xanthe Wiley,TRUE,12/7/2021 5:59:59,,A+,Your code works.,NO
+240034,38,Xanthe, Wiley,Xanthe Wiley,TRUE,12/15/2021 5:59:59,,A+,Good Job.,NO
+241018,38,Xanthe, Wiley,Xanthe Wiley,TRUE,12/30/2021 5:59:59,,A+,Good Job.,NO
+242053,38,Xanthe, Wiley,Xanthe Wiley,TRUE,1/6/2022 5:59:59,,A+,Good Job.,NO
+243072,38,Xanthe, Wiley,Xanthe Wiley,TRUE,1/12/2022 5:59:59,,A+,Everything is complete,NO
+244090,38,Xanthe, Wiley,Xanthe Wiley,TRUE,1/13/2022 5:59:59,,A+,Everything is complete,NO
+245022,38,Xanthe, Wiley,Xanthe Wiley,TRUE,1/20/2022 5:59:59,,A+,Your code works.,NO
+246063,38,Xanthe, Wiley,Xanthe Wiley,TRUE,1/27/2022 5:59:59,,A+,Good Job.,NO
+247012,38,Xanthe, Wiley,Xanthe Wiley,TRUE,2/2/2022 5:59:59,,A+,Good Job.,NO
+248022,38,Xanthe, Wiley,Xanthe Wiley,TRUE,2/3/2022 5:59:59,,A+,Everything is complete,NO
+249043,38,Xanthe, Wiley,Xanthe Wiley,TRUE,11/30/2021 5:59:59,,A+,Everything is complete,NO
+250064,38,Xanthe, Wiley,Xanthe Wiley,TRUE,12/14/2021 5:59:59,,A+,Your code works.,NO
+221098,39,Jennie, Pittman,Jennie Pittman,FALSE,8/18/2021 5:59:59,,,,
+222028,39,Jennie, Pittman,Jennie Pittman,TRUE,8/25/2021 5:59:59,,A+,Your code works.,NO
+223039,39,Jennie, Pittman,Jennie Pittman,TRUE,8/28/2021 5:59:59,,A+,Your code works.,NO
+224010,39,Jennie, Pittman,Jennie Pittman,TRUE,9/4/2021 4:59:59,,A+,Everything is complete,NO
+225060,39,Jennie, Pittman,Jennie Pittman,TRUE,9/11/2021 5:59:59,,A+,Good Job.,NO
+226069,39,Jennie, Pittman,Jennie Pittman,TRUE,9/18/2021 5:59:59,,A+,Everything is complete,NO
+227052,39,Jennie, Pittman,Jennie Pittman,TRUE,9/25/2021 5:59:59,,A+,Your code works.,NO
+228052,39,Jennie, Pittman,Jennie Pittman,TRUE,9/29/2021 5:59:59,,A+,Good Job.,NO
+229014,39,Jennie, Pittman,Jennie Pittman,TRUE,10/2/2021 5:59:59,,A+,Good Job.,NO
+230090,39,Jennie, Pittman,Jennie Pittman,TRUE,10/9/2021 5:59:59,,A+,Your code works.,NO
+231014,39,Jennie, Pittman,Jennie Pittman,TRUE,10/23/2021 5:59:59,,A+,Good Job.,NO
+232059,39,Jennie, Pittman,Jennie Pittman,TRUE,10/30/2021 5:59:59,,A+,Everything is complete,NO
+233012,39,Jennie, Pittman,Jennie Pittman,TRUE,11/3/2021 5:59:59,,A+,Good Job.,NO
+234060,39,Jennie, Pittman,Jennie Pittman,TRUE,11/6/2021 5:59:59,,A+,Everything is complete,NO
+235019,39,Jennie, Pittman,Jennie Pittman,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+236073,39,Jennie, Pittman,Jennie Pittman,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+238065,39,Jennie, Pittman,Jennie Pittman,TRUE,12/7/2021 5:59:59,,A+,Good Job.,NO
+240034,39,Jennie, Pittman,Jennie Pittman,TRUE,12/15/2021 5:59:59,,A+,Everything is complete,NO
+241018,39,Jennie, Pittman,Jennie Pittman,TRUE,12/30/2021 5:59:59,,A+,Everything is complete,NO
+242053,39,Jennie, Pittman,Jennie Pittman,TRUE,1/6/2022 5:59:59,,A+,Everything is complete,NO
+243072,39,Jennie, Pittman,Jennie Pittman,TRUE,1/12/2022 5:59:59,,A+,Your code works.,NO
+244090,39,Jennie, Pittman,Jennie Pittman,TRUE,1/13/2022 5:59:59,,A+,Your code works.,NO
+245022,39,Jennie, Pittman,Jennie Pittman,TRUE,1/20/2022 5:59:59,,A+,Good Job.,NO
+246063,39,Jennie, Pittman,Jennie Pittman,TRUE,1/27/2022 5:59:59,,A+,Everything is complete,NO
+247012,39,Jennie, Pittman,Jennie Pittman,TRUE,2/2/2022 5:59:59,,A+,Everything is complete,NO
+248022,39,Jennie, Pittman,Jennie Pittman,TRUE,2/3/2022 5:59:59,,A+,Your code works.,NO
+249043,39,Jennie, Pittman,Jennie Pittman,TRUE,11/30/2021 5:59:59,,A+,Your code works.,NO
+250064,39,Jennie, Pittman,Jennie Pittman,TRUE,12/14/2021 5:59:59,,A+,Good Job.,NO
+221098,40,Angelika, Brandt,Angelika Brandt,FALSE,8/18/2021 5:59:59,,,,
+222028,40,Angelika, Brandt,Angelika Brandt,TRUE,8/25/2021 5:59:59,,A+,Good Job.,NO
+223039,40,Angelika, Brandt,Angelika Brandt,TRUE,8/28/2021 5:59:59,,A+,Good Job.,NO
+224010,40,Angelika, Brandt,Angelika Brandt,TRUE,9/4/2021 4:59:59,,A+,Your code works.,NO
+225060,40,Angelika, Brandt,Angelika Brandt,TRUE,9/11/2021 5:59:59,,A+,Everything is complete,NO
+226069,40,Angelika, Brandt,Angelika Brandt,TRUE,9/18/2021 5:59:59,,A+,Your code works.,NO
+227052,40,Angelika, Brandt,Angelika Brandt,TRUE,9/25/2021 5:59:59,,A+,Good Job.,NO
+228052,40,Angelika, Brandt,Angelika Brandt,TRUE,9/29/2021 5:59:59,,A+,Everything is complete,NO
+229014,40,Angelika, Brandt,Angelika Brandt,TRUE,10/2/2021 5:59:59,,A+,Everything is complete,NO
+230090,40,Angelika, Brandt,Angelika Brandt,TRUE,10/9/2021 5:59:59,,A+,Good Job.,NO
+231014,40,Angelika, Brandt,Angelika Brandt,TRUE,10/23/2021 5:59:59,,A+,Everything is complete,NO
+232059,40,Angelika, Brandt,Angelika Brandt,TRUE,10/30/2021 5:59:59,,A+,Your code works.,NO
+233012,40,Angelika, Brandt,Angelika Brandt,TRUE,11/3/2021 5:59:59,,A+,Everything is complete,NO
+234060,40,Angelika, Brandt,Angelika Brandt,TRUE,11/6/2021 5:59:59,,A+,Your code works.,NO
+235019,40,Angelika, Brandt,Angelika Brandt,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+236073,40,Angelika, Brandt,Angelika Brandt,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+238065,40,Angelika, Brandt,Angelika Brandt,TRUE,12/7/2021 5:59:59,,A+,Everything is complete,NO
+240034,40,Angelika, Brandt,Angelika Brandt,TRUE,12/15/2021 5:59:59,,A+,Your code works.,NO
+241018,40,Angelika, Brandt,Angelika Brandt,TRUE,12/30/2021 5:59:59,,A+,Your code works.,NO
+242053,40,Angelika, Brandt,Angelika Brandt,TRUE,1/6/2022 5:59:59,,A+,Your code works.,NO
+243072,40,Angelika, Brandt,Angelika Brandt,TRUE,1/12/2022 5:59:59,,A+,Good Job.,NO
+244090,40,Angelika, Brandt,Angelika Brandt,TRUE,1/13/2022 5:59:59,,A+,Good Job.,NO
+245022,40,Angelika, Brandt,Angelika Brandt,TRUE,1/20/2022 5:59:59,,A+,Everything is complete,NO
+246063,40,Angelika, Brandt,Angelika Brandt,TRUE,1/27/2022 5:59:59,,A+,Good Job.,NO
+247012,40,Angelika, Brandt,Angelika Brandt,TRUE,2/2/2022 5:59:59,,A+,Your code works.,NO
+248022,40,Angelika, Brandt,Angelika Brandt,TRUE,2/3/2022 5:59:59,,A+,Good Job.,NO
+249043,40,Angelika, Brandt,Angelika Brandt,TRUE,11/30/2021 5:59:59,,A+,Good Job.,NO
+250064,40,Angelika, Brandt,Angelika Brandt,TRUE,12/14/2021 5:59:59,,A+,Everything is complete,NO
+221098,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,8/18/2021 5:59:59,,A+,Good Job.,NO
+222028,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,8/25/2021 5:59:59,,A+,Everything is complete,NO
+223039,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,8/28/2021 5:59:59,,A+,Everything is complete,NO
+224010,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,9/4/2021 4:59:59,,A+,Good Job.,NO
+225060,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,9/11/2021 5:59:59,,A+,Your code works.,NO
+226069,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,9/18/2021 5:59:59,,A+,Good Job.,NO
+227052,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,9/25/2021 5:59:59,,A+,Everything is complete,NO
+228052,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,9/29/2021 5:59:59,,A+,Your code works.,NO
+229014,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,10/2/2021 5:59:59,,A+,Your code works.,NO
+230090,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,10/9/2021 5:59:59,,A+,Everything is complete,NO
+231014,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,10/23/2021 5:59:59,,A+,Your code works.,NO
+232059,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,10/30/2021 5:59:59,,A+,Good Job.,NO
+233012,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,11/3/2021 5:59:59,,A+,Your code works.,NO
+234060,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,11/6/2021 5:59:59,,A+,Good Job.,NO
+235019,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+236073,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+238065,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,12/7/2021 5:59:59,,A+,Your code works.,NO
+240034,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,12/15/2021 5:59:59,,A+,Good Job.,NO
+241018,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,12/30/2021 5:59:59,,A+,Good Job.,NO
+242053,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,1/6/2022 5:59:59,,A+,Good Job.,NO
+243072,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,1/12/2022 5:59:59,,A+,Everything is complete,NO
+244090,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,1/13/2022 5:59:59,,A+,Everything is complete,NO
+245022,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,1/20/2022 5:59:59,,A+,Your code works.,NO
+246063,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,1/27/2022 5:59:59,,A+,Everything is complete,NO
+247012,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,2/2/2022 5:59:59,,A+,Good Job.,NO
+248022,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,2/3/2022 5:59:59,,A+,Everything is complete,NO
+249043,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,11/30/2021 5:59:59,,A+,Everything is complete,NO
+250064,41,Arlo, Mcnamara,Arlo Mcnamara,TRUE,12/14/2021 5:59:59,,A+,Good Job.,NO
+221098,42,Liana, Valenzuela,Liana Valenzuela,TRUE,8/18/2021 5:59:59,,Incomplete,Everything is complete,NO
+222028,42,Liana, Valenzuela,Liana Valenzuela,TRUE,8/25/2021 5:59:59,,A+,Your code works.,NO
+223039,42,Liana, Valenzuela,Liana Valenzuela,TRUE,8/28/2021 5:59:59,,A+,Your code works.,NO
+224010,42,Liana, Valenzuela,Liana Valenzuela,TRUE,9/4/2021 4:59:59,,A+,Everything is complete,NO
+225060,42,Liana, Valenzuela,Liana Valenzuela,TRUE,9/11/2021 5:59:59,,A+,Good Job.,NO
+226069,42,Liana, Valenzuela,Liana Valenzuela,TRUE,9/18/2021 5:59:59,,A+,Everything is complete,NO
+227052,42,Liana, Valenzuela,Liana Valenzuela,TRUE,9/25/2021 5:59:59,,A+,Your code works.,NO
+228052,42,Liana, Valenzuela,Liana Valenzuela,TRUE,9/29/2021 5:59:59,,A+,Good Job.,NO
+229014,42,Liana, Valenzuela,Liana Valenzuela,TRUE,10/2/2021 5:59:59,,A+,Good Job.,NO
+230090,42,Liana, Valenzuela,Liana Valenzuela,TRUE,10/9/2021 5:59:59,,A+,Your code works.,NO
+231014,42,Liana, Valenzuela,Liana Valenzuela,TRUE,10/23/2021 5:59:59,,A+,Good Job.,NO
+232059,42,Liana, Valenzuela,Liana Valenzuela,TRUE,10/30/2021 5:59:59,,A+,Everything is complete,NO
+233012,42,Liana, Valenzuela,Liana Valenzuela,TRUE,11/3/2021 5:59:59,,A+,Good Job.,NO
+234060,42,Liana, Valenzuela,Liana Valenzuela,TRUE,11/6/2021 5:59:59,,A+,Everything is complete,NO
+235019,42,Liana, Valenzuela,Liana Valenzuela,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+236073,42,Liana, Valenzuela,Liana Valenzuela,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+238065,42,Liana, Valenzuela,Liana Valenzuela,TRUE,12/7/2021 5:59:59,,A+,Good Job.,NO
+240034,42,Liana, Valenzuela,Liana Valenzuela,TRUE,12/15/2021 5:59:59,,A+,Everything is complete,NO
+241018,42,Liana, Valenzuela,Liana Valenzuela,TRUE,12/30/2021 5:59:59,,A+,Everything is complete,NO
+242053,42,Liana, Valenzuela,Liana Valenzuela,TRUE,1/6/2022 5:59:59,,A+,Everything is complete,NO
+243072,42,Liana, Valenzuela,Liana Valenzuela,TRUE,1/12/2022 5:59:59,,A+,Your code works.,NO
+244090,42,Liana, Valenzuela,Liana Valenzuela,TRUE,1/13/2022 5:59:59,,A+,Your code works.,NO
+245022,42,Liana, Valenzuela,Liana Valenzuela,TRUE,1/20/2022 5:59:59,,A+,Good Job.,NO
+246063,42,Liana, Valenzuela,Liana Valenzuela,TRUE,1/27/2022 5:59:59,,A+,Your code works.,NO
+247012,42,Liana, Valenzuela,Liana Valenzuela,TRUE,2/2/2022 5:59:59,,A+,Everything is complete,NO
+248022,42,Liana, Valenzuela,Liana Valenzuela,TRUE,2/3/2022 5:59:59,,A+,Good Job.,NO
+249043,42,Liana, Valenzuela,Liana Valenzuela,TRUE,11/30/2021 5:59:59,,A+,Good Job.,NO
+250064,42,Liana, Valenzuela,Liana Valenzuela,TRUE,12/14/2021 5:59:59,,A+,Everything is complete,NO
+221098,43,Miller, Dominguez,Miller Dominguez,TRUE,8/18/2021 5:59:59,,A+,Your code works.,NO
+222028,43,Miller, Dominguez,Miller Dominguez,TRUE,8/25/2021 5:59:59,,A+,Good Job.,NO
+223039,43,Miller, Dominguez,Miller Dominguez,TRUE,8/28/2021 5:59:59,,A+,Good Job.,NO
+224010,43,Miller, Dominguez,Miller Dominguez,TRUE,9/4/2021 4:59:59,,A+,Good Job.,NO
+225060,43,Miller, Dominguez,Miller Dominguez,TRUE,9/11/2021 5:59:59,,A+,Everything is complete,NO
+226069,43,Miller, Dominguez,Miller Dominguez,TRUE,9/18/2021 5:59:59,,A+,Your code works.,NO
+227052,43,Miller, Dominguez,Miller Dominguez,TRUE,9/25/2021 5:59:59,,A+,Good Job.,NO
+228052,43,Miller, Dominguez,Miller Dominguez,TRUE,9/29/2021 5:59:59,,A+,Everything is complete,NO
+229014,43,Miller, Dominguez,Miller Dominguez,TRUE,10/2/2021 5:59:59,,A+,Everything is complete,NO
+230090,43,Miller, Dominguez,Miller Dominguez,TRUE,10/9/2021 5:59:59,,A+,Good Job.,NO
+231014,43,Miller, Dominguez,Miller Dominguez,TRUE,10/23/2021 5:59:59,,A+,Everything is complete,NO
+232059,43,Miller, Dominguez,Miller Dominguez,TRUE,10/30/2021 5:59:59,,A+,Your code works.,NO
+233012,43,Miller, Dominguez,Miller Dominguez,TRUE,11/3/2021 5:59:59,,A+,Everything is complete,NO
+234060,43,Miller, Dominguez,Miller Dominguez,TRUE,11/6/2021 5:59:59,,A+,Your code works.,NO
+235019,43,Miller, Dominguez,Miller Dominguez,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+236073,43,Miller, Dominguez,Miller Dominguez,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+238065,43,Miller, Dominguez,Miller Dominguez,TRUE,12/7/2021 5:59:59,,A+,Everything is complete,NO
+240034,43,Miller, Dominguez,Miller Dominguez,TRUE,12/15/2021 5:59:59,,A+,Your code works.,NO
+241018,43,Miller, Dominguez,Miller Dominguez,TRUE,12/30/2021 5:59:59,,A+,Your code works.,NO
+242053,43,Miller, Dominguez,Miller Dominguez,TRUE,1/6/2022 5:59:59,,A+,Good Job.,NO
+243072,43,Miller, Dominguez,Miller Dominguez,TRUE,1/12/2022 5:59:59,,A+,Good Job.,NO
+244090,43,Miller, Dominguez,Miller Dominguez,TRUE,1/13/2022 5:59:59,,A+,Good Job.,NO
+245022,43,Miller, Dominguez,Miller Dominguez,TRUE,1/20/2022 5:59:59,,A+,Everything is complete,NO
+246063,43,Miller, Dominguez,Miller Dominguez,TRUE,1/27/2022 5:59:59,,A+,Good Job.,NO
+247012,43,Miller, Dominguez,Miller Dominguez,TRUE,2/2/2022 5:59:59,,A+,Your code works.,NO
+248022,43,Miller, Dominguez,Miller Dominguez,TRUE,2/3/2022 5:59:59,,A+,Everything is complete,NO
+249043,43,Miller, Dominguez,Miller Dominguez,TRUE,11/30/2021 5:59:59,,A+,Everything is complete,NO
+250064,43,Miller, Dominguez,Miller Dominguez,TRUE,12/14/2021 5:59:59,,A+,Your code works.,NO
+221098,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,8/18/2021 5:59:59,,A+,Good Job.,NO
+222028,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,8/25/2021 5:59:59,,A+,Everything is complete,NO
+223039,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,8/28/2021 5:59:59,,A+,Everything is complete,NO
+224010,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,9/4/2021 4:59:59,,A+,Everything is complete,NO
+225060,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,9/11/2021 5:59:59,,A+,Your code works.,NO
+226069,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,9/18/2021 5:59:59,,A+,Good Job.,NO
+227052,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,9/25/2021 5:59:59,,A+,Everything is complete,NO
+228052,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,9/29/2021 5:59:59,,A+,Your code works.,NO
+229014,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,10/2/2021 5:59:59,,A+,Your code works.,NO
+230090,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,10/9/2021 5:59:59,,A+,Everything is complete,NO
+231014,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,10/23/2021 5:59:59,,A+,Your code works.,NO
+232059,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,10/30/2021 5:59:59,,A+,Good Job.,NO
+233012,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,11/3/2021 5:59:59,,A+,Your code works.,NO
+234060,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,11/6/2021 5:59:59,,A+,Good Job.,NO
+235019,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+236073,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+238065,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,12/7/2021 5:59:59,,A+,Your code works.,NO
+240034,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,12/15/2021 5:59:59,,A+,Good Job.,NO
+241018,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,12/30/2021 5:59:59,,A+,Good Job.,NO
+242053,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,1/6/2022 5:59:59,,A+,Everything is complete,NO
+243072,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,1/12/2022 5:59:59,,A+,Everything is complete,NO
+244090,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,1/13/2022 5:59:59,,A+,Everything is complete,NO
+245022,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,1/20/2022 5:59:59,,A+,Good Job.,NO
+246063,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,1/27/2022 5:59:59,,A+,Everything is complete,NO
+247012,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,2/2/2022 5:59:59,,A+,Good Job.,NO
+248022,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,2/3/2022 5:59:59,,A+,Your code works.,NO
+249043,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,11/30/2021 5:59:59,,A+,Your code works.,NO
+250064,44,Esther, Fitzpatrick,Esther Fitzpatrick,TRUE,12/14/2021 5:59:59,,A+,Good Job.,NO
+221098,45,Poppie, Chang,Poppie Chang,TRUE,8/18/2021 5:59:59,,A+,Everything is complete,NO
+222028,45,Poppie, Chang,Poppie Chang,TRUE,8/25/2021 5:59:59,,A+,Your code works.,NO
+223039,45,Poppie, Chang,Poppie Chang,TRUE,8/28/2021 5:59:59,,A+,Your code works.,NO
+224010,45,Poppie, Chang,Poppie Chang,TRUE,9/4/2021 4:59:59,,A+,Your code works.,NO
+225060,45,Poppie, Chang,Poppie Chang,TRUE,9/11/2021 5:59:59,,A+,Good Job.,NO
+226069,45,Poppie, Chang,Poppie Chang,TRUE,9/18/2021 5:59:59,,A+,Everything is complete,NO
+227052,45,Poppie, Chang,Poppie Chang,TRUE,9/25/2021 5:59:59,,A+,Your code works.,NO
+228052,45,Poppie, Chang,Poppie Chang,TRUE,9/29/2021 5:59:59,,A+,Good Job.,NO
+229014,45,Poppie, Chang,Poppie Chang,TRUE,10/2/2021 5:59:59,,A+,Good Job.,NO
+230090,45,Poppie, Chang,Poppie Chang,TRUE,10/9/2021 5:59:59,,A+,Good Job.,NO
+231014,45,Poppie, Chang,Poppie Chang,TRUE,10/23/2021 5:59:59,,A+,Good Job.,NO
+232059,45,Poppie, Chang,Poppie Chang,TRUE,10/30/2021 5:59:59,,A+,Everything is complete,NO
+233012,45,Poppie, Chang,Poppie Chang,TRUE,11/3/2021 5:59:59,,A+,Good Job.,NO
+234060,45,Poppie, Chang,Poppie Chang,TRUE,11/6/2021 5:59:59,,A+,Everything is complete,NO
+235019,45,Poppie, Chang,Poppie Chang,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+236073,45,Poppie, Chang,Poppie Chang,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+238065,45,Poppie, Chang,Poppie Chang,TRUE,12/7/2021 5:59:59,,A+,Good Job.,NO
+240034,45,Poppie, Chang,Poppie Chang,TRUE,12/15/2021 5:59:59,,A+,Everything is complete,NO
+241018,45,Poppie, Chang,Poppie Chang,TRUE,12/30/2021 5:59:59,,A+,Everything is complete,NO
+242053,45,Poppie, Chang,Poppie Chang,TRUE,1/6/2022 5:59:59,,A+,Your code works.,NO
+243072,45,Poppie, Chang,Poppie Chang,TRUE,1/12/2022 5:59:59,,A+,Your code works.,NO
+244090,45,Poppie, Chang,Poppie Chang,TRUE,1/13/2022 5:59:59,,A+,Good Job.,NO
+245022,45,Poppie, Chang,Poppie Chang,TRUE,1/20/2022 5:59:59,,A+,Everything is complete,NO
+246063,45,Poppie, Chang,Poppie Chang,TRUE,1/27/2022 5:59:59,,A+,Your code works.,NO
+247012,45,Poppie, Chang,Poppie Chang,TRUE,2/2/2022 5:59:59,,A+,Everything is complete,NO
+248022,45,Poppie, Chang,Poppie Chang,TRUE,2/3/2022 5:59:59,,A+,Good Job.,NO
+249043,45,Poppie, Chang,Poppie Chang,TRUE,11/30/2021 5:59:59,,A+,Good Job.,NO
+250064,45,Poppie, Chang,Poppie Chang,TRUE,12/14/2021 5:59:59,,A+,Everything is complete,NO
+221098,46,Iram, Rich,Iram Rich,TRUE,8/18/2021 5:59:59,,A+,Your code works.,NO
+222028,46,Iram, Rich,Iram Rich,TRUE,8/25/2021 5:59:59,,A+,Good Job.,NO
+223039,46,Iram, Rich,Iram Rich,TRUE,8/28/2021 5:59:59,,A+,Good Job.,NO
+224010,46,Iram, Rich,Iram Rich,TRUE,9/4/2021 4:59:59,,A+,Good Job.,NO
+225060,46,Iram, Rich,Iram Rich,TRUE,9/11/2021 5:59:59,,A+,Everything is complete,NO
+226069,46,Iram, Rich,Iram Rich,TRUE,9/18/2021 5:59:59,,A+,Your code works.,NO
+227052,46,Iram, Rich,Iram Rich,TRUE,9/25/2021 5:59:59,,A+,Good Job.,NO
+228052,46,Iram, Rich,Iram Rich,TRUE,9/29/2021 5:59:59,,A+,Everything is complete,NO
+229014,46,Iram, Rich,Iram Rich,TRUE,10/2/2021 5:59:59,,A+,Everything is complete,NO
+230090,46,Iram, Rich,Iram Rich,TRUE,10/9/2021 5:59:59,,A+,Everything is complete,NO
+231014,46,Iram, Rich,Iram Rich,TRUE,10/23/2021 5:59:59,,A+,Everything is complete,NO
+232059,46,Iram, Rich,Iram Rich,TRUE,10/30/2021 5:59:59,,A+,Your code works.,NO
+233012,46,Iram, Rich,Iram Rich,TRUE,11/3/2021 5:59:59,,A+,Everything is complete,NO
+234060,46,Iram, Rich,Iram Rich,TRUE,11/6/2021 5:59:59,,A+,Your code works.,NO
+235019,46,Iram, Rich,Iram Rich,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+236073,46,Iram, Rich,Iram Rich,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+238065,46,Iram, Rich,Iram Rich,TRUE,12/7/2021 5:59:59,,A+,Everything is complete,NO
+240034,46,Iram, Rich,Iram Rich,TRUE,12/15/2021 5:59:59,,A+,Good Job.,NO
+241018,46,Iram, Rich,Iram Rich,TRUE,12/30/2021 5:59:59,,A+,Good Job.,NO
+242053,46,Iram, Rich,Iram Rich,TRUE,1/6/2022 5:59:59,,A+,Good Job.,NO
+243072,46,Iram, Rich,Iram Rich,TRUE,1/12/2022 5:59:59,,A+,Good Job.,NO
+244090,46,Iram, Rich,Iram Rich,TRUE,1/13/2022 5:59:59,,A+,Everything is complete,NO
+245022,46,Iram, Rich,Iram Rich,TRUE,1/20/2022 5:59:59,,A+,Your code works.,NO
+246063,46,Iram, Rich,Iram Rich,TRUE,1/27/2022 5:59:59,,A+,Good Job.,NO
+247012,46,Iram, Rich,Iram Rich,TRUE,2/2/2022 5:59:59,,A+,Your code works.,NO
+248022,46,Iram, Rich,Iram Rich,TRUE,2/3/2022 5:59:59,,A+,Everything is complete,NO
+249043,46,Iram, Rich,Iram Rich,TRUE,11/30/2021 5:59:59,,A+,Everything is complete,NO
+250064,46,Iram, Rich,Iram Rich,TRUE,12/14/2021 5:59:59,,A+,Your code works.,NO
+221098,47,Darren, Atherton,Darren Atherton,FALSE,8/18/2021 5:59:59,,,,
+222028,47,Darren, Atherton,Darren Atherton,TRUE,8/25/2021 5:59:59,,A+,Everything is complete,NO
+223039,47,Darren, Atherton,Darren Atherton,TRUE,8/28/2021 5:59:59,,A+,Everything is complete,NO
+224010,47,Darren, Atherton,Darren Atherton,TRUE,9/4/2021 4:59:59,,A+,Everything is complete,NO
+225060,47,Darren, Atherton,Darren Atherton,TRUE,9/11/2021 5:59:59,,A+,Your code works.,NO
+226069,47,Darren, Atherton,Darren Atherton,TRUE,9/18/2021 5:59:59,,A+,Good Job.,NO
+227052,47,Darren, Atherton,Darren Atherton,TRUE,9/25/2021 5:59:59,,A+,Everything is complete,NO
+228052,47,Darren, Atherton,Darren Atherton,TRUE,9/29/2021 5:59:59,,A+,Good Job.,NO
+229014,47,Darren, Atherton,Darren Atherton,TRUE,10/2/2021 5:59:59,,A+,Your code works.,NO
+230090,47,Darren, Atherton,Darren Atherton,TRUE,10/9/2021 5:59:59,,A+,Your code works.,NO
+231014,47,Darren, Atherton,Darren Atherton,TRUE,10/23/2021 5:59:59,,A+,Your code works.,NO
+232059,47,Darren, Atherton,Darren Atherton,TRUE,10/30/2021 5:59:59,,A+,Good Job.,NO
+233012,47,Darren, Atherton,Darren Atherton,TRUE,11/3/2021 5:59:59,,A+,Your code works.,NO
+234060,47,Darren, Atherton,Darren Atherton,TRUE,11/6/2021 5:59:59,,A+,Good Job.,NO
+235019,47,Darren, Atherton,Darren Atherton,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+236073,47,Darren, Atherton,Darren Atherton,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+238065,47,Darren, Atherton,Darren Atherton,TRUE,12/7/2021 5:59:59,,A+,Good Job.,NO
+240034,47,Darren, Atherton,Darren Atherton,TRUE,12/15/2021 5:59:59,,A+,Everything is complete,NO
+241018,47,Darren, Atherton,Darren Atherton,TRUE,12/30/2021 5:59:59,,A+,Everything is complete,NO
+242053,47,Darren, Atherton,Darren Atherton,TRUE,1/6/2022 5:59:59,,A+,Everything is complete,NO
+243072,47,Darren, Atherton,Darren Atherton,TRUE,1/12/2022 5:59:59,,A+,Everything is complete,NO
+244090,47,Darren, Atherton,Darren Atherton,TRUE,1/13/2022 5:59:59,,A+,Your code works.,NO
+245022,47,Darren, Atherton,Darren Atherton,TRUE,1/20/2022 5:59:59,,A+,Good Job.,NO
+246063,47,Darren, Atherton,Darren Atherton,TRUE,1/27/2022 5:59:59,,A+,Everything is complete,NO
+247012,47,Darren, Atherton,Darren Atherton,TRUE,2/2/2022 5:59:59,,A+,Good Job.,NO
+248022,47,Darren, Atherton,Darren Atherton,TRUE,2/3/2022 5:59:59,,A+,Your code works.,NO
+249043,47,Darren, Atherton,Darren Atherton,TRUE,11/30/2021 5:59:59,,A+,Your code works.,NO
+250064,47,Darren, Atherton,Darren Atherton,TRUE,12/14/2021 5:59:59,,A+,Good Job.,NO
+221098,48,Carter, Gibbs,Carter Gibbs,FALSE,8/18/2021 5:59:59,,,,
+222028,48,Carter, Gibbs,Carter Gibbs,TRUE,8/25/2021 5:59:59,,A+,Your code works.,NO
+223039,48,Carter, Gibbs,Carter Gibbs,TRUE,8/28/2021 5:59:59,,A+,Your code works.,NO
+224010,48,Carter, Gibbs,Carter Gibbs,TRUE,9/4/2021 4:59:59,,A+,Your code works.,NO
+225060,48,Carter, Gibbs,Carter Gibbs,TRUE,9/11/2021 5:59:59,,A+,Good Job.,NO
+226069,48,Carter, Gibbs,Carter Gibbs,TRUE,9/18/2021 5:59:59,,A+,Everything is complete,NO
+227052,48,Carter, Gibbs,Carter Gibbs,TRUE,9/25/2021 5:59:59,,A+,Your code works.,NO
+228052,48,Carter, Gibbs,Carter Gibbs,TRUE,9/29/2021 5:59:59,,A+,Everything is complete,NO
+229014,48,Carter, Gibbs,Carter Gibbs,TRUE,10/2/2021 5:59:59,,A+,Good Job.,NO
+230090,48,Carter, Gibbs,Carter Gibbs,TRUE,10/9/2021 5:59:59,,A+,Good Job.,NO
+231014,48,Carter, Gibbs,Carter Gibbs,TRUE,10/23/2021 5:59:59,,A+,Good Job.,NO
+232059,48,Carter, Gibbs,Carter Gibbs,TRUE,10/30/2021 5:59:59,,A+,Everything is complete,NO
+233012,48,Carter, Gibbs,Carter Gibbs,TRUE,11/3/2021 5:59:59,,A+,Good Job.,NO
+234060,48,Carter, Gibbs,Carter Gibbs,TRUE,11/6/2021 5:59:59,,A+,Everything is complete,NO
+235019,48,Carter, Gibbs,Carter Gibbs,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+236073,48,Carter, Gibbs,Carter Gibbs,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+238065,48,Carter, Gibbs,Carter Gibbs,TRUE,12/7/2021 5:59:59,,A+,Everything is complete,NO
+240034,48,Carter, Gibbs,Carter Gibbs,TRUE,12/15/2021 5:59:59,,A+,Your code works.,NO
+241018,48,Carter, Gibbs,Carter Gibbs,TRUE,12/30/2021 5:59:59,,A+,Your code works.,NO
+242053,48,Carter, Gibbs,Carter Gibbs,TRUE,1/6/2022 5:59:59,,A+,Your code works.,NO
+243072,48,Carter, Gibbs,Carter Gibbs,TRUE,1/12/2022 5:59:59,,A+,Good Job.,NO
+244090,48,Carter, Gibbs,Carter Gibbs,TRUE,1/13/2022 5:59:59,,A+,Good Job.,NO
+245022,48,Carter, Gibbs,Carter Gibbs,TRUE,1/20/2022 5:59:59,,A+,Everything is complete,NO
+246063,48,Carter, Gibbs,Carter Gibbs,TRUE,1/27/2022 5:59:59,,A+,Your code works.,NO
+247012,48,Carter, Gibbs,Carter Gibbs,TRUE,2/2/2022 5:59:59,,A+,Everything is complete,NO
+248022,48,Carter, Gibbs,Carter Gibbs,TRUE,2/3/2022 5:59:59,,A+,Good Job.,NO
+249043,48,Carter, Gibbs,Carter Gibbs,TRUE,11/30/2021 5:59:59,,A+,Good Job.,NO
+250064,48,Carter, Gibbs,Carter Gibbs,TRUE,12/14/2021 5:59:59,,A+,Everything is complete,NO
+221098,49,Skye, Ball,Skye Ball,TRUE,8/18/2021 5:59:59,,A+,Your code works.,NO
+222028,49,Skye, Ball,Skye Ball,TRUE,8/25/2021 5:59:59,,A+,Good Job.,NO
+223039,49,Skye, Ball,Skye Ball,TRUE,8/28/2021 5:59:59,,A+,Good Job.,NO
+224010,49,Skye, Ball,Skye Ball,TRUE,9/4/2021 4:59:59,,A+,Good Job.,NO
+225060,49,Skye, Ball,Skye Ball,TRUE,9/11/2021 5:59:59,,A+,Everything is complete,NO
+226069,49,Skye, Ball,Skye Ball,TRUE,9/18/2021 5:59:59,,A+,Your code works.,NO
+227052,49,Skye, Ball,Skye Ball,TRUE,9/25/2021 5:59:59,,A+,Good Job.,NO
+228052,49,Skye, Ball,Skye Ball,TRUE,9/29/2021 5:59:59,,A+,Your code works.,NO
+229014,49,Skye, Ball,Skye Ball,TRUE,10/2/2021 5:59:59,,A+,Everything is complete,NO
+230090,49,Skye, Ball,Skye Ball,TRUE,10/9/2021 5:59:59,,A+,Everything is complete,NO
+231014,49,Skye, Ball,Skye Ball,TRUE,10/23/2021 5:59:59,,A+,Everything is complete,NO
+232059,49,Skye, Ball,Skye Ball,TRUE,10/30/2021 5:59:59,,A+,Your code works.,NO
+233012,49,Skye, Ball,Skye Ball,TRUE,11/3/2021 5:59:59,,A+,Everything is complete,NO
+234060,49,Skye, Ball,Skye Ball,TRUE,11/6/2021 5:59:59,,A+,Good Job.,NO
+235019,49,Skye, Ball,Skye Ball,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+236073,49,Skye, Ball,Skye Ball,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+238065,49,Skye, Ball,Skye Ball,TRUE,12/7/2021 5:59:59,,A+,Your code works.,NO
+240034,49,Skye, Ball,Skye Ball,TRUE,12/15/2021 5:59:59,,A+,Good Job.,NO
+241018,49,Skye, Ball,Skye Ball,TRUE,12/30/2021 5:59:59,,A+,Good Job.,NO
+242053,49,Skye, Ball,Skye Ball,TRUE,1/6/2022 5:59:59,,A+,Good Job.,NO
+243072,49,Skye, Ball,Skye Ball,TRUE,1/12/2022 5:59:59,,A+,Everything is complete,NO
+244090,49,Skye, Ball,Skye Ball,TRUE,1/13/2022 5:59:59,,A+,Everything is complete,NO
+245022,49,Skye, Ball,Skye Ball,TRUE,1/20/2022 5:59:59,,A+,Your code works.,NO
+246063,49,Skye, Ball,Skye Ball,TRUE,1/27/2022 5:59:59,,A+,Good Job.,NO
+247012,49,Skye, Ball,Skye Ball,TRUE,2/2/2022 5:59:59,,A+,Good Job.,NO
+248022,49,Skye, Ball,Skye Ball,TRUE,2/3/2022 5:59:59,,A+,Everything is complete,NO
+249043,49,Skye, Ball,Skye Ball,TRUE,11/30/2021 5:59:59,,A+,Everything is complete,NO
+250064,49,Skye, Ball,Skye Ball,TRUE,12/14/2021 5:59:59,,A+,Your code works.,NO
+221098,50,Celyn, Drake,Celyn Drake,TRUE,8/18/2021 5:59:59,,A+,Good Job.,NO
+222028,50,Celyn, Drake,Celyn Drake,TRUE,8/25/2021 5:59:59,,A+,Everything is complete,NO
+223039,50,Celyn, Drake,Celyn Drake,TRUE,8/28/2021 5:59:59,,A+,Everything is complete,NO
+224010,50,Celyn, Drake,Celyn Drake,TRUE,9/4/2021 4:59:59,,A+,Everything is complete,NO
+225060,50,Celyn, Drake,Celyn Drake,TRUE,9/11/2021 5:59:59,,A+,Your code works.,NO
+226069,50,Celyn, Drake,Celyn Drake,TRUE,9/18/2021 5:59:59,,A+,Good Job.,NO
+227052,50,Celyn, Drake,Celyn Drake,TRUE,9/25/2021 5:59:59,,A+,Everything is complete,NO
+228052,50,Celyn, Drake,Celyn Drake,TRUE,9/29/2021 5:59:59,,A+,Good Job.,NO
+229014,50,Celyn, Drake,Celyn Drake,TRUE,10/2/2021 5:59:59,,A+,Your code works.,NO
+230090,50,Celyn, Drake,Celyn Drake,TRUE,10/9/2021 5:59:59,,A+,Your code works.,NO
+231014,50,Celyn, Drake,Celyn Drake,TRUE,10/23/2021 5:59:59,,A+,Good Job.,NO
+232059,50,Celyn, Drake,Celyn Drake,TRUE,10/30/2021 5:59:59,,A+,Good Job.,NO
+233012,50,Celyn, Drake,Celyn Drake,TRUE,11/3/2021 5:59:59,,A+,Good Job.,NO
+234060,50,Celyn, Drake,Celyn Drake,TRUE,11/6/2021 5:59:59,,A+,Everything is complete,NO
+235019,50,Celyn, Drake,Celyn Drake,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+236073,50,Celyn, Drake,Celyn Drake,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+238065,50,Celyn, Drake,Celyn Drake,TRUE,12/7/2021 5:59:59,,A+,Good Job.,NO
+240034,50,Celyn, Drake,Celyn Drake,TRUE,12/15/2021 5:59:59,,A+,Everything is complete,NO
+241018,50,Celyn, Drake,Celyn Drake,TRUE,12/30/2021 5:59:59,,A+,Everything is complete,NO
+242053,50,Celyn, Drake,Celyn Drake,TRUE,1/6/2022 5:59:59,,A+,Everything is complete,NO
+243072,50,Celyn, Drake,Celyn Drake,TRUE,1/12/2022 5:59:59,,A+,Your code works.,NO
+244090,50,Celyn, Drake,Celyn Drake,TRUE,1/13/2022 5:59:59,,A+,Your code works.,NO
+245022,50,Celyn, Drake,Celyn Drake,TRUE,1/20/2022 5:59:59,,A+,Good Job.,NO
+246063,50,Celyn, Drake,Celyn Drake,TRUE,1/27/2022 5:59:59,,A+,Everything is complete,NO
+247012,50,Celyn, Drake,Celyn Drake,TRUE,2/2/2022 5:59:59,,A+,Everything is complete,NO
+248022,50,Celyn, Drake,Celyn Drake,TRUE,2/3/2022 5:59:59,,A+,Your code works.,NO
+249043,50,Celyn, Drake,Celyn Drake,TRUE,11/30/2021 5:59:59,,A+,Your code works.,NO
+250064,50,Celyn, Drake,Celyn Drake,TRUE,12/14/2021 5:59:59,,A+,Good Job.,NO
+231019,51,Inaayah, Hardy,Inaayah Hardy,TRUE,8/18/2021 5:59:59,,A+,Everything is complete,NO
+232023,51,Inaayah, Hardy,Inaayah Hardy,TRUE,8/25/2021 5:59:59,,A+,Good Job.,NO
+233088,51,Inaayah, Hardy,Inaayah Hardy,TRUE,8/28/2021 5:59:59,,A+,Good Job.,NO
+234094,51,Inaayah, Hardy,Inaayah Hardy,TRUE,9/4/2021 4:59:59,,A+,Your code works.,NO
+235007,51,Inaayah, Hardy,Inaayah Hardy,TRUE,9/11/2021 5:59:59,,A+,Good Job.,NO
+236081,51,Inaayah, Hardy,Inaayah Hardy,TRUE,9/18/2021 5:59:59,,A+,Everything is complete,NO
+237090,51,Inaayah, Hardy,Inaayah Hardy,TRUE,9/25/2021 5:59:59,,A+,Your code works.,NO
+238028,51,Inaayah, Hardy,Inaayah Hardy,TRUE,9/29/2021 5:59:59,,A+,Everything is complete,NO
+239060,51,Inaayah, Hardy,Inaayah Hardy,TRUE,10/2/2021 5:59:59,,A+,Good Job.,NO
+240042,51,Inaayah, Hardy,Inaayah Hardy,TRUE,10/9/2021 5:59:59,,A+,Good Job.,NO
+241029,51,Inaayah, Hardy,Inaayah Hardy,TRUE,10/23/2021 5:59:59,,A+,Everything is complete,NO
+242009,51,Inaayah, Hardy,Inaayah Hardy,TRUE,10/30/2021 5:59:59,,A+,Everything is complete,NO
+243078,51,Inaayah, Hardy,Inaayah Hardy,TRUE,11/3/2021 5:59:59,,A+,Everything is complete,NO
+244049,51,Inaayah, Hardy,Inaayah Hardy,TRUE,11/6/2021 5:59:59,,A+,Your code works.,NO
+245009,51,Inaayah, Hardy,Inaayah Hardy,TRUE,11/16/2021 5:59:59,,A+,Good Job.,NO
+246042,51,Inaayah, Hardy,Inaayah Hardy,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+248063,51,Inaayah, Hardy,Inaayah Hardy,TRUE,12/7/2021 5:59:59,,A+,Everything is complete,NO
+250031,51,Inaayah, Hardy,Inaayah Hardy,TRUE,12/15/2021 5:59:59,,A+,Your code works.,NO
+251064,51,Inaayah, Hardy,Inaayah Hardy,TRUE,12/30/2021 5:59:59,,A+,Your code works.,NO
+252090,51,Inaayah, Hardy,Inaayah Hardy,TRUE,1/6/2022 5:59:59,,A+,Your code works.,NO
+253032,51,Inaayah, Hardy,Inaayah Hardy,TRUE,1/12/2022 5:59:59,,A+,Good Job.,NO
+254092,51,Inaayah, Hardy,Inaayah Hardy,TRUE,1/13/2022 5:59:59,,A+,Good Job.,NO
+255016,51,Inaayah, Hardy,Inaayah Hardy,TRUE,1/20/2022 5:59:59,,A+,Everything is complete,NO
+256017,51,Inaayah, Hardy,Inaayah Hardy,TRUE,1/27/2022 5:59:59,,A+,Your code works.,NO
+257046,51,Inaayah, Hardy,Inaayah Hardy,TRUE,2/2/2022 5:59:59,,A+,Your code works.,NO
+258054,51,Inaayah, Hardy,Inaayah Hardy,TRUE,2/3/2022 5:59:59,,A+,Good Job.,NO
+259062,51,Inaayah, Hardy,Inaayah Hardy,TRUE,11/30/2021 5:59:59,,A+,Good Job.,NO
+260027,51,Inaayah, Hardy,Inaayah Hardy,TRUE,12/14/2021 5:59:59,,A+,Everything is complete,NO
+231019,52,Caius, Martins,Caius Martins,TRUE,8/18/2021 5:59:59,,A+,Good Job.,NO
+232023,52,Caius, Martins,Caius Martins,TRUE,8/25/2021 5:59:59,,A+,Everything is complete,NO
+233088,52,Caius, Martins,Caius Martins,TRUE,8/28/2021 5:59:59,,A+,Everything is complete,NO
+234094,52,Caius, Martins,Caius Martins,TRUE,9/4/2021 4:59:59,,A+,Good Job.,NO
+235007,52,Caius, Martins,Caius Martins,TRUE,9/11/2021 5:59:59,,A+,Everything is complete,NO
+236081,52,Caius, Martins,Caius Martins,TRUE,9/18/2021 5:59:59,,A+,Your code works.,NO
+237090,52,Caius, Martins,Caius Martins,TRUE,9/25/2021 5:59:59,,A+,Good Job.,NO
+238028,52,Caius, Martins,Caius Martins,TRUE,9/29/2021 5:59:59,,A+,Your code works.,NO
+239060,52,Caius, Martins,Caius Martins,TRUE,10/2/2021 5:59:59,,A+,Everything is complete,NO
+240042,52,Caius, Martins,Caius Martins,TRUE,10/9/2021 5:59:59,,A+,Everything is complete,NO
+241029,52,Caius, Martins,Caius Martins,TRUE,10/23/2021 5:59:59,,A+,Your code works.,NO
+242009,52,Caius, Martins,Caius Martins,TRUE,10/30/2021 5:59:59,,A+,Good Job.,NO
+243078,52,Caius, Martins,Caius Martins,TRUE,11/3/2021 5:59:59,,A+,Your code works.,NO
+244049,52,Caius, Martins,Caius Martins,TRUE,11/6/2021 5:59:59,,A+,Good Job.,NO
+245009,52,Caius, Martins,Caius Martins,TRUE,11/16/2021 5:59:59,,A+,Everything is complete,NO
+246042,52,Caius, Martins,Caius Martins,TRUE,11/16/2021 5:59:59,,A+,Your code works.,NO
+248063,52,Caius, Martins,Caius Martins,TRUE,12/7/2021 5:59:59,,A+,Your code works.,NO
+250031,52,Caius, Martins,Caius Martins,TRUE,12/15/2021 5:59:59,,A+,Good Job.,NO
+251064,52,Caius, Martins,Caius Martins,TRUE,12/30/2021 5:59:59,,A+,Good Job.,NO
+252090,52,Caius, Martins,Caius Martins,TRUE,1/6/2022 5:59:59,,A+,Good Job.,NO
+253032,52,Caius, Martins,Caius Martins,TRUE,1/12/2022 5:59:59,,A+,Everything is complete,NO
+254092,52,Caius, Martins,Caius Martins,TRUE,1/13/2022 5:59:59,,A+,Everything is complete,NO
+255016,52,Caius, Martins,Caius Martins,TRUE,1/20/2022 5:59:59,,A+,Your code works.,NO
+256017,52,Caius, Martins,Caius Martins,TRUE,1/27/2022 5:59:59,,A+,Good Job.,NO
+257046,52,Caius, Martins,Caius Martins,TRUE,2/2/2022 5:59:59,,A+,Good Job.,NO
+258054,52,Caius, Martins,Caius Martins,TRUE,2/3/2022 5:59:59,,A+,Everything is complete,NO
+259062,52,Caius, Martins,Caius Martins,TRUE,11/30/2021 5:59:59,,A+,Everything is complete,NO
+260027,52,Caius, Martins,Caius Martins,TRUE,12/14/2021 5:59:59,,A+,Your code works.,NO
+231019,53,Hadiya, Adkins,Hadiya Adkins,TRUE,3/3/2022 5:59:59,,A+,Everything is complete,NO
+232023,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+233088,53,Hadiya, Adkins,Hadiya Adkins,TRUE,3/13/2022 5:59:59,,A+,Your code works.,NO
+234094,53,Hadiya, Adkins,Hadiya Adkins,TRUE,3/20/2022 4:59:59,,A-,Everything is complete,NO
+235007,53,Hadiya, Adkins,Hadiya Adkins,TRUE,3/27/2022 4:59:59,,A,Good Job.,NO
+236081,53,Hadiya, Adkins,Hadiya Adkins,TRUE,4/3/2022 4:59:59,,A,Everything is complete,NO
+237090,53,Hadiya, Adkins,Hadiya Adkins,TRUE,4/10/2022 4:59:59,,A+,Your code works.,NO
+238028,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+239060,53,Hadiya, Adkins,Hadiya Adkins,TRUE,4/17/2022 4:59:59,,A+,Good Job.,NO
+240042,53,Hadiya, Adkins,Hadiya Adkins,TRUE,4/24/2022 4:59:59,,A+,Good Job.,NO
+241029,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+242009,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+243078,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+244049,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+245009,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+246042,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+248063,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+250031,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+251064,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+252090,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+253032,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+254092,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+255016,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+256017,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+257046,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+258054,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+259062,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+260027,53,Hadiya, Adkins,Hadiya Adkins,FALSE,,,,,
+231019,54,Joseph, Thompson,Joseph Thompson,TRUE,3/3/2022 5:59:59,,A+,Everything is complete,NO
+232023,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+233088,54,Joseph, Thompson,Joseph Thompson,TRUE,3/13/2022 5:59:59,,A+,Your code works.,NO
+234094,54,Joseph, Thompson,Joseph Thompson,TRUE,3/20/2022 4:59:59,,A-,Everything is complete,NO
+235007,54,Joseph, Thompson,Joseph Thompson,TRUE,3/27/2022 4:59:59,,A,Good Job.,NO
+236081,54,Joseph, Thompson,Joseph Thompson,TRUE,4/3/2022 4:59:59,,A,Everything is complete,NO
+237090,54,Joseph, Thompson,Joseph Thompson,TRUE,4/10/2022 4:59:59,,A,Your code works.,NO
+238028,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+239060,54,Joseph, Thompson,Joseph Thompson,TRUE,4/17/2022 4:59:59,,A+,Good Job.,NO
+240042,54,Joseph, Thompson,Joseph Thompson,TRUE,4/24/2022 4:59:59,,A+,Your code works.,NO
+241029,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+242009,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+243078,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+244049,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+245009,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+246042,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+248063,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+250031,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+251064,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+252090,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+253032,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+254092,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+255016,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+256017,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+257046,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+258054,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+259062,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+260027,54,Joseph, Thompson,Joseph Thompson,FALSE,,,,,
+231019,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+232023,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+233088,55,Kaydee, Wood,Kaydee Wood,TRUE,3/13/2022 5:59:59,,A+,Your code works.,NO
+234094,55,Kaydee, Wood,Kaydee Wood,TRUE,3/20/2022 4:59:59,,A+,Your code works.,NO
+235007,55,Kaydee, Wood,Kaydee Wood,TRUE,3/27/2022 4:59:59,,A+,Good Job.,NO
+236081,55,Kaydee, Wood,Kaydee Wood,TRUE,4/3/2022 4:59:59,,A+,Everything is complete,NO
+237090,55,Kaydee, Wood,Kaydee Wood,TRUE,4/10/2022 4:59:59,,A+,Your code works.,NO
+238028,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+239060,55,Kaydee, Wood,Kaydee Wood,TRUE,4/17/2022 4:59:59,,A+,Good Job.,NO
+240042,55,Kaydee, Wood,Kaydee Wood,TRUE,4/24/2022 4:59:59,,A-,Good Job.,NO
+241029,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+242009,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+243078,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+244049,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+245009,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+246042,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+248063,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+250031,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+251064,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+252090,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+253032,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+254092,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+255016,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+256017,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+257046,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+258054,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+259062,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+260027,55,Kaydee, Wood,Kaydee Wood,FALSE,,,,,
+231019,56,Ishaaq, Lowry,Ishaaq Lowry,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+232023,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+233088,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+234094,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+235007,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+236081,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+237090,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+238028,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+239060,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+240042,56,Ishaaq, Lowry,Ishaaq Lowry,TRUE,4/24/2022 4:59:59,,A+,Everything is complete,NO
+241029,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+242009,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+243078,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+244049,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+245009,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+246042,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+248063,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+250031,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+251064,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+252090,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+253032,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+254092,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+255016,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+256017,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+257046,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+258054,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+259062,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+260027,56,Ishaaq, Lowry,Ishaaq Lowry,FALSE,,,,,
+231019,57,Ivie, Anderson,Ivie Anderson,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+232023,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+233088,57,Ivie, Anderson,Ivie Anderson,TRUE,3/13/2022 5:59:59,,A+,Everything is complete,NO
+234094,57,Ivie, Anderson,Ivie Anderson,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+235007,57,Ivie, Anderson,Ivie Anderson,TRUE,3/27/2022 4:59:59,,A+,Your code works.,NO
+236081,57,Ivie, Anderson,Ivie Anderson,TRUE,4/3/2022 4:59:59,,A+,Good Job.,NO
+237090,57,Ivie, Anderson,Ivie Anderson,TRUE,4/10/2022 4:59:59,,A+,Everything is complete,NO
+238028,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+239060,57,Ivie, Anderson,Ivie Anderson,TRUE,4/17/2022 4:59:59,,A+,Your code works.,NO
+240042,57,Ivie, Anderson,Ivie Anderson,TRUE,4/24/2022 4:59:59,,A,Your code works.,NO
+241029,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+242009,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+243078,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+244049,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+245009,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+246042,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+248063,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+250031,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+251064,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+252090,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+253032,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+254092,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+255016,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+256017,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+257046,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+258054,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+259062,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+260027,57,Ivie, Anderson,Ivie Anderson,FALSE,,,,,
+231019,58,Safaa, Beck,Safaa Beck,TRUE,3/3/2022 5:59:59,,A+,Your code works.,NO
+232023,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+233088,58,Safaa, Beck,Safaa Beck,TRUE,3/13/2022 5:59:59,,A+,Good Job.,NO
+234094,58,Safaa, Beck,Safaa Beck,TRUE,3/20/2022 4:59:59,,A+,Good Job.,NO
+235007,58,Safaa, Beck,Safaa Beck,TRUE,3/27/2022 4:59:59,,A,Everything is complete,NO
+236081,58,Safaa, Beck,Safaa Beck,TRUE,4/3/2022 4:59:59,,A-,Your code works.,NO
+237090,58,Safaa, Beck,Safaa Beck,TRUE,4/10/2022 4:59:59,,A+,Good Job.,NO
+238028,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+239060,58,Safaa, Beck,Safaa Beck,TRUE,4/17/2022 4:59:59,,A,Everything is complete,NO
+240042,58,Safaa, Beck,Safaa Beck,TRUE,4/24/2022 4:59:59,,A,Good Job.,NO
+241029,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+242009,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+243078,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+244049,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+245009,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+246042,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+248063,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+250031,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+251064,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+252090,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+253032,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+254092,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+255016,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+256017,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+257046,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+258054,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+259062,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+260027,58,Safaa, Beck,Safaa Beck,FALSE,,,,,
+231019,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+232023,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+233088,59,Emil, Mackie,Emil Mackie,TRUE,3/13/2022 5:59:59,,A+,Good Job.,NO
+234094,59,Emil, Mackie,Emil Mackie,TRUE,3/20/2022 4:59:59,,A+,Your code works.,NO
+235007,59,Emil, Mackie,Emil Mackie,TRUE,3/27/2022 4:59:59,,I,Good Job.,NO
+236081,59,Emil, Mackie,Emil Mackie,TRUE,4/3/2022 4:59:59,,B+,Everything is complete,NO
+237090,59,Emil, Mackie,Emil Mackie,TRUE,4/10/2022 4:59:59,,A-,Good Job.,NO
+238028,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+239060,59,Emil, Mackie,Emil Mackie,TRUE,4/17/2022 4:59:59,,I,Everything is complete,NO
+240042,59,Emil, Mackie,Emil Mackie,TRUE,4/24/2022 4:59:59,,A-,Good Job.,NO
+241029,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+242009,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+243078,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+244049,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+245009,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+246042,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+248063,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+250031,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+251064,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+252090,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+253032,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+254092,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+255016,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+256017,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+257046,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+258054,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+259062,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+260027,59,Emil, Mackie,Emil Mackie,FALSE,,,,,
+231019,60,Cadence, Schmidt,Cadence Schmidt,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+232023,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+233088,60,Cadence, Schmidt,Cadence Schmidt,TRUE,3/13/2022 5:59:59,,A+,Everything is complete,NO
+234094,60,Cadence, Schmidt,Cadence Schmidt,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+235007,60,Cadence, Schmidt,Cadence Schmidt,TRUE,3/27/2022 4:59:59,,A,Your code works.,NO
+236081,60,Cadence, Schmidt,Cadence Schmidt,TRUE,4/3/2022 4:59:59,,A,Good Job.,NO
+237090,60,Cadence, Schmidt,Cadence Schmidt,TRUE,4/10/2022 4:59:59,,A,Everything is complete,NO
+238028,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+239060,60,Cadence, Schmidt,Cadence Schmidt,TRUE,4/17/2022 4:59:59,,A+,Your code works.,NO
+240042,60,Cadence, Schmidt,Cadence Schmidt,TRUE,4/24/2022 4:59:59,,A+,Everything is complete,NO
+241029,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+242009,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+243078,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+244049,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+245009,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+246042,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+248063,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+250031,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+251064,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+252090,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+253032,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+254092,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+255016,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+256017,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+257046,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+258054,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+259062,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+260027,60,Cadence, Schmidt,Cadence Schmidt,FALSE,,,,,
+231019,61,Melody, Mccaffrey,Melody Mccaffrey,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+232023,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+233088,61,Melody, Mccaffrey,Melody Mccaffrey,TRUE,3/13/2022 5:59:59,,A+,Everything is complete,NO
+234094,61,Melody, Mccaffrey,Melody Mccaffrey,TRUE,3/20/2022 4:59:59,,A+,Good Job.,NO
+235007,61,Melody, Mccaffrey,Melody Mccaffrey,TRUE,3/27/2022 4:59:59,,A,Everything is complete,NO
+236081,61,Melody, Mccaffrey,Melody Mccaffrey,TRUE,4/3/2022 4:59:59,,A,Your code works.,NO
+237090,61,Melody, Mccaffrey,Melody Mccaffrey,TRUE,4/10/2022 4:59:59,,A+,Good Job.,NO
+238028,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+239060,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+240042,61,Melody, Mccaffrey,Melody Mccaffrey,TRUE,4/24/2022 4:59:59,,A+,Everything is complete,NO
+241029,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+242009,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+243078,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+244049,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+245009,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+246042,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+248063,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+250031,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+251064,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+252090,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+253032,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+254092,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+255016,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+256017,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+257046,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+258054,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+259062,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+260027,61,Melody, Mccaffrey,Melody Mccaffrey,FALSE,,,,,
+231019,62,Henri, Head,Henri Head,TRUE,3/3/2022 5:59:59,,A+,Your code works.,NO
+232023,62,Henri, Head,Henri Head,FALSE,,,,,
+233088,62,Henri, Head,Henri Head,TRUE,3/13/2022 5:59:59,,A+,Good Job.,NO
+234094,62,Henri, Head,Henri Head,TRUE,3/20/2022 4:59:59,,A,Your code works.,NO
+235007,62,Henri, Head,Henri Head,TRUE,3/27/2022 4:59:59,,A,Everything is complete,NO
+236081,62,Henri, Head,Henri Head,TRUE,4/3/2022 4:59:59,,A,Your code works.,NO
+237090,62,Henri, Head,Henri Head,TRUE,4/10/2022 4:59:59,,A,Good Job.,NO
+238028,62,Henri, Head,Henri Head,FALSE,,,,,
+239060,62,Henri, Head,Henri Head,TRUE,4/17/2022 4:59:59,,A+,Everything is complete,NO
+240042,62,Henri, Head,Henri Head,TRUE,4/24/2022 4:59:59,,A,Good Job.,NO
+241029,62,Henri, Head,Henri Head,FALSE,,,,,
+242009,62,Henri, Head,Henri Head,FALSE,,,,,
+243078,62,Henri, Head,Henri Head,FALSE,,,,,
+244049,62,Henri, Head,Henri Head,FALSE,,,,,
+245009,62,Henri, Head,Henri Head,FALSE,,,,,
+246042,62,Henri, Head,Henri Head,FALSE,,,,,
+248063,62,Henri, Head,Henri Head,FALSE,,,,,
+250031,62,Henri, Head,Henri Head,FALSE,,,,,
+251064,62,Henri, Head,Henri Head,FALSE,,,,,
+252090,62,Henri, Head,Henri Head,FALSE,,,,,
+253032,62,Henri, Head,Henri Head,FALSE,,,,,
+254092,62,Henri, Head,Henri Head,FALSE,,,,,
+255016,62,Henri, Head,Henri Head,FALSE,,,,,
+256017,62,Henri, Head,Henri Head,FALSE,,,,,
+257046,62,Henri, Head,Henri Head,FALSE,,,,,
+258054,62,Henri, Head,Henri Head,FALSE,,,,,
+259062,62,Henri, Head,Henri Head,FALSE,,,,,
+260027,62,Henri, Head,Henri Head,FALSE,,,,,
+231019,63,India, Bouvet,India Bouvet,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+232023,63,India, Bouvet,India Bouvet,FALSE,,,,,
+233088,63,India, Bouvet,India Bouvet,TRUE,3/13/2022 5:59:59,,A+,Everything is complete,NO
+234094,63,India, Bouvet,India Bouvet,TRUE,3/20/2022 4:59:59,,A+,Good Job.,NO
+235007,63,India, Bouvet,India Bouvet,TRUE,3/27/2022 4:59:59,,A,Everything is complete,NO
+236081,63,India, Bouvet,India Bouvet,TRUE,4/3/2022 4:59:59,,B+,Your code works.,NO
+237090,63,India, Bouvet,India Bouvet,FALSE,,,,,
+238028,63,India, Bouvet,India Bouvet,FALSE,,,,,
+239060,63,India, Bouvet,India Bouvet,FALSE,,,,,
+240042,63,India, Bouvet,India Bouvet,TRUE,4/24/2022 4:59:59,,A,Everything is complete,NO
+241029,63,India, Bouvet,India Bouvet,FALSE,,,,,
+242009,63,India, Bouvet,India Bouvet,FALSE,,,,,
+243078,63,India, Bouvet,India Bouvet,FALSE,,,,,
+244049,63,India, Bouvet,India Bouvet,FALSE,,,,,
+245009,63,India, Bouvet,India Bouvet,FALSE,,,,,
+246042,63,India, Bouvet,India Bouvet,FALSE,,,,,
+248063,63,India, Bouvet,India Bouvet,FALSE,,,,,
+250031,63,India, Bouvet,India Bouvet,FALSE,,,,,
+251064,63,India, Bouvet,India Bouvet,FALSE,,,,,
+252090,63,India, Bouvet,India Bouvet,FALSE,,,,,
+253032,63,India, Bouvet,India Bouvet,FALSE,,,,,
+254092,63,India, Bouvet,India Bouvet,FALSE,,,,,
+255016,63,India, Bouvet,India Bouvet,FALSE,,,,,
+256017,63,India, Bouvet,India Bouvet,FALSE,,,,,
+257046,63,India, Bouvet,India Bouvet,FALSE,,,,,
+258054,63,India, Bouvet,India Bouvet,FALSE,,,,,
+259062,63,India, Bouvet,India Bouvet,FALSE,,,,,
+260027,63,India, Bouvet,India Bouvet,FALSE,,,,,
+231019,64,Sila, Morgan,Sila Morgan,TRUE,3/3/2022 5:59:59,,A+,Your code works.,NO
+232023,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+233088,64,Sila, Morgan,Sila Morgan,TRUE,3/13/2022 5:59:59,,A+,Good Job.,NO
+234094,64,Sila, Morgan,Sila Morgan,TRUE,3/20/2022 4:59:59,,A+,Your code works.,NO
+235007,64,Sila, Morgan,Sila Morgan,TRUE,3/27/2022 4:59:59,,A+,Everything is complete,NO
+236081,64,Sila, Morgan,Sila Morgan,TRUE,4/3/2022 4:59:59,,A+,Your code works.,NO
+237090,64,Sila, Morgan,Sila Morgan,TRUE,4/10/2022 4:59:59,,A+,Good Job.,NO
+238028,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+239060,64,Sila, Morgan,Sila Morgan,TRUE,4/17/2022 4:59:59,,A+,Everything is complete,NO
+240042,64,Sila, Morgan,Sila Morgan,TRUE,4/24/2022 4:59:59,,A,Good Job.,NO
+241029,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+242009,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+243078,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+244049,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+245009,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+246042,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+248063,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+250031,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+251064,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+252090,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+253032,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+254092,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+255016,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+256017,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+257046,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+258054,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+259062,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+260027,64,Sila, Morgan,Sila Morgan,FALSE,,,,,
+231019,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+232023,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+233088,65,Jorden, Mccoy,Jorden Mccoy,TRUE,3/13/2022 5:59:59,,A+,Everything is complete,NO
+234094,65,Jorden, Mccoy,Jorden Mccoy,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+235007,65,Jorden, Mccoy,Jorden Mccoy,TRUE,3/27/2022 4:59:59,,A+,Your code works.,NO
+236081,65,Jorden, Mccoy,Jorden Mccoy,TRUE,4/3/2022 4:59:59,,A+,Good Job.,NO
+237090,65,Jorden, Mccoy,Jorden Mccoy,TRUE,4/10/2022 4:59:59,,A,Everything is complete,NO
+238028,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+239060,65,Jorden, Mccoy,Jorden Mccoy,TRUE,4/17/2022 4:59:59,,A+,Your code works.,NO
+240042,65,Jorden, Mccoy,Jorden Mccoy,TRUE,4/24/2022 4:59:59,,A,Everything is complete,NO
+241029,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+242009,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+243078,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+244049,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+245009,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+246042,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+248063,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+250031,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+251064,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+252090,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+253032,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+254092,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+255016,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+256017,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+257046,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+258054,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+259062,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+260027,65,Jorden, Mccoy,Jorden Mccoy,FALSE,,,,,
+231019,66,Clara, Rudd,Clara Rudd,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+232023,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+233088,66,Clara, Rudd,Clara Rudd,TRUE,3/13/2022 5:59:59,,A+,Everything is complete,NO
+234094,66,Clara, Rudd,Clara Rudd,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+235007,66,Clara, Rudd,Clara Rudd,TRUE,3/27/2022 4:59:59,,A,Your code works.,NO
+236081,66,Clara, Rudd,Clara Rudd,TRUE,4/3/2022 4:59:59,,A,Good Job.,NO
+237090,66,Clara, Rudd,Clara Rudd,TRUE,4/10/2022 4:59:59,,A+,Everything is complete,NO
+238028,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+239060,66,Clara, Rudd,Clara Rudd,TRUE,4/17/2022 4:59:59,,A+,Your code works.,NO
+240042,66,Clara, Rudd,Clara Rudd,TRUE,4/24/2022 4:59:59,,A-,Your code works.,NO
+241029,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+242009,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+243078,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+244049,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+245009,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+246042,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+248063,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+250031,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+251064,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+252090,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+253032,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+254092,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+255016,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+256017,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+257046,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+258054,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+259062,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+260027,66,Clara, Rudd,Clara Rudd,FALSE,,,,,
+231019,67,Ronald, Cairns,Ronald Cairns,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+232023,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+233088,67,Ronald, Cairns,Ronald Cairns,TRUE,3/13/2022 5:59:59,,A+,Everything is complete,NO
+234094,67,Ronald, Cairns,Ronald Cairns,TRUE,3/20/2022 4:59:59,,A,Good Job.,NO
+235007,67,Ronald, Cairns,Ronald Cairns,TRUE,3/27/2022 4:59:59,,A,Everything is complete,NO
+236081,67,Ronald, Cairns,Ronald Cairns,TRUE,4/3/2022 4:59:59,,A,Good Job.,NO
+237090,67,Ronald, Cairns,Ronald Cairns,TRUE,4/10/2022 4:59:59,,A+,Everything is complete,NO
+238028,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+239060,67,Ronald, Cairns,Ronald Cairns,TRUE,4/17/2022 4:59:59,,A,Your code works.,NO
+240042,67,Ronald, Cairns,Ronald Cairns,TRUE,4/24/2022 4:59:59,,A,Everything is complete,NO
+241029,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+242009,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+243078,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+244049,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+245009,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+246042,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+248063,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+250031,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+251064,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+252090,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+253032,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+254092,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+255016,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+256017,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+257046,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+258054,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+259062,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+260027,67,Ronald, Cairns,Ronald Cairns,FALSE,,,,,
+231019,68,Rima, Gill,Rima Gill,TRUE,3/3/2022 5:59:59,,A+,Everything is complete,NO
+232023,68,Rima, Gill,Rima Gill,FALSE,,,,,
+233088,68,Rima, Gill,Rima Gill,TRUE,3/13/2022 5:59:59,,A,Your code works.,NO
+234094,68,Rima, Gill,Rima Gill,TRUE,3/20/2022 4:59:59,,A,Your code works.,NO
+235007,68,Rima, Gill,Rima Gill,TRUE,3/27/2022 4:59:59,,A+,Good Job.,NO
+236081,68,Rima, Gill,Rima Gill,TRUE,4/3/2022 4:59:59,,F,Everything is complete,NO
+237090,68,Rima, Gill,Rima Gill,FALSE,,,,,
+238028,68,Rima, Gill,Rima Gill,FALSE,,,,,
+239060,68,Rima, Gill,Rima Gill,FALSE,,,,,
+240042,68,Rima, Gill,Rima Gill,TRUE,4/24/2022 4:59:59,,A-,Good Job.,NO
+241029,68,Rima, Gill,Rima Gill,FALSE,,,,,
+242009,68,Rima, Gill,Rima Gill,FALSE,,,,,
+243078,68,Rima, Gill,Rima Gill,FALSE,,,,,
+244049,68,Rima, Gill,Rima Gill,FALSE,,,,,
+245009,68,Rima, Gill,Rima Gill,FALSE,,,,,
+246042,68,Rima, Gill,Rima Gill,FALSE,,,,,
+248063,68,Rima, Gill,Rima Gill,FALSE,,,,,
+250031,68,Rima, Gill,Rima Gill,FALSE,,,,,
+251064,68,Rima, Gill,Rima Gill,FALSE,,,,,
+252090,68,Rima, Gill,Rima Gill,FALSE,,,,,
+253032,68,Rima, Gill,Rima Gill,FALSE,,,,,
+254092,68,Rima, Gill,Rima Gill,FALSE,,,,,
+255016,68,Rima, Gill,Rima Gill,FALSE,,,,,
+256017,68,Rima, Gill,Rima Gill,FALSE,,,,,
+257046,68,Rima, Gill,Rima Gill,FALSE,,,,,
+258054,68,Rima, Gill,Rima Gill,FALSE,,,,,
+259062,68,Rima, Gill,Rima Gill,FALSE,,,,,
+260027,68,Rima, Gill,Rima Gill,FALSE,,,,,
+231019,69,Zaid, May,Zaid May,TRUE,3/3/2022 5:59:59,,A+,Your code works.,NO
+232023,69,Zaid, May,Zaid May,FALSE,,,,,
+233088,69,Zaid, May,Zaid May,TRUE,3/13/2022 5:59:59,,A+,Good Job.,NO
+234094,69,Zaid, May,Zaid May,TRUE,3/20/2022 4:59:59,,A+,Good Job.,NO
+235007,69,Zaid, May,Zaid May,TRUE,3/27/2022 4:59:59,,A+,Everything is complete,NO
+236081,69,Zaid, May,Zaid May,TRUE,4/3/2022 4:59:59,,A+,Your code works.,NO
+237090,69,Zaid, May,Zaid May,TRUE,4/10/2022 4:59:59,,A+,Good Job.,NO
+238028,69,Zaid, May,Zaid May,FALSE,,,,,
+239060,69,Zaid, May,Zaid May,TRUE,4/17/2022 4:59:59,,A+,Everything is complete,NO
+240042,69,Zaid, May,Zaid May,TRUE,4/24/2022 4:59:59,,A+,Everything is complete,NO
+241029,69,Zaid, May,Zaid May,FALSE,,,,,
+242009,69,Zaid, May,Zaid May,FALSE,,,,,
+243078,69,Zaid, May,Zaid May,FALSE,,,,,
+244049,69,Zaid, May,Zaid May,FALSE,,,,,
+245009,69,Zaid, May,Zaid May,FALSE,,,,,
+246042,69,Zaid, May,Zaid May,FALSE,,,,,
+248063,69,Zaid, May,Zaid May,FALSE,,,,,
+250031,69,Zaid, May,Zaid May,FALSE,,,,,
+251064,69,Zaid, May,Zaid May,FALSE,,,,,
+252090,69,Zaid, May,Zaid May,FALSE,,,,,
+253032,69,Zaid, May,Zaid May,FALSE,,,,,
+254092,69,Zaid, May,Zaid May,FALSE,,,,,
+255016,69,Zaid, May,Zaid May,FALSE,,,,,
+256017,69,Zaid, May,Zaid May,FALSE,,,,,
+257046,69,Zaid, May,Zaid May,FALSE,,,,,
+258054,69,Zaid, May,Zaid May,FALSE,,,,,
+259062,69,Zaid, May,Zaid May,FALSE,,,,,
+260027,69,Zaid, May,Zaid May,FALSE,,,,,
+231019,70,Aimie, Ramos,Aimie Ramos,TRUE,3/3/2022 5:59:59,,A+,Everything is complete,NO
+232023,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+233088,70,Aimie, Ramos,Aimie Ramos,TRUE,3/13/2022 5:59:59,,A+,Your code works.,NO
+234094,70,Aimie, Ramos,Aimie Ramos,TRUE,3/20/2022 4:59:59,,A,Everything is complete,NO
+235007,70,Aimie, Ramos,Aimie Ramos,TRUE,3/27/2022 4:59:59,,A+,Good Job.,NO
+236081,70,Aimie, Ramos,Aimie Ramos,TRUE,4/3/2022 4:59:59,,A,Everything is complete,NO
+237090,70,Aimie, Ramos,Aimie Ramos,TRUE,4/10/2022 4:59:59,,A,Your code works.,NO
+238028,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+239060,70,Aimie, Ramos,Aimie Ramos,TRUE,4/17/2022 4:59:59,,A-,Good Job.,NO
+240042,70,Aimie, Ramos,Aimie Ramos,TRUE,4/24/2022 4:59:59,,A,Your code works.,NO
+241029,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+242009,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+243078,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+244049,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+245009,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+246042,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+248063,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+250031,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+251064,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+252090,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+253032,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+254092,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+255016,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+256017,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+257046,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+258054,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+259062,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+260027,70,Aimie, Ramos,Aimie Ramos,FALSE,,,,,
+231019,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+232023,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+233088,71,Marcel, Doherty,Marcel Doherty,TRUE,3/13/2022 5:59:59,,A+,Your code works.,NO
+234094,71,Marcel, Doherty,Marcel Doherty,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+235007,71,Marcel, Doherty,Marcel Doherty,TRUE,3/27/2022 4:59:59,,A,Your code works.,NO
+236081,71,Marcel, Doherty,Marcel Doherty,TRUE,4/3/2022 4:59:59,,A,Good Job.,NO
+237090,71,Marcel, Doherty,Marcel Doherty,TRUE,4/10/2022 4:59:59,,A+,Everything is complete,NO
+238028,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+239060,71,Marcel, Doherty,Marcel Doherty,TRUE,4/17/2022 4:59:59,,A+,Good Job.,NO
+240042,71,Marcel, Doherty,Marcel Doherty,TRUE,4/24/2022 4:59:59,,A+,Your code works.,NO
+241029,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+242009,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+243078,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+244049,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+245009,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+246042,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+248063,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+250031,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+251064,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+252090,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+253032,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+254092,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+255016,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+256017,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+257046,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+258054,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+259062,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+260027,71,Marcel, Doherty,Marcel Doherty,FALSE,,,,,
+231019,72,Heena, Piper,Heena Piper,TRUE,3/3/2022 5:59:59,,A+,Everything is complete,NO
+232023,72,Heena, Piper,Heena Piper,FALSE,,,,,
+233088,72,Heena, Piper,Heena Piper,TRUE,3/13/2022 5:59:59,,A+,Your code works.,NO
+234094,72,Heena, Piper,Heena Piper,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+235007,72,Heena, Piper,Heena Piper,TRUE,3/27/2022 4:59:59,,A,Good Job.,NO
+236081,72,Heena, Piper,Heena Piper,TRUE,4/3/2022 4:59:59,,A,Everything is complete,NO
+237090,72,Heena, Piper,Heena Piper,TRUE,4/10/2022 4:59:59,,A+,Your code works.,NO
+238028,72,Heena, Piper,Heena Piper,FALSE,,,,,
+239060,72,Heena, Piper,Heena Piper,TRUE,4/17/2022 4:59:59,,A+,Good Job.,NO
+240042,72,Heena, Piper,Heena Piper,TRUE,4/24/2022 4:59:59,,A-,Your code works.,NO
+241029,72,Heena, Piper,Heena Piper,FALSE,,,,,
+242009,72,Heena, Piper,Heena Piper,FALSE,,,,,
+243078,72,Heena, Piper,Heena Piper,FALSE,,,,,
+244049,72,Heena, Piper,Heena Piper,FALSE,,,,,
+245009,72,Heena, Piper,Heena Piper,FALSE,,,,,
+246042,72,Heena, Piper,Heena Piper,FALSE,,,,,
+248063,72,Heena, Piper,Heena Piper,FALSE,,,,,
+250031,72,Heena, Piper,Heena Piper,FALSE,,,,,
+251064,72,Heena, Piper,Heena Piper,FALSE,,,,,
+252090,72,Heena, Piper,Heena Piper,FALSE,,,,,
+253032,72,Heena, Piper,Heena Piper,FALSE,,,,,
+254092,72,Heena, Piper,Heena Piper,FALSE,,,,,
+255016,72,Heena, Piper,Heena Piper,FALSE,,,,,
+256017,72,Heena, Piper,Heena Piper,FALSE,,,,,
+257046,72,Heena, Piper,Heena Piper,FALSE,,,,,
+258054,72,Heena, Piper,Heena Piper,FALSE,,,,,
+259062,72,Heena, Piper,Heena Piper,FALSE,,,,,
+260027,72,Heena, Piper,Heena Piper,FALSE,,,,,
+231019,73,Areeba, Cortes,Areeba Cortes,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+232023,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+233088,73,Areeba, Cortes,Areeba Cortes,TRUE,3/13/2022 5:59:59,,A+,Everything is complete,NO
+234094,73,Areeba, Cortes,Areeba Cortes,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+235007,73,Areeba, Cortes,Areeba Cortes,TRUE,3/27/2022 4:59:59,,A+,Your code works.,NO
+236081,73,Areeba, Cortes,Areeba Cortes,TRUE,4/3/2022 4:59:59,,A+,Good Job.,NO
+237090,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+238028,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+239060,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+240042,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+241029,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+242009,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+243078,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+244049,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+245009,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+246042,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+248063,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+250031,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+251064,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+252090,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+253032,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+254092,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+255016,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+256017,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+257046,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+258054,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+259062,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+260027,73,Areeba, Cortes,Areeba Cortes,FALSE,,,,,
+231019,74,Lawson, Nolan,Lawson Nolan,TRUE,3/3/2022 5:59:59,,A+,Everything is complete,NO
+232023,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+233088,74,Lawson, Nolan,Lawson Nolan,TRUE,3/13/2022 5:59:59,,A+,Good Job.,NO
+234094,74,Lawson, Nolan,Lawson Nolan,TRUE,3/20/2022 4:59:59,,A+,Your code works.,NO
+235007,74,Lawson, Nolan,Lawson Nolan,TRUE,3/27/2022 4:59:59,,A+,Good Job.,NO
+236081,74,Lawson, Nolan,Lawson Nolan,TRUE,4/3/2022 4:59:59,,A,Everything is complete,NO
+237090,74,Lawson, Nolan,Lawson Nolan,TRUE,4/10/2022 4:59:59,,A-,Your code works.,NO
+238028,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+239060,74,Lawson, Nolan,Lawson Nolan,TRUE,4/17/2022 4:59:59,,A+,Good Job.,NO
+240042,74,Lawson, Nolan,Lawson Nolan,TRUE,4/24/2022 4:59:59,,A+,Good Job.,NO
+241029,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+242009,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+243078,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+244049,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+245009,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+246042,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+248063,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+250031,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+251064,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+252090,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+253032,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+254092,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+255016,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+256017,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+257046,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+258054,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+259062,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+260027,74,Lawson, Nolan,Lawson Nolan,FALSE,,,,,
+231019,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+232023,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+233088,75,Alyx, Sellers,Alyx Sellers,TRUE,3/13/2022 5:59:59,,A+,Good Job.,NO
+234094,75,Alyx, Sellers,Alyx Sellers,TRUE,3/20/2022 4:59:59,,A+,Good Job.,NO
+235007,75,Alyx, Sellers,Alyx Sellers,TRUE,3/27/2022 4:59:59,,A+,Everything is complete,NO
+236081,75,Alyx, Sellers,Alyx Sellers,TRUE,4/3/2022 4:59:59,,A,Your code works.,NO
+237090,75,Alyx, Sellers,Alyx Sellers,TRUE,4/10/2022 4:59:59,,A+,Good Job.,NO
+238028,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+239060,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+240042,75,Alyx, Sellers,Alyx Sellers,TRUE,4/24/2022 4:59:59,,A+,Everything is complete,NO
+241029,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+242009,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+243078,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+244049,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+245009,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+246042,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+248063,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+250031,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+251064,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+252090,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+253032,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+254092,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+255016,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+256017,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+257046,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+258054,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+259062,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+260027,75,Alyx, Sellers,Alyx Sellers,FALSE,,,,,
+231019,76,Rajan, Galloway,Rajan Galloway,TRUE,3/3/2022 5:59:59,,A+,Your code works.,NO
+232023,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+233088,76,Rajan, Galloway,Rajan Galloway,TRUE,3/13/2022 5:59:59,,A+,Good Job.,NO
+234094,76,Rajan, Galloway,Rajan Galloway,TRUE,3/20/2022 4:59:59,,A,Your code works.,NO
+235007,76,Rajan, Galloway,Rajan Galloway,TRUE,3/27/2022 4:59:59,,A+,Good Job.,NO
+236081,76,Rajan, Galloway,Rajan Galloway,TRUE,4/3/2022 4:59:59,,A+,Everything is complete,NO
+237090,76,Rajan, Galloway,Rajan Galloway,TRUE,4/10/2022 4:59:59,,A+,Good Job.,NO
+238028,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+239060,76,Rajan, Galloway,Rajan Galloway,TRUE,4/17/2022 4:59:59,,A+,Everything is complete,NO
+240042,76,Rajan, Galloway,Rajan Galloway,TRUE,4/24/2022 4:59:59,,A+,Good Job.,NO
+241029,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+242009,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+243078,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+244049,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+245009,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+246042,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+248063,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+250031,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+251064,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+252090,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+253032,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+254092,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+255016,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+256017,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+257046,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+258054,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+259062,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+260027,76,Rajan, Galloway,Rajan Galloway,FALSE,,,,,
+231019,77,Elise, Tanner,Elise Tanner,TRUE,3/3/2022 5:59:59,,Incomplete,Everything is complete,NO
+232023,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+233088,77,Elise, Tanner,Elise Tanner,TRUE,3/13/2022 5:59:59,,A+,Your code works.,NO
+234094,77,Elise, Tanner,Elise Tanner,TRUE,3/20/2022 4:59:59,,A,Your code works.,NO
+235007,77,Elise, Tanner,Elise Tanner,TRUE,3/27/2022 4:59:59,,A,Good Job.,NO
+236081,77,Elise, Tanner,Elise Tanner,TRUE,4/3/2022 4:59:59,,A,Everything is complete,NO
+237090,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+238028,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+239060,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+240042,77,Elise, Tanner,Elise Tanner,TRUE,4/24/2022 4:59:59,,A+,Good Job.,NO
+241029,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+242009,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+243078,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+244049,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+245009,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+246042,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+248063,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+250031,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+251064,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+252090,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+253032,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+254092,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+255016,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+256017,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+257046,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+258054,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+259062,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+260027,77,Elise, Tanner,Elise Tanner,FALSE,,,,,
+231019,78,Layan, Hurst,Layan Hurst,TRUE,3/3/2022 5:59:59,,A+,Your code works.,NO
+232023,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+233088,78,Layan, Hurst,Layan Hurst,TRUE,3/13/2022 5:59:59,,A+,Good Job.,NO
+234094,78,Layan, Hurst,Layan Hurst,TRUE,3/20/2022 4:59:59,,A+,Good Job.,NO
+235007,78,Layan, Hurst,Layan Hurst,TRUE,3/27/2022 4:59:59,,A,Everything is complete,NO
+236081,78,Layan, Hurst,Layan Hurst,TRUE,4/3/2022 4:59:59,,A,Your code works.,NO
+237090,78,Layan, Hurst,Layan Hurst,TRUE,4/10/2022 4:59:59,,A,Good Job.,NO
+238028,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+239060,78,Layan, Hurst,Layan Hurst,TRUE,4/17/2022 4:59:59,,A+,Everything is complete,NO
+240042,78,Layan, Hurst,Layan Hurst,TRUE,4/24/2022 4:59:59,,A+,Good Job.,NO
+241029,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+242009,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+243078,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+244049,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+245009,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+246042,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+248063,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+250031,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+251064,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+252090,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+253032,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+254092,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+255016,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+256017,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+257046,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+258054,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+259062,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+260027,78,Layan, Hurst,Layan Hurst,FALSE,,,,,
+231019,79,Raheel, Marin,Raheel Marin,TRUE,3/3/2022 5:59:59,,A+,Everything is complete,NO
+232023,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+233088,79,Raheel, Marin,Raheel Marin,TRUE,3/13/2022 5:59:59,,A+,Good Job.,NO
+234094,79,Raheel, Marin,Raheel Marin,TRUE,3/20/2022 4:59:59,,A+,Your code works.,NO
+235007,79,Raheel, Marin,Raheel Marin,TRUE,3/27/2022 4:59:59,,A+,Good Job.,NO
+236081,79,Raheel, Marin,Raheel Marin,TRUE,4/3/2022 4:59:59,,A+,Everything is complete,NO
+237090,79,Raheel, Marin,Raheel Marin,TRUE,4/10/2022 4:59:59,,A+,Your code works.,NO
+238028,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+239060,79,Raheel, Marin,Raheel Marin,TRUE,4/17/2022 4:59:59,,A+,Good Job.,NO
+240042,79,Raheel, Marin,Raheel Marin,TRUE,4/24/2022 4:59:59,,A+,Good Job.,NO
+241029,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+242009,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+243078,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+244049,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+245009,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+246042,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+248063,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+250031,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+251064,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+252090,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+253032,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+254092,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+255016,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+256017,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+257046,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+258054,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+259062,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+260027,79,Raheel, Marin,Raheel Marin,FALSE,,,,,
+231019,80,Eden, Knox,Eden Knox,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+232023,80,Eden, Knox,Eden Knox,FALSE,,,,,
+233088,80,Eden, Knox,Eden Knox,TRUE,3/13/2022 5:59:59,,A+,Everything is complete,NO
+234094,80,Eden, Knox,Eden Knox,TRUE,3/20/2022 4:59:59,,A+,Good Job.,NO
+235007,80,Eden, Knox,Eden Knox,TRUE,3/27/2022 4:59:59,,A+,Everything is complete,NO
+236081,80,Eden, Knox,Eden Knox,TRUE,4/3/2022 4:59:59,,A,Good Job.,NO
+237090,80,Eden, Knox,Eden Knox,TRUE,4/10/2022 4:59:59,,A+,Everything is complete,NO
+238028,80,Eden, Knox,Eden Knox,FALSE,,,,,
+239060,80,Eden, Knox,Eden Knox,TRUE,4/17/2022 4:59:59,,A+,Your code works.,NO
+240042,80,Eden, Knox,Eden Knox,TRUE,4/24/2022 4:59:59,,A-,Everything is complete,NO
+241029,80,Eden, Knox,Eden Knox,FALSE,,,,,
+242009,80,Eden, Knox,Eden Knox,FALSE,,,,,
+243078,80,Eden, Knox,Eden Knox,FALSE,,,,,
+244049,80,Eden, Knox,Eden Knox,FALSE,,,,,
+245009,80,Eden, Knox,Eden Knox,FALSE,,,,,
+246042,80,Eden, Knox,Eden Knox,FALSE,,,,,
+248063,80,Eden, Knox,Eden Knox,FALSE,,,,,
+250031,80,Eden, Knox,Eden Knox,FALSE,,,,,
+251064,80,Eden, Knox,Eden Knox,FALSE,,,,,
+252090,80,Eden, Knox,Eden Knox,FALSE,,,,,
+253032,80,Eden, Knox,Eden Knox,FALSE,,,,,
+254092,80,Eden, Knox,Eden Knox,FALSE,,,,,
+255016,80,Eden, Knox,Eden Knox,FALSE,,,,,
+256017,80,Eden, Knox,Eden Knox,FALSE,,,,,
+257046,80,Eden, Knox,Eden Knox,FALSE,,,,,
+258054,80,Eden, Knox,Eden Knox,FALSE,,,,,
+259062,80,Eden, Knox,Eden Knox,FALSE,,,,,
+260027,80,Eden, Knox,Eden Knox,FALSE,,,,,
+231019,81,Marnie, Gardiner,Marnie Gardiner,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+232023,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+233088,81,Marnie, Gardiner,Marnie Gardiner,TRUE,3/13/2022 5:59:59,,A+,Everything is complete,NO
+234094,81,Marnie, Gardiner,Marnie Gardiner,TRUE,3/20/2022 4:59:59,,A+,Good Job.,NO
+235007,81,Marnie, Gardiner,Marnie Gardiner,TRUE,3/27/2022 4:59:59,,B+,Your code works.,NO
+236081,81,Marnie, Gardiner,Marnie Gardiner,TRUE,4/3/2022 4:59:59,,A+,Good Job.,NO
+237090,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+238028,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+239060,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+240042,81,Marnie, Gardiner,Marnie Gardiner,TRUE,4/24/2022 4:59:59,,A-,Everything is complete,NO
+241029,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+242009,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+243078,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+244049,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+245009,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+246042,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+248063,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+250031,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+251064,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+252090,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+253032,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+254092,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+255016,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+256017,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+257046,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+258054,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+259062,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+260027,81,Marnie, Gardiner,Marnie Gardiner,FALSE,,,,,
+231019,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+232023,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+233088,82,Ramone, Lawrence,Ramone Lawrence,TRUE,3/13/2022 5:59:59,,A+,Your code works.,NO
+234094,82,Ramone, Lawrence,Ramone Lawrence,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+235007,82,Ramone, Lawrence,Ramone Lawrence,TRUE,3/27/2022 4:59:59,,A+,Good Job.,NO
+236081,82,Ramone, Lawrence,Ramone Lawrence,TRUE,4/3/2022 4:59:59,,A,Everything is complete,NO
+237090,82,Ramone, Lawrence,Ramone Lawrence,TRUE,4/10/2022 4:59:59,,A,Your code works.,NO
+238028,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+239060,82,Ramone, Lawrence,Ramone Lawrence,TRUE,4/17/2022 4:59:59,,B+,Good Job.,NO
+240042,82,Ramone, Lawrence,Ramone Lawrence,TRUE,4/24/2022 4:59:59,,A+,Your code works.,NO
+241029,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+242009,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+243078,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+244049,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+245009,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+246042,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+248063,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+250031,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+251064,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+252090,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+253032,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+254092,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+255016,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+256017,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+257046,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+258054,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+259062,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+260027,82,Ramone, Lawrence,Ramone Lawrence,FALSE,,,,,
+231019,83,Malaki, Pike,Malaki Pike,TRUE,3/3/2022 5:59:59,,A+,Everything is complete,NO
+232023,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+233088,83,Malaki, Pike,Malaki Pike,TRUE,3/13/2022 5:59:59,,A+,Your code works.,NO
+234094,83,Malaki, Pike,Malaki Pike,TRUE,3/20/2022 4:59:59,,C,Everything is complete,NO
+235007,83,Malaki, Pike,Malaki Pike,TRUE,3/27/2022 4:59:59,,A+,Your code works.,NO
+236081,83,Malaki, Pike,Malaki Pike,TRUE,4/3/2022 4:59:59,,A+,Good Job.,NO
+237090,83,Malaki, Pike,Malaki Pike,TRUE,4/10/2022 4:59:59,,A+,Everything is complete,NO
+238028,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+239060,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+240042,83,Malaki, Pike,Malaki Pike,TRUE,4/24/2022 4:59:59,,A-,Your code works.,NO
+241029,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+242009,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+243078,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+244049,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+245009,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+246042,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+248063,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+250031,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+251064,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+252090,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+253032,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+254092,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+255016,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+256017,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+257046,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+258054,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+259062,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+260027,83,Malaki, Pike,Malaki Pike,FALSE,,,,,
+231019,84,Annika, Johnston,Annika Johnston,TRUE,3/3/2022 5:59:59,,A+,Your code works.,NO
+232023,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+233088,84,Annika, Johnston,Annika Johnston,TRUE,3/13/2022 5:59:59,,A+,Good Job.,NO
+234094,84,Annika, Johnston,Annika Johnston,TRUE,3/20/2022 4:59:59,,A+,Good Job.,NO
+235007,84,Annika, Johnston,Annika Johnston,TRUE,3/27/2022 4:59:59,,A,Everything is complete,NO
+236081,84,Annika, Johnston,Annika Johnston,TRUE,4/3/2022 4:59:59,,A,Your code works.,NO
+237090,84,Annika, Johnston,Annika Johnston,TRUE,4/10/2022 4:59:59,,A,Good Job.,NO
+238028,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+239060,84,Annika, Johnston,Annika Johnston,TRUE,4/17/2022 4:59:59,,A+,Everything is complete,NO
+240042,84,Annika, Johnston,Annika Johnston,TRUE,4/24/2022 4:59:59,,A-,Everything is complete,NO
+241029,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+242009,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+243078,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+244049,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+245009,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+246042,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+248063,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+250031,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+251064,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+252090,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+253032,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+254092,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+255016,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+256017,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+257046,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+258054,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+259062,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+260027,84,Annika, Johnston,Annika Johnston,FALSE,,,,,
+231019,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+232023,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+233088,85,Gurleen, Chester,Gurleen Chester,TRUE,3/13/2022 5:59:59,,A+,Good Job.,NO
+234094,85,Gurleen, Chester,Gurleen Chester,TRUE,3/20/2022 4:59:59,,I,Good Job.,NO
+235007,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+236081,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+237090,85,Gurleen, Chester,Gurleen Chester,TRUE,4/10/2022 4:59:59,,A,Good Job.,NO
+238028,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+239060,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+240042,85,Gurleen, Chester,Gurleen Chester,TRUE,4/24/2022 4:59:59,,A+,Everything is complete,NO
+241029,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+242009,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+243078,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+244049,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+245009,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+246042,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+248063,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+250031,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+251064,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+252090,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+253032,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+254092,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+255016,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+256017,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+257046,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+258054,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+259062,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+260027,85,Gurleen, Chester,Gurleen Chester,FALSE,,,,,
+231019,86,Camden, Kim,Camden Kim,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+232023,86,Camden, Kim,Camden Kim,FALSE,,,,,
+233088,86,Camden, Kim,Camden Kim,TRUE,3/13/2022 5:59:59,,A,Everything is complete,NO
+234094,86,Camden, Kim,Camden Kim,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+235007,86,Camden, Kim,Camden Kim,TRUE,3/27/2022 4:59:59,,B+,Your code works.,NO
+236081,86,Camden, Kim,Camden Kim,TRUE,4/3/2022 4:59:59,,B,Good Job.,NO
+237090,86,Camden, Kim,Camden Kim,TRUE,4/10/2022 4:59:59,,A,Everything is complete,NO
+238028,86,Camden, Kim,Camden Kim,FALSE,,,,,
+239060,86,Camden, Kim,Camden Kim,FALSE,,,,,
+240042,86,Camden, Kim,Camden Kim,TRUE,4/24/2022 4:59:59,,A+,Your code works.,NO
+241029,86,Camden, Kim,Camden Kim,FALSE,,,,,
+242009,86,Camden, Kim,Camden Kim,FALSE,,,,,
+243078,86,Camden, Kim,Camden Kim,FALSE,,,,,
+244049,86,Camden, Kim,Camden Kim,FALSE,,,,,
+245009,86,Camden, Kim,Camden Kim,FALSE,,,,,
+246042,86,Camden, Kim,Camden Kim,FALSE,,,,,
+248063,86,Camden, Kim,Camden Kim,FALSE,,,,,
+250031,86,Camden, Kim,Camden Kim,FALSE,,,,,
+251064,86,Camden, Kim,Camden Kim,FALSE,,,,,
+252090,86,Camden, Kim,Camden Kim,FALSE,,,,,
+253032,86,Camden, Kim,Camden Kim,FALSE,,,,,
+254092,86,Camden, Kim,Camden Kim,FALSE,,,,,
+255016,86,Camden, Kim,Camden Kim,FALSE,,,,,
+256017,86,Camden, Kim,Camden Kim,FALSE,,,,,
+257046,86,Camden, Kim,Camden Kim,FALSE,,,,,
+258054,86,Camden, Kim,Camden Kim,FALSE,,,,,
+259062,86,Camden, Kim,Camden Kim,FALSE,,,,,
+260027,86,Camden, Kim,Camden Kim,FALSE,,,,,
+231019,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+232023,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+233088,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+234094,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+235007,87,Rocky, Rodgers,Rocky Rodgers,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+236081,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+237090,87,Rocky, Rodgers,Rocky Rodgers,TRUE,3/13/2022 5:59:59,,A,Everything is complete,NO
+238028,87,Rocky, Rodgers,Rocky Rodgers,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+239060,87,Rocky, Rodgers,Rocky Rodgers,TRUE,3/27/2022 4:59:59,,B+,Your code works.,NO
+240042,87,Rocky, Rodgers,Rocky Rodgers,TRUE,4/3/2022 4:59:59,,B,Good Job.,NO
+241029,87,Rocky, Rodgers,Rocky Rodgers,TRUE,4/10/2022 4:59:59,,A,Everything is complete,NO
+242009,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+243078,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+244049,87,Rocky, Rodgers,Rocky Rodgers,TRUE,4/24/2022 4:59:59,,A+,Your code works.,NO
+245009,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+246042,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+248063,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+250031,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+251064,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+252090,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+253032,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+254092,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+255016,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+256017,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+257046,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+258054,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+259062,87,Rocky, Rodgers,Rocky Rodgers,FALSE,,,,,
+260027,87,Rocky, Rodgers,Rocky Rodgers,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+231019,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+232023,88,Jareth, Rios,Jareth Rios,TRUE,3/13/2022 5:59:59,,A,Everything is complete,NO
+233088,88,Jareth, Rios,Jareth Rios,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+234094,88,Jareth, Rios,Jareth Rios,TRUE,3/27/2022 4:59:59,,B+,Your code works.,NO
+235007,88,Jareth, Rios,Jareth Rios,TRUE,4/3/2022 4:59:59,,B,Good Job.,NO
+236081,88,Jareth, Rios,Jareth Rios,TRUE,4/10/2022 4:59:59,,A,Everything is complete,NO
+237090,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+238028,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+239060,88,Jareth, Rios,Jareth Rios,TRUE,4/24/2022 4:59:59,,A+,Your code works.,NO
+240042,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+241029,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+242009,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+243078,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+244049,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+245009,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+246042,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+248063,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+250031,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+251064,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+252090,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+253032,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+254092,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+255016,88,Jareth, Rios,Jareth Rios,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+256017,88,Jareth, Rios,Jareth Rios,FALSE,,,,,
+257046,88,Jareth, Rios,Jareth Rios,TRUE,3/13/2022 5:59:59,,A,Everything is complete,NO
+258054,88,Jareth, Rios,Jareth Rios,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+259062,88,Jareth, Rios,Jareth Rios,TRUE,3/27/2022 4:59:59,,B+,Your code works.,NO
+260027,88,Jareth, Rios,Jareth Rios,TRUE,4/3/2022 4:59:59,,B,Good Job.,NO
+231019,89,Ahmet, Senior,Ahmet Senior,TRUE,4/10/2022 4:59:59,,A,Everything is complete,NO
+232023,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+233088,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+234094,89,Ahmet, Senior,Ahmet Senior,TRUE,4/24/2022 4:59:59,,A+,Your code works.,NO
+235007,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+236081,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+237090,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+238028,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+239060,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+240042,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+241029,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+242009,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+243078,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+244049,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+245009,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+246042,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+248063,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+250031,89,Ahmet, Senior,Ahmet Senior,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+251064,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+252090,89,Ahmet, Senior,Ahmet Senior,TRUE,3/13/2022 5:59:59,,A,Everything is complete,NO
+253032,89,Ahmet, Senior,Ahmet Senior,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+254092,89,Ahmet, Senior,Ahmet Senior,TRUE,3/27/2022 4:59:59,,B+,Your code works.,NO
+255016,89,Ahmet, Senior,Ahmet Senior,TRUE,4/3/2022 4:59:59,,B,Good Job.,NO
+256017,89,Ahmet, Senior,Ahmet Senior,TRUE,4/10/2022 4:59:59,,A,Everything is complete,NO
+257046,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+258054,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+259062,89,Ahmet, Senior,Ahmet Senior,TRUE,4/24/2022 4:59:59,,A+,Your code works.,NO
+260027,89,Ahmet, Senior,Ahmet Senior,FALSE,,,,,
+231019,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+232023,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+233088,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+234094,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+235007,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+236081,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+237090,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+238028,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+239060,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+240042,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+241029,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+242009,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+243078,90,Angelika, Brandt,Angelika Brandt,TRUE,3/3/2022 5:59:59,,A+,Good Job.,NO
+244049,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+245009,90,Angelika, Brandt,Angelika Brandt,TRUE,3/13/2022 5:59:59,,A,Everything is complete,NO
+246042,90,Angelika, Brandt,Angelika Brandt,TRUE,3/20/2022 4:59:59,,A+,Everything is complete,NO
+248063,90,Angelika, Brandt,Angelika Brandt,TRUE,3/27/2022 4:59:59,,B+,Your code works.,NO
+250031,90,Angelika, Brandt,Angelika Brandt,TRUE,4/3/2022 4:59:59,,B,Good Job.,NO
+251064,90,Angelika, Brandt,Angelika Brandt,TRUE,4/10/2022 4:59:59,,A,Everything is complete,NO
+252090,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+253032,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+254092,90,Angelika, Brandt,Angelika Brandt,TRUE,4/24/2022 4:59:59,,A+,Your code works.,NO
+255016,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+256017,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+257046,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+258054,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+259062,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,
+260027,90,Angelika, Brandt,Angelika Brandt,FALSE,,,,,

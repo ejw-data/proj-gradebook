@@ -1,0 +1,13 @@
+question_id,question_text,date_added
+1,"How would you rate your overall satisfaction with class this past week? (1 - unsatisfied, 5 - satisfied)",3/3/2020
+2,"How would you rate the pace of class? (1 - too slow, 5 - too fast)",3/3/2020
+3,"How satisfied were you with the level of academic support you received this past week? (Instructor, TA's, Learning Assistants, etc.) (1 - unsatisfied, 5 - satisfied)",3/3/2020
+4,"Do you think you are prepared to apply what you learned this past week outside of the course setting? (1 - strongly no, 5 - strongly yes)",3/3/2020
+5,"How engaging was your instructor this past week? (1 - unengaging, 5 - engaging)",3/3/2020
+6,"How clear was your instructor this past week? (1 - unclear, 5 - clear)",3/3/2020
+7,"How knowledgeable did your instructor seem to be this past week? (1 - unknowledgeable, 5 - knowledgeable)",3/3/2020
+8,"How would you rate the usefulness of the last homework feedback you received? (0 - Not Applicable, 1 - not very useful thru 5 - very useful)",3/3/2020
+9,"How many hours did you spend outside of class this past week on homework, reviewing materials, and additional learning tasks?",3/3/2020
+10,Is there anything else you would like to share regarding your class experience this past week?,3/3/2020
+11,"In what ways did your instructional team support or not support you this past week? (Instructor, TA's, Learning Assistants, etc.)",3/3/2020
+12,"Do you feel that you haved learned the current unit's content well enough that you could apply it for homework or new datasets  (1 - strongly no, 5 - strongly yes)",6/5/2020

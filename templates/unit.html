@@ -1,0 +1,159 @@
+{% extends 'layouts.html' %}
+{% set active_page = "unit" %}
+
+{% from "includes/macros.html" import header with context %}
+{% from "includes/macros.html" import card_plot with context %}
+{% from "includes/macros.html" import card_list with context %}
+
+{% block body %}
+<main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+    {{ header('Unit Information') }}
+    <div class="row mb-5">
+        <div class="col-md-8 ms-sm-auto col-lg-8">
+            {{ card_plot('Homework Submissions', 'submissions-bar') }}
+        </div>
+        <div class="col-md-4 ms-sm-auto col-lg-4">
+            {{ card_list('Most Missed Assignments', 'assignments-unknown') }}
+        </div>
+    </div>
+
+    <div class="row mb-5">
+        <div class="col-md-8 ms-sm-auto col-lg-8">
+            {{ card_plot('Absenses', 'studentChart2') }}
+        </div>
+        <div class="col-md-4 ms-sm-auto col-lg-4">
+            {{ card_list('Most Absenses', 'absenses-person') }}
+        </div>
+    </div>
+
+    <div class="row mb-5">
+        <div class="col-md-8 ms-sm-auto col-lg-8">
+            {{ card_plot('Survey Results', 'studentChart3') }}
+        </div>
+        <div class="col-md-4 ms-sm-auto col-lg-4">
+            {{ card_list('At Risk', 'at-risk') }}
+        </div>
+    </div>
+
+    <div class="row mb-5">
+        <h2>Survey Summaries: Week {{ feedback.week }}</h2>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-3 col-6">
+
+            <div class="small-box bg-info text-white">
+                <div class="inner">
+                    <h3>{{ feedback.satisfaction }}</h3>
+                    <p>Student Satisfaction</p>
+                </div>
+                <div class="icon">
+                    <i class="ion ion-happy-outline"></i>
+                </div>
+                <a href="#" class="small-box-footer">More info <i class="ion-android-arrow-dropright-circle"></i></a>
+            </div>
+        </div>
+
+        <div class="col-lg-3 col-6">
+
+            <div class="small-box bg-success text-white">
+                <div class="inner">
+                    <h3>{{ feedback.support }}</h3>
+                    <p>Academic Support</p>
+                </div>
+                <div class="icon">
+                    <i class="ion ion-person-add"></i>
+                </div>
+                <a href="#" class="small-box-footer">More info <i class="ion-android-arrow-dropright-circle"></i></a>
+            </div>
+        </div>
+
+        <div class="col-lg-3 col-6">
+
+            <div class="small-box bg-warning text-white">
+                <div class="inner">
+                    <h3>{{ feedback.pace }}</h3>
+                    <p>Pace</p>
+                </div>
+                <div class="icon">
+                    <i class="ion ion-arrow-graph-up-right"></i>
+                </div>
+                <a href="#" class="small-box-footer">More info <i class="ion-android-arrow-dropright-circle"></i></a>
+            </div>
+        </div>
+
+        <div class="col-lg-3 col-6">
+
+            <div class="small-box bg-danger text-white">
+                <div class="inner">
+                    <h3>{{ feedback.time }}</h3>
+                    <p>Time Spent Outside Class</p>
+                </div>
+                <div class="icon">
+                    <i class="ion ion-pie-graph"></i>
+                </div>
+                <a href="#" class="small-box-footer">More info <i class="ion-android-arrow-dropright-circle"></i></a>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row mb-5">
+        <h2>Survey Feedback</h2>
+    </div>
+    <div class="row">
+        <div class="col-md-12 ms-sm-auto col-lg-12">
+            <div id=feedbackTable1>
+                <div class="table-responsive">
+                    <table class="table table-striped table-sm">
+                        <thead>
+                            <tr>
+                                <th scope="col">Week</th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Instructor Comments</th>
+                                <th scope="col">Support Comments</th>
+                            </tr>
+                        </thead>
+                        <tbody id="comments"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mb-5">
+        <h2>Alerts</h2>
+    </div>
+    <div class="row mb-5">
+        <div class="col-md-12 ms-sm-auto col-lg-12">
+            <div id=feedbackTable2>
+                <div class="table-responsive">
+                    <table class="table table-striped table-sm">
+                        <thead>
+                            <tr>
+                                <th scope="col">Name</th>
+                                <th scope="col"># At-Risk Factors</th>
+                            </tr>
+                        </thead>
+                        <tbody id="alerts">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        submissionsBarChart('submissions-bar', 'Not Used Title', '/api/submission', 'Number of Students');
+        stdList('/api/missing-submission', 'assignments-unknown', 'missing')
+        lineChart('studentChart2', 'Not Used Title', '/api/absenses-unit', 'Absenses');
+        stdList('/api/absenses-person', 'absenses-person', 'missing')
+        feedbackLineChart('studentChart3', 'Not Used Title', '/api/feedback', 'Feedback');
+        stdList('/api/at-risk', 'at-risk', 'low ratings on')
+        stdTable('/api/feedback-comments', 'comments')
+        stdTable('/api/alerts', 'alerts')
+        // stdTable('feedbackTable1', 'Chart 1 of the World', x, z, 'Student Feedback');
+            // stdTable('feedbackTable2', 'Chart 1 of the World', x, z, 'Grader Feedback');
+    </script>
+</main>
+{% endblock %}

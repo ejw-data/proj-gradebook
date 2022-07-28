@@ -1,0 +1,217 @@
+cohort_id,session_id,session_name,unit_id,session_number,session_chapter,session_start,zoom_url
+3,2671305,Zen of Data,1,1,1.1,3/2/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe01
+3,2671307,Data Fundamentals in Excel,1,2,1.2,3/4/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe02
+3,2671301,Charting a New Course With Excel,1,3,1.3,3/5/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe03
+3,2671303,Fundamentals of Programming Using Visual Basic: Day 1,2,1,2.1,3/9/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe04
+3,2671297,Fundamentals of Programming Using Visual Basic: Day 2,2,2,2.2,3/11/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe05
+3,2671299,Scripting Practice in VBA,2,3,2.3,3/12/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe06
+3,2671293,Let's Begin Python,3,1,3.1,3/15/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe07
+3,2671295,"Reading, Writing, and Pyrithmetic",3,2,3.2,3/17/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe08
+3,2671321,Python Deeper Dive,3,3,3.3,3/19/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe09
+3,2671323,Introduction to Pandas & Jupyter,4,1,4.1,3/22/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe10
+3,2671317,Exploring Pandas,4,2,4.2,3/24/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe11
+3,2671319,Merging and Data Clean Project,4,3,4.3,3/26/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe12
+3,2671313,Introduction to Matplotlib,5,1,5.1,3/29/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe13
+3,2671315,Plotting With Pandas,5,2,5.2,3/31/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe14
+3,2671309,Introduction to Statistics,5,3,5.3,4/2/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe15
+3,2671311,APIs,6,1,6.1,4/5/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe16
+3,2671284,Working with Weather & City APIs,6,2,6.2,4/7/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe17
+3,2671286,APIs and Geospatial Data Visualization,6,3,6.3,4/9/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe18
+3,2671280,Project 1 & Collaboration with Git,7,1,7.1,4/12/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe19
+3,2671282,Project 1 & Pulling and Merging with Git,7,2,7.2,4/14/2022,
+3,2671277,Project 1 & Hypothesis Testing and Statistical Tests,7,3,7.3,4/16/2022,
+3,2671279,Project 1 & Install PostgreSQL and pgAdmin,8,1,8.1,4/19/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe22
+3,2671275,Project 1 Work Day,8,2,8.2,4/21/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe23
+3,2671276,Project 1 Presentations,8,3,8.3,4/23/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe24
+3,2671273,Introduction to SQL,9,1,9.1,4/26/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe25
+3,2671274,Advanced SQL Queries,9,2,9.2,4/28/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe26
+3,2671271,Data Modeling,9,3,9.3,4/30/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe27
+3,2671272,Introduction to SQLAlchemy,10,1,10.1,5/3/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe28
+3,2671264,Advanced Usage of the SQLAlchemy ORM,10,2,10.2,5/5/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe29
+3,2671265,Introduction to Flask & Serving Data with APIs,10,3,10.3,5/7/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe30
+3,2671262,Introduction to HTML,11,1,11.1,5/10/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe31
+3,2671263,Introduction to GitHub Pages and CSS,11,2,11.2,5/12/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe32
+3,2671270,Bootstrap,11,3,11.3,5/14/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe33
+3,2671268,Mastering MongoDB,12,1,12.1,5/17/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe34
+3,2671269,Web Scraping,12,2,12.2,5/19/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe35
+3,2671266,Rendering Your Data With Flask,12,3,12.3,5/21/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe36
+3,2671267,"Project 2 & A Case Study of Extract, Transform, Load",13,1,13.1,5/24/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe37
+3,2671306,Project 2 Work Day 1,13,2,13.2,5/26/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe38
+3,2671308,Project 2 Work Day 2,13,3,13.3,5/31/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe39
+3,2671302,Intro to JavaScript and Plotly,14,1,14.1,6/2/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe40
+3,2671304,Functional Programming for Data Processing in JavaScript,14,2,14.2,6/4/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe41
+3,2671298,AJAX and Event Handling with D3,14,3,14.3,6/7/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe42
+3,2671300,Data Visualization with Leaflet,15,1,15.1,6/9/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe43
+3,2671294,GeoJSON and Leaflet Plugins,15,2,15.2,6/11/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe44
+3,2671296,Citi Bike Project with Leaflet and Intro to Projects,15,3,15.3,6/14/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe45
+3,2671322,Project 3 & R We There Yet,16,1,16.1,6/16/2022,
+3,2671324,Project 3 & Tibbles R Terrific,16,2,16.2,6/18/2022,
+3,2671318,Project 3 Work Day 1,16,3,16.3,6/21/2022,
+3,2671320,Project 3 Work Day 2,17,1,17.1,6/23/2022,
+3,2671314,Project 3 Work Day 3,17,2,17.2,6/25/2022,
+3,2671316,Project 3 Presentations,17,3,17.3,6/28/2022,
+3,2671310,Introduction to Tableau,18,1,18.1,6/30/2022,
+3,2671312,Deeper into Tableau,18,2,18.2,7/5/2022,
+3,2671285,Tableau Mini Projects,18,3,18.3,7/7/2022,
+3,2671287,Intro to Supervised Learning,19,1,19.1,7/9/2022,
+3,2671281,Classification Models,19,2,19.2,7/12/2022,
+3,2671283,Ensemble Methods and Regressions,19,3,19.3,7/14/2022,
+3,2671278,Introduction to Unsupervised Learning,20,1,20.1,7/16/2022,
+3,2671292,Diving Deeper into Unsupervised Learning,20,2,20.2,7/19/2022,
+3,2671290,Introduction to Advanced Machine Learning,21,1,21.1,7/21/2022,
+3,2671291,Neural Network Models in the Real World,21,2,21.2,7/23/2022,
+3,2671288,Deploying Machine Learning,21,3,21.3,7/26/2022,
+3,2671289,Introduction to Big Data,22,1,22.1,7/28/2022,
+3,2671331,Big Data in the Cloud,22,2,22.2,7/30/2022,
+3,2671332,Cloud ETL,22,3,22.3,8/2/2022,
+3,2671329,DataBricks,22,4,22.4,8/4/2022,
+3,2671330,Project 4 & Convolutional Neural Networks Day 1,23,1,23.1,8/6/2022,
+3,2671327,Project 4 & Convolutional Neural Networks Day 2,23,2,23.2,8/9/2022,
+3,2671328,Project 4 Work Day 1,23,3,23.3,8/11/2022,
+3,2671325,Project 4 Work Day 2,24,1,24.1,8/13/2022,
+3,2671326,Project 4 Work Day 3,24,2,24.2,8/16/2022,
+3,2671333,Project 4 Presentations,24,3,24.3,8/18/2022,
+2,2571305,Zen of Data,1,1,1.1,9/8/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe74
+2,2571307,Data Fundamentals in Excel,1,2,1.2,9/10/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe75
+2,2571301,Charting a New Course With Excel,1,3,1.3,9/12/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe76
+2,2571303,Fundamentals of Programming Using Visual Basic: Day 1,2,1,2.1,9/14/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe77
+2,2571297,Fundamentals of Programming Using Visual Basic: Day 2,2,2,2.2,9/16/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe78
+2,2571299,Scripting Practice in VBA,2,3,2.3,9/18/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe79
+2,2571293,Let's Begin Python,3,1,3.1,9/20/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe80
+2,2571295,"Reading, Writing, and Pyrithmetic",3,2,3.2,9/22/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe81
+2,2571321,Python Deeper Dive,3,3,3.3,9/24/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe82
+2,2571323,Introduction to Pandas & Jupyter,4,1,4.1,9/26/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe83
+2,2571317,Exploring Pandas,4,2,4.2,9/28/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe84
+2,2571319,Merging and Data Clean Project,4,3,4.3,9/30/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe85
+2,2571313,Introduction to Matplotlib,5,1,5.1,10/2/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe86
+2,2571315,Plotting With Pandas,5,2,5.2,10/4/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe87
+2,2571309,Introduction to Statistics,5,3,5.3,10/6/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe88
+2,2571311,APIs,6,1,6.1,10/8/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe89
+2,2571284,Working with Weather & City APIs,6,2,6.2,10/10/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe90
+2,2571286,APIs and Geospatial Data Visualization,6,3,6.3,10/12/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe91
+2,2571280,Project 1 & Collaboration with Git,7,1,7.1,10/14/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe92
+2,2571282,Project 1 & Pulling and Merging with Git,7,2,7.2,10/16/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe93
+2,2571277,Project 1 & Hypothesis Testing and Statistical Tests,7,3,7.3,10/18/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe94
+2,2571279,Project 1 & Install PostgreSQL and pgAdmin,8,1,8.1,10/20/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe95
+2,2571275,Project 1 Work Day,8,2,8.2,10/22/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe96
+2,2571276,Project 1 Presentations,8,3,8.3,10/24/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe97
+2,2571273,Introduction to SQL,9,1,9.1,10/26/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe98
+2,2571274,Advanced SQL Queries,9,2,9.2,10/28/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe99
+2,2571271,Data Modeling,9,3,9.3,10/30/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe100
+2,2571272,Introduction to SQLAlchemy,10,1,10.1,11/1/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe101
+2,2571264,Advanced Usage of the SQLAlchemy ORM,10,2,10.2,11/3/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe102
+2,2571265,Introduction to Flask & Serving Data with APIs,10,3,10.3,11/5/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe103
+2,2571262,Introduction to HTML,11,1,11.1,11/7/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe104
+2,2571263,Introduction to GitHub Pages and CSS,11,2,11.2,11/9/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe105
+2,2571270,Bootstrap,11,3,11.3,11/11/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe106
+2,2571268,Mastering MongoDB,12,1,12.1,11/13/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe107
+2,2571269,Web Scraping,12,2,12.2,11/15/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe108
+2,2571266,Rendering Your Data With Flask,12,3,12.3,11/17/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe109
+2,2571267,"Project 2 & A Case Study of Extract, Transform, Load",13,1,13.1,11/19/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe110
+2,2571306,Project 2 Work Day 1,13,2,13.2,11/21/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe111
+2,2571308,Project 2 Work Day 2,13,3,13.3,11/23/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe112
+2,2571302,Intro to JavaScript and Plotly,14,1,14.1,11/25/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe113
+2,2571304,Functional Programming for Data Processing in JavaScript,14,2,14.2,11/27/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe114
+2,2571298,AJAX and Event Handling with D3,14,3,14.3,11/29/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe115
+2,2571300,Data Visualization with Leaflet,15,1,15.1,12/1/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe116
+2,2571294,GeoJSON and Leaflet Plugins,15,2,15.2,12/3/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe117
+2,2571296,Citi Bike Project with Leaflet and Intro to Projects,15,3,15.3,12/5/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe118
+2,2571322,Project 3 & R We There Yet,16,1,16.1,12/7/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe119
+2,2571324,Project 3 & Tibbles R Terrific,16,2,16.2,12/9/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe120
+2,2571318,Project 3 Work Day 1,16,3,16.3,12/11/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe121
+2,2571320,Project 3 Work Day 2,17,1,17.1,12/13/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe122
+2,2571314,Project 3 Work Day 3,17,2,17.2,12/15/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe123
+2,2571316,Project 3 Presentations,17,3,17.3,12/17/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe124
+2,2571310,Introduction to Tableau,18,1,18.1,12/19/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe125
+2,2571312,Deeper into Tableau,18,2,18.2,12/21/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe126
+2,2571285,Tableau Mini Projects,18,3,18.3,12/23/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe127
+2,2571287,Intro to Supervised Learning,19,1,19.1,12/25/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe128
+2,2571281,Classification Models,19,2,19.2,12/27/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe129
+2,2571283,Ensemble Methods and Regressions,19,3,19.3,12/29/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe130
+2,2571278,Introduction to Unsupervised Learning,20,1,20.1,12/31/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe131
+2,2571292,Diving Deeper into Unsupervised Learning,20,2,20.2,1/2/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe132
+2,2571290,Introduction to Advanced Machine Learning,21,1,21.1,1/4/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe133
+2,2571291,Neural Network Models in the Real World,21,2,21.2,1/6/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe134
+2,2571288,Deploying Machine Learning,21,3,21.3,1/8/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe135
+2,2571289,Introduction to Big Data,22,1,22.1,1/10/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe136
+2,2571331,Big Data in the Cloud,22,2,22.2,1/12/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe137
+2,2571332,Cloud ETL,22,3,22.3,1/14/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe138
+2,2571329,DataBricks,22,4,22.4,1/16/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe139
+2,2571330,Project 4 & Convolutional Neural Networks Day 1,23,1,23.1,1/18/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe140
+2,2571327,Project 4 & Convolutional Neural Networks Day 2,23,2,23.2,1/20/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe141
+2,2571328,Project 4 Work Day 1,23,3,23.3,1/22/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe142
+2,2571325,Project 4 Work Day 2,24,1,24.1,1/24/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe143
+2,2571326,Project 4 Work Day 3,24,2,24.2,1/26/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe144
+2,2571333,Project 4 Presentations,24,3,24.3,1/28/2022,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe145
+1,2471305,Zen of Data,1,1,1.1,3/7/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe146
+1,2471307,Data Fundamentals in Excel,1,2,1.2,3/9/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe147
+1,2471301,Charting a New Course With Excel,1,3,1.3,3/11/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe148
+1,2471303,Fundamentals of Programming Using Visual Basic: Day 1,2,1,2.1,3/13/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe149
+1,2471297,Fundamentals of Programming Using Visual Basic: Day 2,2,2,2.2,3/15/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe150
+1,2471299,Scripting Practice in VBA,2,3,2.3,3/17/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe151
+1,2471293,Let's Begin Python,3,1,3.1,3/19/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe152
+1,2471295,"Reading, Writing, and Pyrithmetic",3,2,3.2,3/21/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe153
+1,2471321,Python Deeper Dive,3,3,3.3,3/23/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe154
+1,2471323,Introduction to Pandas & Jupyter,4,1,4.1,3/25/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe155
+1,2471317,Exploring Pandas,4,2,4.2,3/27/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe156
+1,2471319,Merging and Data Clean Project,4,3,4.3,3/29/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe157
+1,2471313,Introduction to Matplotlib,5,1,5.1,3/31/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe158
+1,2471315,Plotting With Pandas,5,2,5.2,4/2/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe159
+1,2471309,Introduction to Statistics,5,3,5.3,4/4/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe160
+1,2471311,APIs,6,1,6.1,4/6/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe161
+1,2471284,Working with Weather & City APIs,6,2,6.2,4/8/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe162
+1,2471286,APIs and Geospatial Data Visualization,6,3,6.3,4/10/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe163
+1,2471280,Project 1 & Collaboration with Git,7,1,7.1,4/12/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe164
+1,2471282,Project 1 & Pulling and Merging with Git,7,2,7.2,4/14/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe165
+1,2471277,Project 1 & Hypothesis Testing and Statistical Tests,7,3,7.3,4/16/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe166
+1,2471279,Project 1 & Install PostgreSQL and pgAdmin,8,1,8.1,4/18/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe167
+1,2471275,Project 1 Work Day,8,2,8.2,4/20/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe168
+1,2471276,Project 1 Presentations,8,3,8.3,4/22/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe169
+1,2471273,Introduction to SQL,9,1,9.1,4/24/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe170
+1,2471274,Advanced SQL Queries,9,2,9.2,4/26/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe171
+1,2471271,Data Modeling,9,3,9.3,4/28/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe172
+1,2471272,Introduction to SQLAlchemy,10,1,10.1,4/30/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe173
+1,2471264,Advanced Usage of the SQLAlchemy ORM,10,2,10.2,5/2/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe174
+1,2471265,Introduction to Flask & Serving Data with APIs,10,3,10.3,5/4/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe175
+1,2471262,Introduction to HTML,11,1,11.1,5/6/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe176
+1,2471263,Introduction to GitHub Pages and CSS,11,2,11.2,5/8/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe177
+1,2471270,Bootstrap,11,3,11.3,5/10/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe178
+1,2471268,Mastering MongoDB,12,1,12.1,5/12/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe179
+1,2471269,Web Scraping,12,2,12.2,5/14/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe180
+1,2471266,Rendering Your Data With Flask,12,3,12.3,5/16/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe181
+1,2471267,"Project 2 & A Case Study of Extract, Transform, Load",13,1,13.1,5/18/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe182
+1,2471306,Project 2 Work Day 1,13,2,13.2,5/20/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe183
+1,2471308,Project 2 Work Day 2,13,3,13.3,5/22/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe184
+1,2471302,Intro to JavaScript and Plotly,14,1,14.1,5/24/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe185
+1,2471304,Functional Programming for Data Processing in JavaScript,14,2,14.2,5/26/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe186
+1,2471298,AJAX and Event Handling with D3,14,3,14.3,5/28/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe187
+1,2471300,Data Visualization with Leaflet,15,1,15.1,5/30/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe188
+1,2471294,GeoJSON and Leaflet Plugins,15,2,15.2,6/1/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe189
+1,2471296,Citi Bike Project with Leaflet and Intro to Projects,15,3,15.3,6/3/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe190
+1,2471322,Project 3 & R We There Yet,16,1,16.1,6/5/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe191
+1,2471324,Project 3 & Tibbles R Terrific,16,2,16.2,6/7/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe192
+1,2471318,Project 3 Work Day 1,16,3,16.3,6/9/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe193
+1,2471320,Project 3 Work Day 2,17,1,17.1,6/11/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe194
+1,2471314,Project 3 Work Day 3,17,2,17.2,6/13/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe195
+1,2471316,Project 3 Presentations,17,3,17.3,6/15/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe196
+1,2471310,Introduction to Tableau,18,1,18.1,6/17/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe197
+1,2471312,Deeper into Tableau,18,2,18.2,6/19/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe198
+1,2471285,Tableau Mini Projects,18,3,18.3,6/21/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe199
+1,2471287,Intro to Supervised Learning,19,1,19.1,6/23/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe200
+1,2471281,Classification Models,19,2,19.2,6/25/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe201
+1,2471283,Ensemble Methods and Regressions,19,3,19.3,6/27/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe202
+1,2471278,Introduction to Unsupervised Learning,20,1,20.1,6/29/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe203
+1,2471292,Diving Deeper into Unsupervised Learning,20,2,20.2,7/1/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe204
+1,2471290,Introduction to Advanced Machine Learning,21,1,21.1,7/3/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe205
+1,2471291,Neural Network Models in the Real World,21,2,21.2,7/5/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe206
+1,2471288,Deploying Machine Learning,21,3,21.3,7/7/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe207
+1,2471289,Introduction to Big Data,22,1,22.1,7/9/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe208
+1,2471331,Big Data in the Cloud,22,2,22.2,7/11/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe209
+1,2471332,Cloud ETL,22,3,22.3,7/13/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe210
+1,2471329,DataBricks,22,4,22.4,7/15/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe211
+1,2471330,Project 4 & Convolutional Neural Networks Day 1,23,1,23.1,7/17/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe212
+1,2471327,Project 4 & Convolutional Neural Networks Day 2,23,2,23.2,7/19/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe213
+1,2471328,Project 4 Work Day 1,23,3,23.3,7/21/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe214
+1,2471325,Project 4 Work Day 2,24,1,24.1,7/23/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe215
+1,2471326,Project 4 Work Day 3,24,2,24.2,7/25/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe216
+1,2471333,Project 4 Presentations,24,3,24.3,7/27/2021,https://zoom.us/rec/share/mu17gMzpQnEpq7WOl4CSe217
